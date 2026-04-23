@@ -196,9 +196,9 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 
 Use GPT Image 2 to build a scene setting image, then let Seedance 2.0 animate freely. Comparing constrained (storyboard-guided) and free-form (prompt-only) outputs helps decide the right approach per shot.
 
-![Character case 4 storyboard controlled](https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a)
+![Character case 4 output 1](https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a)
 
-![Character case 4 free animation](https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019)
+![Character case 4 output 2](https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019)
 
 **Steps:**
 
