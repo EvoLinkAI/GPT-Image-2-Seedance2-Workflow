@@ -3,7 +3,11 @@
 <img src="images/logo.png" alt="GPT Image 2 × Seedance 2.0 Workflow Guide">
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2)
+[![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -37,14 +41,7 @@ Try it on Evolink: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=gi
 
 If you find this useful, consider giving it a star. ⭐
 
-[![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
-[![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
-[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
-[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
 
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Try%20it%20-black' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🌐 Website-orange' height="25"></a>
-<a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/📘 Docs-blue' height="25"></a>
 
 ## 📰 News
 
@@ -544,17 +541,6 @@ Step 3: Add your Seedance prompt → generate
 
 <a href='https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Get%20Started-Evolink-black' height="25"></a>
 
-## 🖼️ Gallery
-
-Curated examples from the community. Click the preview to view the original post.
-
-| Preview | Author | Workflow | Engagement |
-| :-----: | :----: | :------: | :--------: |
-| [![▶ Watch](images/gallery/szounft_tokyo.jpg)](https://x.com/szounft/status/2047217127728480380) | [@szounft](https://x.com/szounft) | Higgsfield × GPT Image 2 × Seedance 2.0 | Three-tool combo |
-| [![App MVP Demo](images/gallery/shin_app.jpg)](https://x.com/Shin_Engineer/status/2047182050323812381) | [@Shin_Engineer](https://x.com/Shin_Engineer) | GPT Image 2 UI → Seedance 2.0 | 118 likes / 8034 views |
-| [![Cyberpunk Style Short Film](images/gallery/ponyodong_cyberpunk.jpg)](https://x.com/ponyodong/status/2047210987263230133) | [@ponyodong](https://x.com/ponyodong) | GPT Image 2 → Seedance 2.0 | 9 likes / 137 views |
-| [![Recipe & Food Visual](images/gallery/patata_food.jpg)](https://x.com/patata1216/status/2047189259929731135) | [@patata1216](https://x.com/patata1216) | GPT Image 2 → CapCut Seedance 2.0 | Food creator workflow |
-| [![Water Margin Interactive Film](images/gallery/peter_game.jpg)](https://x.com/peter6759/status/2047130834180903166) | [@peter6759](https://x.com/peter6759) | GPT Image 2 → Seedance 2.0 interaction | Black Myth style |
 
 ## 🙏 Acknowledge
 
