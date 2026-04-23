@@ -4,8 +4,6 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2)
-[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -39,8 +37,10 @@ Try it on Evolink: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=gi
 
 If you find this useful, consider giving it a star. ⭐
 
-> [!NOTE]
-> Every case includes step-by-step instructions and the exact prompts used. GPT Image 2 Prompt is what you send to generate the storyboard image. Seedance 2.0 Prompt is what you send to animate it.
+[![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
 
 <a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Try%20it%20-black' height="25"></a>
 <a href='https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🌐 Website-orange' height="25"></a>
@@ -49,7 +49,6 @@ If you find this useful, consider giving it a star. ⭐
 ## 📰 News
 
 - **April 23, 2026:** Repository launched with 9 curated workflow cases
-- **April 23, 2026:** GPT Image 2 and Seedance 2.0 are now available together on Evolink
 
 ## 📑 Menu
 
@@ -84,11 +83,10 @@ If you find this useful, consider giving it a star. ⭐
 
 The most common workflow. Use GPT Image 2 to generate a storyboard panel, then animate it with Seedance 2.0. Best for promotional videos, short dramas, and animation OPs.
 
-| Output |
-| :----: |
-| <img src="images/storyboard_case1/output.jpg" width="500" alt="Storyboard output panel"> |
-
-<video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="600" controls></video>
+<table><tr>
+<td align="center"><img src="images/storyboard_case1/output.jpg" width="400" alt="Storyboard output panel"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="400" controls></video></td>
+</tr></table>
 
 **Steps:**
 
@@ -118,11 +116,10 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 
 A key technique discovered by the community: composing all storyboard panels into a single 3×3 grid image before importing to Seedance significantly reduces failure rate compared to importing frames one by one.
 
-
-https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b
-
-
-
+<table><tr>
+<td align="center"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 grid storyboard output"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b" width="400" controls></video></td>
+</tr></table>
 
 
 
@@ -157,17 +154,16 @@ Output as a single image with all 9 panels arranged in a grid.
 
 Generate a character three-view sheet (front, side, back) with GPT Image 2, then use it as an anchor for animation in Seedance 2.0. Ideal for anime characters, game characters, and figure reveals.
 
-| Input |
-| :---: |
-| <img src="images/character_case3/input0.jpg" width="300" alt="Character sheet front"> |
-| <img src="images/character_case3/input1.jpg" width="300" alt="Character sheet side"> |
-| <img src="images/character_case3/input2.jpg" width="300" alt="Equipment sheet"> |
+<table><tr>
+<td align="center"><img src="images/character_case3/input0.jpg" width="260" alt="Character sheet front"></td>
+<td align="center"><img src="images/character_case3/input1.jpg" width="260" alt="Character sheet side"></td>
+<td align="center"><img src="images/character_case3/input2.jpg" width="260" alt="Equipment sheet"></td>
+</tr></table>
 
-| Output |
-| :----: |
-| <img src="images/character_case3/output.jpg" width="300" alt="Combined character sheet with equipment"> |
-
-<video src="https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f" width="600" controls></video>
+<table><tr>
+<td align="center"><img src="images/character_case3/output.jpg" width="400" alt="Combined character sheet with equipment"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f" width="400" controls></video></td>
+</tr></table>
 
 **Steps:**
 
@@ -202,9 +198,11 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 
 Use GPT Image 2 to build a scene setting image, then let Seedance 2.0 animate freely. Comparing constrained (storyboard-guided) and free-form (prompt-only) outputs helps decide the right approach per shot.
 
-<video src="https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a" width="600" controls></video>
-
-<video src="https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019" width="600" controls></video>
+<table><tr>
+<td align="center"><img src="images/character_case4/output0.jpg" width="280" alt="Anime OP output 1"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a" width="280" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019" width="280" controls></video></td>
+</tr></table>
 
 **Steps:**
 
@@ -240,9 +238,12 @@ Use GPT Image 2 to generate finished-looking UI screenshots of an app that doesn
 | Output |
 | :----: |
 | <img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 1"> |
-| <img src="images/app_case5/output1.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 2"> |
-| <img src="images/app_case5/output2.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 3"> |
-| <img src="images/app_case5/output3.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 4"> |
+
+<table><tr>
+<td align="center"><img src="images/app_case5/output1.jpg" width="220" alt="App UI screenshot 2"></td>
+<td align="center"><img src="images/app_case5/output2.jpg" width="220" alt="App UI screenshot 3"></td>
+<td align="center"><img src="images/app_case5/output3.jpg" width="220" alt="App UI screenshot 4"></td>
+</tr></table>
 
 **Steps:**
 
@@ -276,7 +277,10 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 
 Two-step workflow: GPT Image 2 generates the hero image and matching storyboard, then Seedance 2.0 animates each clip. Assemble with captions and music for a complete 15-second spot.
 
-<video src="https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3" width="600" controls></video>
+<table><tr>
+<td align="center"><img src="images/commercial_case6/output.jpg" width="400" alt="Commercial output image"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3" width="400" controls></video></td>
+</tr></table>
 
 **Steps:**
 
@@ -318,11 +322,11 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 
 Three-tool combination: GPT Image 2 for visuals, Seedance 2.0 for motion, Suno for music. Produce music first to lock the tempo and structure, then design storyboards that align to the beat.
 
-| Input |
-| :---: |
-| <img src="images/music_case7/input.jpg" width="300" alt="GPT Image 2 generated storyboard for MV"> |
-
-<video src="https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201" width="600" controls></video>
+<table><tr>
+<td align="center"><img src="images/music_case7/input.jpg" width="280" alt="GPT Image 2 generated storyboard for MV"></td>
+<td align="center"><img src="images/music_case7/output.jpg" width="280" alt="Music video output frame"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201" width="280" controls></video></td>
+</tr></table>
 
 **Steps:**
 
@@ -355,11 +359,11 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 
 Use GPT Image 2 to establish a consistent visual style (cyberpunk, neon, lanterns, feminine aesthetic), then animate each image with Seedance 2.0 to produce a short stylized film that lands between wallpaper, poster, and story opening.
 
-| Input |
-| :---: |
-| <img src="images/cyberpunk_case8/input.jpg" width="300" alt="GPT Image 2 generated cyberpunk illustration"> |
-
-<video src="https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d" width="600" controls></video>
+<table><tr>
+<td align="center"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2 generated cyberpunk illustration"></td>
+<td align="center"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Cyberpunk output frame"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d" width="280" controls></video></td>
+</tr></table>
 
 **Steps:**
 
@@ -389,7 +393,10 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 
 Use GPT Image 2 to generate game-style UI images (with HUD elements, skill bars, choice overlays), then animate them in Seedance 2.0 to simulate interactive game sequences. Game and illustration styles face fewer content restrictions in Seedance than realistic human footage.
 
-<video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="600" controls></video>
+<table><tr>
+<td align="center"><img src="images/game_case9/output.jpg" width="400" alt="Game UI output image"></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
+</tr></table>
 
 **Steps:**
 
