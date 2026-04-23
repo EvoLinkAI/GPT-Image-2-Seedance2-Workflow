@@ -118,9 +118,8 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 
 A key technique discovered by the community: composing all storyboard panels into a single 3×3 grid image before importing to Seedance significantly reduces failure rate compared to importing frames one by one.
 
-| Output |
-| :----: |
-|https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b|
+
+https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b
 
 
 
