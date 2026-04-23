@@ -1,0 +1,8 @@
+# Raw data
+*.json
+
+# Planning docs (internal)
+PLAN.md
+
+# System
+.DS_Store
