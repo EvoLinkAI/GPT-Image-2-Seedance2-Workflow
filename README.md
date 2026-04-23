@@ -120,7 +120,12 @@ A key technique discovered by the community: composing all storyboard panels int
 
 | Output |
 | :----: |
-| [![▶ Watch output video](images/storyboard_case2/output.jpg)](https://x.com/servasyy_ai/status/2047198012750143999) |
+|https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b|
+
+
+
+
+
 
 **Steps:**
 
