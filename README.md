@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo.jpg" alt="GPT Image 2 × Seedance 2.0 Workflow Guide">
+<img src="images/logo.png" alt="GPT Image 2 × Seedance 2.0 Workflow Guide">
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2)
@@ -82,7 +82,7 @@ The most common workflow. Use GPT Image 2 to generate a storyboard panel, then a
 
 | Output |
 | :----: |
-| ![Output video](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/storyboard_case1.mp4) |
+| [![▶ Watch output video](images/storyboard_case1/output.jpg)](https://x.com/kiyoshi_shin) |
 
 **Steps:**
 
@@ -114,7 +114,7 @@ A key technique discovered by the community: composing all storyboard panels int
 
 | Output |
 | :----: |
-| ![Output video](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/storyboard_case2.mp4) |
+| [![▶ Watch output video](images/storyboard_case2/output.jpg)](https://x.com/servasyy_ai) |
 
 **Steps:**
 
@@ -150,7 +150,7 @@ Generate a character three-view sheet (front, side, back) with GPT Image 2, then
 | Input | Output |
 | :---: | :----: |
 | <img src="images/character_case3/input0.jpg" width="300" alt="Character sheet front"> | <img src="images/character_case3/output.jpg" width="300" alt="Combined character sheet with equipment"> |
-| <img src="images/character_case3/input1.jpg" width="300" alt="Character sheet side"> | ![Output video](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/character_case3.mp4) |
+| <img src="images/character_case3/input1.jpg" width="300" alt="Character sheet side"> | [![▶ Watch output video](images/character_case3/output_video.jpg)](https://x.com/YaReYaRu30Life) |
 | <img src="images/character_case3/input2.jpg" width="300" alt="Equipment sheet"> | |
 
 **Steps:**
@@ -188,8 +188,8 @@ Use GPT Image 2 to build a scene setting image, then let Seedance 2.0 animate fr
 
 | Output |
 | :----: |
-| ![Storyboard controlled output](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/character_case4_0.mp4) |
-| ![Free animation output](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/character_case4_1.mp4) |
+| [![▶ Storyboard controlled](images/character_case4/output0.jpg)](https://x.com/Toshi_nyaruo_AI) |
+| [![▶ Free animation](images/character_case4/output1.jpg)](https://x.com/Toshi_nyaruo_AI) |
 
 **Steps:**
 
@@ -263,7 +263,7 @@ Two-step workflow: GPT Image 2 generates the hero image and matching storyboard,
 
 | Output |
 | :----: |
-| ![Output video](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/commercial_case6.mp4) |
+| [![▶ Watch output video](images/commercial_case6/output.jpg)](https://x.com/ai_mitosan) |
 
 **Steps:**
 
@@ -307,7 +307,7 @@ Three-tool combination: GPT Image 2 for visuals, Seedance 2.0 for motion, Suno f
 
 | Input | Output |
 | :---: | :----: |
-| <img src="images/music_case7/input.jpg" width="300" alt="GPT Image 2 generated storyboard for MV"> | ![Output video](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/music_case7.mp4) |
+| <img src="images/music_case7/input.jpg" width="300" alt="GPT Image 2 generated storyboard for MV"> | [![▶ Watch output video](images/music_case7/output.jpg)](https://x.com/fukaborichannel) |
 
 **Steps:**
 
@@ -342,7 +342,7 @@ Use GPT Image 2 to establish a consistent visual style (cyberpunk, neon, lantern
 
 | Input | Output |
 | :---: | :----: |
-| <img src="images/cyberpunk_case8/input.jpg" width="300" alt="GPT Image 2 generated cyberpunk illustration"> | ![Output video](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/cyberpunk_case8.mp4) |
+| <img src="images/cyberpunk_case8/input.jpg" width="300" alt="GPT Image 2 generated cyberpunk illustration"> | [![▶ Watch output video](images/cyberpunk_case8/output.jpg)](https://x.com/ponyodong) |
 
 **Steps:**
 
@@ -374,7 +374,7 @@ Use GPT Image 2 to generate game-style UI images (with HUD elements, skill bars,
 
 | Output |
 | :----: |
-| ![Output video](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/game_case9.mp4) |
+| [![▶ Watch output video](images/game_case9/output.jpg)](https://x.com/AbleGPT) |
 
 **Steps:**
 
@@ -528,7 +528,7 @@ Curated examples from the community. Click the preview to view the original post
 
 | Preview | Author | Workflow | Engagement |
 | :-----: | :----: | :------: | :--------: |
-| ![2029 IF TOKYO Sci-fi Short](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/releases/download/v1.0.0/gallery_szounft.mp4) | [@szounft](https://x.com/szounft) | Higgsfield × GPT Image 2 × Seedance 2.0 | Three-tool combo |
+| [![▶ Watch](images/gallery/szounft_tokyo.jpg)](https://x.com/szounft/status/2047217127728480380) | [@szounft](https://x.com/szounft) | Higgsfield × GPT Image 2 × Seedance 2.0 | Three-tool combo |
 | [![App MVP Demo](images/gallery/shin_app.jpg)](https://x.com/Shin_Engineer) | [@Shin_Engineer](https://x.com/Shin_Engineer) | GPT Image 2 UI → Seedance 2.0 | 118 likes / 8034 views |
 | [![Cyberpunk Style Short Film](images/gallery/ponyodong_cyberpunk.jpg)](https://x.com/ponyodong) | [@ponyodong](https://x.com/ponyodong) | GPT Image 2 → Seedance 2.0 | 9 likes / 137 views |
 | [![Recipe & Food Visual](images/gallery/patata_food.jpg)](https://x.com/patata1216) | [@patata1216](https://x.com/patata1216) | GPT Image 2 → CapCut Seedance 2.0 | Food creator workflow |
