@@ -80,13 +80,15 @@ If you find this useful, consider giving it a star. ⭐
 ## 🎥 Storyboard Workflows
 
 <!-- Case 1: Standard Storyboard → Video (by @kiyoshi_shin) -->
-### Case 1: [Standard Storyboard → Video](https://x.com/kiyoshi_shin) (by [@kiyoshi_shin](https://x.com/kiyoshi_shin))
+### Case 1: [Standard Storyboard → Video](https://x.com/kiyoshi_shin/status/2047133524403400847) (by [@kiyoshi_shin](https://x.com/kiyoshi_shin))
 
 The most common workflow. Use GPT Image 2 to generate a storyboard panel, then animate it with Seedance 2.0. Best for promotional videos, short dramas, and animation OPs.
 
 | Output |
 | :----: |
-| [![▶ Watch output video](images/storyboard_case1/output.jpg)](https://x.com/kiyoshi_shin) |
+| <img src="images/storyboard_case1/output.jpg" width="500" alt="Storyboard output panel"> |
+
+<video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="600" controls></video>
 
 **Steps:**
 
@@ -112,13 +114,13 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 > Output storyboard images in 16:9 to avoid Seedance auto-cropping. Set frame rate to 24fps to match film standards. Keep each storyboard panel simple — the simpler the content, the more accurate the motion output.
 
 <!-- Case 2: 3×3 Grid Storyboard Method (by @servasyy_ai) -->
-### Case 2: [3×3 Grid Storyboard Method](https://x.com/servasyy_ai) (by [@servasyy_ai](https://x.com/servasyy_ai))
+### Case 2: [3×3 Grid Storyboard Method](https://x.com/servasyy_ai/status/2047198012750143999) (by [@servasyy_ai](https://x.com/servasyy_ai))
 
 A key technique discovered by the community: composing all storyboard panels into a single 3×3 grid image before importing to Seedance significantly reduces failure rate compared to importing frames one by one.
 
 | Output |
 | :----: |
-| [![▶ Watch output video](images/storyboard_case2/output.jpg)](https://x.com/servasyy_ai) |
+| [![▶ Watch output video](images/storyboard_case2/output.jpg)](https://x.com/servasyy_ai/status/2047198012750143999) |
 
 **Steps:**
 
@@ -147,7 +149,7 @@ Output as a single image with all 9 panels arranged in a grid.
 ## 🎨 Character & Animation
 
 <!-- Case 3: Character Sheet → Animation (by @YaReYaRu30Life) -->
-### Case 3: [Character Sheet → Animation](https://x.com/YaReYaRu30Life) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
+### Case 3: [Character Sheet → Animation](https://x.com/YaReYaRu30Life/status/2047203375314571501) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
 Generate a character three-view sheet (front, side, back) with GPT Image 2, then use it as an anchor for animation in Seedance 2.0. Ideal for anime characters, game characters, and figure reveals.
 
@@ -192,7 +194,7 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 ```
 
 <!-- Case 4: Anime OP Style Video (by @Toshi_nyaruo_AI) -->
-### Case 4: [Anime OP Style Video](https://x.com/Toshi_nyaruo_AI) (by [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI))
+### Case 4: [Anime OP Style Video](https://x.com/Toshi_nyaruo_AI/status/2047216971184546231) (by [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI))
 
 Use GPT Image 2 to build a scene setting image, then let Seedance 2.0 animate freely. Comparing constrained (storyboard-guided) and free-form (prompt-only) outputs helps decide the right approach per shot.
 
@@ -227,7 +229,7 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 ## 📱 App & Product Demo
 
 <!-- Case 5: App MVP Demo Video (by @Shin_Engineer) -->
-### Case 5: [App MVP Demo Video](https://x.com/Shin_Engineer) (by [@Shin_Engineer](https://x.com/Shin_Engineer))
+### Case 5: [App MVP Demo Video](https://x.com/Shin_Engineer/status/2047182050323812381) (by [@Shin_Engineer](https://x.com/Shin_Engineer))
 
 Use GPT Image 2 to generate finished-looking UI screenshots of an app that doesn't exist yet, then animate them with Seedance 2.0 into a product demo. Post to TikTok or social media to test market interest before building.
 
@@ -266,7 +268,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 > **Replace the placeholders in brackets before use.** In your video caption, do not label it as AI-generated — post it as a product demo and observe real audience feedback in the comments.
 
 <!-- Case 6: 15-Second Commercial (by @ai_mitosan) -->
-### Case 6: [15-Second Commercial](https://x.com/ai_mitosan) (by [@ai_mitosan](https://x.com/ai_mitosan))
+### Case 6: [15-Second Commercial](https://x.com/ai_mitosan/status/2047146600422846762) (by [@ai_mitosan](https://x.com/ai_mitosan))
 
 Two-step workflow: GPT Image 2 generates the hero image and matching storyboard, then Seedance 2.0 animates each clip. Assemble with captions and music for a complete 15-second spot.
 
@@ -308,7 +310,7 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 ## 🎵 Creative Combinations
 
 <!-- Case 7: Music Video with Suno (by @fukaborichannel) -->
-### Case 7: [Music Video with Suno](https://x.com/fukaborichannel) (by [@fukaborichannel](https://x.com/fukaborichannel))
+### Case 7: [Music Video with Suno](https://x.com/fukaborichannel/status/2047206670020055317) (by [@fukaborichannel](https://x.com/fukaborichannel))
 
 Three-tool combination: GPT Image 2 for visuals, Seedance 2.0 for motion, Suno for music. Produce music first to lock the tempo and structure, then design storyboards that align to the beat.
 
@@ -345,7 +347,7 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 > Produce music first. Knowing the tempo and length before designing the storyboard lets you precisely match panel timing to beat cuts.
 
 <!-- Case 8: Cyberpunk Style Short Film (by @ponyodong) -->
-### Case 8: [Cyberpunk Style Short Film](https://x.com/ponyodong) (by [@ponyodong](https://x.com/ponyodong))
+### Case 8: [Cyberpunk Style Short Film](https://x.com/ponyodong/status/2047210987263230133) (by [@ponyodong](https://x.com/ponyodong))
 
 Use GPT Image 2 to establish a consistent visual style (cyberpunk, neon, lanterns, feminine aesthetic), then animate each image with Seedance 2.0 to produce a short stylized film that lands between wallpaper, poster, and story opening.
 
@@ -379,7 +381,7 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 ```
 
 <!-- Case 9: Game & Interactive Content (by @AbleGPT) -->
-### Case 9: [Game & Interactive Content](https://x.com/AbleGPT) (by [@AbleGPT](https://x.com/AbleGPT))
+### Case 9: [Game & Interactive Content](https://x.com/AbleGPT/status/2047149644778746020) (by [@AbleGPT](https://x.com/AbleGPT))
 
 Use GPT Image 2 to generate game-style UI images (with HUD elements, skill bars, choice overlays), then animate them in Seedance 2.0 to simulate interactive game sequences. Game and illustration styles face fewer content restrictions in Seedance than realistic human footage.
 
@@ -538,10 +540,10 @@ Curated examples from the community. Click the preview to view the original post
 | Preview | Author | Workflow | Engagement |
 | :-----: | :----: | :------: | :--------: |
 | [![▶ Watch](images/gallery/szounft_tokyo.jpg)](https://x.com/szounft/status/2047217127728480380) | [@szounft](https://x.com/szounft) | Higgsfield × GPT Image 2 × Seedance 2.0 | Three-tool combo |
-| [![App MVP Demo](images/gallery/shin_app.jpg)](https://x.com/Shin_Engineer) | [@Shin_Engineer](https://x.com/Shin_Engineer) | GPT Image 2 UI → Seedance 2.0 | 118 likes / 8034 views |
-| [![Cyberpunk Style Short Film](images/gallery/ponyodong_cyberpunk.jpg)](https://x.com/ponyodong) | [@ponyodong](https://x.com/ponyodong) | GPT Image 2 → Seedance 2.0 | 9 likes / 137 views |
-| [![Recipe & Food Visual](images/gallery/patata_food.jpg)](https://x.com/patata1216) | [@patata1216](https://x.com/patata1216) | GPT Image 2 → CapCut Seedance 2.0 | Food creator workflow |
-| [![Water Margin Interactive Film](images/gallery/peter_game.jpg)](https://x.com/peter6759) | [@peter6759](https://x.com/peter6759) | GPT Image 2 → Seedance 2.0 interaction | Black Myth style |
+| [![App MVP Demo](images/gallery/shin_app.jpg)](https://x.com/Shin_Engineer/status/2047182050323812381) | [@Shin_Engineer](https://x.com/Shin_Engineer) | GPT Image 2 UI → Seedance 2.0 | 118 likes / 8034 views |
+| [![Cyberpunk Style Short Film](images/gallery/ponyodong_cyberpunk.jpg)](https://x.com/ponyodong/status/2047210987263230133) | [@ponyodong](https://x.com/ponyodong) | GPT Image 2 → Seedance 2.0 | 9 likes / 137 views |
+| [![Recipe & Food Visual](images/gallery/patata_food.jpg)](https://x.com/patata1216/status/2047189259929731135) | [@patata1216](https://x.com/patata1216) | GPT Image 2 → CapCut Seedance 2.0 | Food creator workflow |
+| [![Water Margin Interactive Film](images/gallery/peter_game.jpg)](https://x.com/peter6759/status/2047130834180903166) | [@peter6759](https://x.com/peter6759) | GPT Image 2 → Seedance 2.0 interaction | Black Myth style |
 
 ## 🙏 Acknowledge
 
