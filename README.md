@@ -21,6 +21,13 @@
 
 </div>
 
+
+
+https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f
+
+
+
+
 ## 🎬 Introduction
 
 Welcome to the GPT Image 2 × Seedance 2.0 workflow repository! 🤗
