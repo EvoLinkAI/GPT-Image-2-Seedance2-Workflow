@@ -25,7 +25,6 @@
 
 
 
-
 ## 🎬 Introduction
 
 Welcome to the GPT Image 2 × Seedance 2.0 workflow repository! 🤗
@@ -152,11 +151,17 @@ Output as a single image with all 9 panels arranged in a grid.
 
 Generate a character three-view sheet (front, side, back) with GPT Image 2, then use it as an anchor for animation in Seedance 2.0. Ideal for anime characters, game characters, and figure reveals.
 
-| Input | Output |
-| :---: | :----: |
-| <img src="images/character_case3/input0.jpg" width="300" alt="Character sheet front"> | <img src="images/character_case3/output.jpg" width="300" alt="Combined character sheet with equipment"> |
-| <img src="images/character_case3/input1.jpg" width="300" alt="Character sheet side"> | ![Character case 3 output](https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f) |
-| <img src="images/character_case3/input2.jpg" width="300" alt="Equipment sheet"> | |
+| Input |
+| :---: |
+| <img src="images/character_case3/input0.jpg" width="300" alt="Character sheet front"> |
+| <img src="images/character_case3/input1.jpg" width="300" alt="Character sheet side"> |
+| <img src="images/character_case3/input2.jpg" width="300" alt="Equipment sheet"> |
+
+| Output |
+| :----: |
+| <img src="images/character_case3/output.jpg" width="300" alt="Combined character sheet with equipment"> |
+
+![Character case 3 output](https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f)
 
 **Steps:**
 
@@ -191,10 +196,9 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 
 Use GPT Image 2 to build a scene setting image, then let Seedance 2.0 animate freely. Comparing constrained (storyboard-guided) and free-form (prompt-only) outputs helps decide the right approach per shot.
 
-| Output |
-| :----: |
-| ![Character case 4 storyboard controlled](https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a) |
-| ![Character case 4 free animation](https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019) |
+![Character case 4 storyboard controlled](https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a)
+
+![Character case 4 free animation](https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019)
 
 **Steps:**
 
@@ -266,9 +270,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 
 Two-step workflow: GPT Image 2 generates the hero image and matching storyboard, then Seedance 2.0 animates each clip. Assemble with captions and music for a complete 15-second spot.
 
-| Output |
-| :----: |
-| ![Commercial case 6 output](https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3) |
+![Commercial case 6 output](https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3)
 
 **Steps:**
 
@@ -310,9 +312,11 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 
 Three-tool combination: GPT Image 2 for visuals, Seedance 2.0 for motion, Suno for music. Produce music first to lock the tempo and structure, then design storyboards that align to the beat.
 
-| Input | Output |
-| :---: | :----: |
-| <img src="images/music_case7/input.jpg" width="300" alt="GPT Image 2 generated storyboard for MV"> | ![Music case 7 output](https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201) |
+| Input |
+| :---: |
+| <img src="images/music_case7/input.jpg" width="300" alt="GPT Image 2 generated storyboard for MV"> |
+
+![Music case 7 output](https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201)
 
 **Steps:**
 
@@ -345,9 +349,11 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 
 Use GPT Image 2 to establish a consistent visual style (cyberpunk, neon, lanterns, feminine aesthetic), then animate each image with Seedance 2.0 to produce a short stylized film that lands between wallpaper, poster, and story opening.
 
-| Input | Output |
-| :---: | :----: |
-| <img src="images/cyberpunk_case8/input.jpg" width="300" alt="GPT Image 2 generated cyberpunk illustration"> | ![Cyberpunk case 8 output](https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d) |
+| Input |
+| :---: |
+| <img src="images/cyberpunk_case8/input.jpg" width="300" alt="GPT Image 2 generated cyberpunk illustration"> |
+
+![Cyberpunk case 8 output](https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d)
 
 **Steps:**
 
@@ -377,9 +383,7 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 
 Use GPT Image 2 to generate game-style UI images (with HUD elements, skill bars, choice overlays), then animate them in Seedance 2.0 to simulate interactive game sequences. Game and illustration styles face fewer content restrictions in Seedance than realistic human footage.
 
-| Output |
-| :----: |
-| ![Game case 9 output](https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17) |
+![Game case 9 output](https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17)
 
 **Steps:**
 
