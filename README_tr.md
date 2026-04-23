@@ -74,7 +74,7 @@ Faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
 En yaygin is akisi. GPT Image 2 ile bir storyboard paneli uretin, ardindan bunu Seedance 2.0 ile canlandirin. Tanitim videolari, kisa dramalar ve anime acilis videolari icin uygundur.
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case1/output.jpg" width="400" alt="Storyboard cikti paneli"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case1/output.jpg" width="400" alt="Storyboard cikti paneli"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="400" controls></video></td>
 </tr></table>
 
@@ -107,7 +107,7 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 Toplulugun kesfettigi onemli bir teknik: Tum storyboard panellerini Seedance'e tek tek aktarmak yerine once tek bir 3×3 izgara goruntusunda birlestirmek, hata oranini belirgin bicimde dusurur.
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 izgara storyboard ciktisi"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 izgara storyboard ciktisi"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b" width="400" controls></video></td>
 </tr></table>
 
@@ -143,13 +143,13 @@ Output as a single image with all 9 panels arranged in a grid.
 GPT Image 2 ile bir karakterin uc gorunumlu sayfasini (on, yan, arka) uretin, sonra bunu Seedance 2.0 icindeki animasyon icin referans capasi olarak kullanin. Anime karakterleri, oyun karakterleri ve figurin tanitimlari icin idealdir.
 
 <table><tr>
-<td align="center"><img src="images/character_case3/input0.jpg" width="260" alt="Karakter sheet on gorunum"></td>
-<td align="center"><img src="images/character_case3/input1.jpg" width="260" alt="Karakter sheet yan gorunum"></td>
-<td align="center"><img src="images/character_case3/input2.jpg" width="260" alt="Ekipman sheet"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input0.jpg" width="260" alt="Karakter sheet on gorunum"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input1.jpg" width="260" alt="Karakter sheet yan gorunum"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input2.jpg" width="260" alt="Ekipman sheet"></a></td>
 </tr></table>
 
 <table><tr>
-<td align="center"><img src="images/character_case3/output.jpg" width="400" alt="Ekipmanli birlesik karakter sheet'i"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/output.jpg" width="400" alt="Ekipmanli birlesik karakter sheet'i"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f" width="400" controls></video></td>
 </tr></table>
 
@@ -187,7 +187,7 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 GPT Image 2 ile sahne kurulum goruntusu olusturun, sonra Seedance 2.0'a daha serbest canlandirma yaptirin. Kisıtlı (storyboard kontrollu) ve serbest (yalnizca prompt ile) ciktinin karsilastirilmasi, her cekim icin dogru yaklasimi secmeye yardim eder.
 
 <table><tr>
-<td align="center"><img src="images/character_case4/output0.jpg" width="280" alt="Anime OP ciktisi 1"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case4/output0.jpg" width="280" alt="Anime OP ciktisi 1"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a" width="280" controls></video></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019" width="280" controls></video></td>
 </tr></table>
@@ -225,12 +225,12 @@ GPT Image 2 ile henuz var olmayan bir uygulamanin bitmis gibi gorunen arayuz ekr
 
 | Cikti |
 | :----: |
-| <img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2 ile uretilmis uygulama arayuzu ekran goruntusu 1"> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2 ile uretilmis uygulama arayuzu ekran goruntusu 1"></a> |
 
 <table><tr>
-<td align="center"><img src="images/app_case5/output1.jpg" width="220" alt="Uygulama arayuzu ekran goruntusu 2"></td>
-<td align="center"><img src="images/app_case5/output2.jpg" width="220" alt="Uygulama arayuzu ekran goruntusu 3"></td>
-<td align="center"><img src="images/app_case5/output3.jpg" width="220" alt="Uygulama arayuzu ekran goruntusu 4"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output1.jpg" width="220" alt="Uygulama arayuzu ekran goruntusu 2"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output2.jpg" width="220" alt="Uygulama arayuzu ekran goruntusu 3"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output3.jpg" width="220" alt="Uygulama arayuzu ekran goruntusu 4"></a></td>
 </tr></table>
 
 **Adimlar:**
@@ -266,7 +266,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 Iki asamali is akisi: GPT Image 2 ana gorseli ve onunla eslesen storyboard'u uretir, ardindan Seedance 2.0 her klibi canlandirir. Basliklar ve muzikle birlestirerek tam bir 15 saniyelik reklam hazirlayin.
 
 <table><tr>
-<td align="center"><img src="images/commercial_case6/output.jpg" width="400" alt="Reklam cikti goruntusu"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/commercial_case6/output.jpg" width="400" alt="Reklam cikti goruntusu"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3" width="400" controls></video></td>
 </tr></table>
 
@@ -311,8 +311,8 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 Uc aracli kombinasyon: gorseller icin GPT Image 2, hareket icin Seedance 2.0, muzik icin Suno. Tempoyu ve yapiyi sabitlemek icin once muzigi uretin, sonra ritme uygun storyboard tasarlayin.
 
 <table><tr>
-<td align="center"><img src="images/music_case7/input.jpg" width="280" alt="MV icin GPT Image 2 storyboard'u"></td>
-<td align="center"><img src="images/music_case7/output.jpg" width="280" alt="Muzik videosu cikti karesi"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/input.jpg" width="280" alt="MV icin GPT Image 2 storyboard'u"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/output.jpg" width="280" alt="Muzik videosu cikti karesi"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201" width="280" controls></video></td>
 </tr></table>
 
@@ -348,8 +348,8 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 Tutarlı bir gorsel stil sistemi kurmak icin GPT Image 2'yi kullanin (siberpunk, neon, fenerler, feminen estetik), sonra her goruntuyu Seedance 2.0 ile canlandirarak duvar kagidi, poster ve hikaye acilisi arasinda duran stilize bir kisa film uretin.
 
 <table><tr>
-<td align="center"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2 ile uretilmis siberpunk ilustrasyon"></td>
-<td align="center"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Siberpunk cikti karesi"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2 ile uretilmis siberpunk ilustrasyon"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Siberpunk cikti karesi"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d" width="280" controls></video></td>
 </tr></table>
 
@@ -382,7 +382,7 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 HUD ogeleri, yetenek cubuklari ve secim katmanlari iceren oyun tarzi UI goruntuleri uretmek icin GPT Image 2'yi kullanin; sonra bunlari Seedance 2.0'da canlandirarak etkilesimli oyun sekanslari hissi verin. Oyun ve ilustrasyon tarzlari, gercekci insan goruntulerine gore Seedance'te daha az icerik kisitlamasiyla karsilasir.
 
 <table><tr>
-<td align="center"><img src="images/game_case9/output.jpg" width="400" alt="Oyun UI cikti goruntusu"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="Oyun UI cikti goruntusu"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
 </tr></table>
 

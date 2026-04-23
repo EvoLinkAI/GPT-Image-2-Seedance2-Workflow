@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="images/logo.png" alt="GPT Image 2 × Seedance 2.0 Workflow Guide">
+<a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2"><img src="images/logo.png" alt="GPT Image 2 × Seedance 2.0 Workflow Guide"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
-[![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
-[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
-[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts)
+[![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
 
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
@@ -80,7 +80,7 @@ GPT Image 2 负责“画什么”和视觉一致性，Seedance 2.0 负责“怎�
 这是最常见的一种工作流。先用 GPT Image 2 生成分镜画面，再用 Seedance 2.0 做动画。非常适合宣传片、短剧和动画 OP。
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case1/output.jpg" width="400" alt="Storyboard output panel"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case1/output.jpg" width="400" alt="Storyboard output panel"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="400" controls></video></td>
 </tr></table>
 
@@ -113,7 +113,7 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 这是社区发现的一种关键技巧：先把所有分镜画面排成一张 3×3 网格图，再导入 Seedance，比逐张导入的失败率低得多。
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 grid storyboard output"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 grid storyboard output"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b" width="400" controls></video></td>
 </tr></table>
 
@@ -151,13 +151,13 @@ Output as a single image with all 9 panels arranged in a grid.
 先用 GPT Image 2 生成角色三视图（正面、侧面、背面），再把它作为 Seedance 2.0 动画的锚点。很适合动漫角色、游戏角色以及手办展示类内容。
 
 <table><tr>
-<td align="center"><img src="images/character_case3/input0.jpg" width="260" alt="Character sheet front"></td>
-<td align="center"><img src="images/character_case3/input1.jpg" width="260" alt="Character sheet side"></td>
-<td align="center"><img src="images/character_case3/input2.jpg" width="260" alt="Equipment sheet"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input0.jpg" width="260" alt="Character sheet front"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input1.jpg" width="260" alt="Character sheet side"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input2.jpg" width="260" alt="Equipment sheet"></a></td>
 </tr></table>
 
 <table><tr>
-<td align="center"><img src="images/character_case3/output.jpg" width="400" alt="Combined character sheet with equipment"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/output.jpg" width="400" alt="Combined character sheet with equipment"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f" width="400" controls></video></td>
 </tr></table>
 
@@ -195,7 +195,7 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 先用 GPT Image 2 生成场景设定图，再让 Seedance 2.0 自由发挥做动画。对比“受约束的分镜引导”和“自由生成”的结果，有助于你判断每个镜头更适合哪种方式。
 
 <table><tr>
-<td align="center"><img src="images/character_case4/output0.jpg" width="280" alt="Anime OP output 1"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case4/output0.jpg" width="280" alt="Anime OP output 1"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a" width="280" controls></video></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019" width="280" controls></video></td>
 </tr></table>
@@ -233,12 +233,12 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 
 | Output |
 | :----: |
-| <img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 1"> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 1"></a> |
 
 <table><tr>
-<td align="center"><img src="images/app_case5/output1.jpg" width="220" alt="App UI screenshot 2"></td>
-<td align="center"><img src="images/app_case5/output2.jpg" width="220" alt="App UI screenshot 3"></td>
-<td align="center"><img src="images/app_case5/output3.jpg" width="220" alt="App UI screenshot 4"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output1.jpg" width="220" alt="App UI screenshot 2"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output2.jpg" width="220" alt="App UI screenshot 3"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output3.jpg" width="220" alt="App UI screenshot 4"></a></td>
 </tr></table>
 
 **步骤：**
@@ -274,7 +274,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 这是一个两步工作流：先由 GPT Image 2 生成主视觉和匹配的分镜，再交给 Seedance 2.0 分别为每个镜头做动画。最后加上字幕和音乐，就能拼成一支完整的 15 秒广告。
 
 <table><tr>
-<td align="center"><img src="images/commercial_case6/output.jpg" width="400" alt="Commercial output image"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/commercial_case6/output.jpg" width="400" alt="Commercial output image"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3" width="400" controls></video></td>
 </tr></table>
 
@@ -319,8 +319,8 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 这是一个三工具组合工作流：GPT Image 2 负责画面，Seedance 2.0 负责运动，Suno 负责音乐。先把音乐定下来，锁定节奏和结构，再根据节拍去设计分镜。
 
 <table><tr>
-<td align="center"><img src="images/music_case7/input.jpg" width="280" alt="GPT Image 2 generated storyboard for MV"></td>
-<td align="center"><img src="images/music_case7/output.jpg" width="280" alt="Music video output frame"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/input.jpg" width="280" alt="GPT Image 2 generated storyboard for MV"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/output.jpg" width="280" alt="Music video output frame"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201" width="280" controls></video></td>
 </tr></table>
 
@@ -356,8 +356,8 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 先用 GPT Image 2 建立统一的视觉风格体系（赛博朋克、霓虹、灯笼、偏女性化美学），再用 Seedance 2.0 为每张图做动画，最终做出一种介于壁纸、海报和故事开场之间的风格化短片。
 
 <table><tr>
-<td align="center"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2 generated cyberpunk illustration"></td>
-<td align="center"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Cyberpunk output frame"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2 generated cyberpunk illustration"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Cyberpunk output frame"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d" width="280" controls></video></td>
 </tr></table>
 
@@ -390,7 +390,7 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 用 GPT Image 2 生成带有 HUD、技能栏和选项覆盖层的游戏风 UI 图，再用 Seedance 2.0 进行动画化，模拟交互式游戏片段。相比写实真人视频，游戏和插画风格在 Seedance 中受到的内容限制更少。
 
 <table><tr>
-<td align="center"><img src="images/game_case9/output.jpg" width="400" alt="Game UI output image"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="Game UI output image"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
 </tr></table>
 

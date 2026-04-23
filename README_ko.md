@@ -80,7 +80,7 @@ Evolink에서 바로 사용해 보세요: [GPT Image 2 + Seedance 2.0](https://e
 가장 일반적인 워크플로입니다. GPT Image 2로 스토리보드 패널을 생성한 뒤, Seedance 2.0에서 애니메이션화합니다. 홍보 영상, 짧은 드라마, 애니메이션 오프닝에 적합합니다.
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case1/output.jpg" width="400" alt="스토리보드 출력 패널"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case1/output.jpg" width="400" alt="스토리보드 출력 패널"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="400" controls></video></td>
 </tr></table>
 
@@ -113,7 +113,7 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 커뮤니티가 발견한 핵심 기법입니다. 스토리보드 패널을 하나씩 가져오는 대신, 모든 패널을 3×3 단일 그리드 이미지로 구성해 Seedance에 넣으면 실패율이 크게 낮아집니다.
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 그리드 스토리보드 출력"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 그리드 스토리보드 출력"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b" width="400" controls></video></td>
 </tr></table>
 
@@ -151,13 +151,13 @@ Output as a single image with all 9 panels arranged in a grid.
 GPT Image 2로 캐릭터 3면도 시트(정면, 측면, 후면)를 만든 다음, 이를 Seedance 2.0 애니메이션의 기준점으로 사용합니다. 애니 캐릭터, 게임 캐릭터, 피규어 공개 영상에 이상적입니다.
 
 <table><tr>
-<td align="center"><img src="images/character_case3/input0.jpg" width="260" alt="캐릭터 시트 정면"></td>
-<td align="center"><img src="images/character_case3/input1.jpg" width="260" alt="캐릭터 시트 측면"></td>
-<td align="center"><img src="images/character_case3/input2.jpg" width="260" alt="장비 시트"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input0.jpg" width="260" alt="캐릭터 시트 정면"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input1.jpg" width="260" alt="캐릭터 시트 측면"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input2.jpg" width="260" alt="장비 시트"></a></td>
 </tr></table>
 
 <table><tr>
-<td align="center"><img src="images/character_case3/output.jpg" width="400" alt="장비가 포함된 캐릭터 시트"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/output.jpg" width="400" alt="장비가 포함된 캐릭터 시트"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f" width="400" controls></video></td>
 </tr></table>
 
@@ -195,7 +195,7 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 GPT Image 2로 장면 설정 이미지를 만든 뒤, Seedance 2.0이 비교적 자유롭게 움직이게 합니다. 스토리보드로 강하게 제어한 결과와 프롬프트만 준 자유형 결과를 비교하면 컷별로 어떤 접근이 맞는지 판단하기 쉽습니다.
 
 <table><tr>
-<td align="center"><img src="images/character_case4/output0.jpg" width="280" alt="애니메이션 OP 출력 1"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case4/output0.jpg" width="280" alt="애니메이션 OP 출력 1"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a" width="280" controls></video></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019" width="280" controls></video></td>
 </tr></table>
@@ -233,12 +233,12 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 
 | Output |
 | :----: |
-| <img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2가 생성한 앱 UI 스크린샷 1"> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2가 생성한 앱 UI 스크린샷 1"></a> |
 
 <table><tr>
-<td align="center"><img src="images/app_case5/output1.jpg" width="220" alt="앱 UI 스크린샷 2"></td>
-<td align="center"><img src="images/app_case5/output2.jpg" width="220" alt="앱 UI 스크린샷 3"></td>
-<td align="center"><img src="images/app_case5/output3.jpg" width="220" alt="앱 UI 스크린샷 4"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output1.jpg" width="220" alt="앱 UI 스크린샷 2"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output2.jpg" width="220" alt="앱 UI 스크린샷 3"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output3.jpg" width="220" alt="앱 UI 스크린샷 4"></a></td>
 </tr></table>
 
 **단계:**
@@ -274,7 +274,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 2단계 워크플로입니다. GPT Image 2가 메인 히어로 이미지와 그에 맞는 스토리보드를 만들고, Seedance 2.0이 각 클립을 애니메이션화합니다. 캡션과 음악을 더하면 완전한 15초 광고가 됩니다.
 
 <table><tr>
-<td align="center"><img src="images/commercial_case6/output.jpg" width="400" alt="광고 출력 이미지"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/commercial_case6/output.jpg" width="400" alt="광고 출력 이미지"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3" width="400" controls></video></td>
 </tr></table>
 
@@ -319,8 +319,8 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 세 가지 도구를 결합하는 방식입니다. GPT Image 2는 비주얼, Seedance 2.0은 모션, Suno는 음악을 담당합니다. 먼저 음악을 만들어 템포와 구조를 확정한 뒤, 비트에 맞춰 스토리보드를 설계하세요.
 
 <table><tr>
-<td align="center"><img src="images/music_case7/input.jpg" width="280" alt="뮤직비디오용 GPT Image 2 스토리보드"></td>
-<td align="center"><img src="images/music_case7/output.jpg" width="280" alt="뮤직비디오 출력 프레임"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/input.jpg" width="280" alt="뮤직비디오용 GPT Image 2 스토리보드"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/output.jpg" width="280" alt="뮤직비디오 출력 프레임"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201" width="280" controls></video></td>
 </tr></table>
 
@@ -356,8 +356,8 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 GPT Image 2로 일관된 비주얼 스타일(사이버펑크, 네온, 등불, 여성적 미감)을 구축한 뒤, 각 이미지를 Seedance 2.0으로 움직여 배경화면과 포스터, 이야기의 도입부 사이 어딘가에 있는 감성적인 단편 영상을 만듭니다.
 
 <table><tr>
-<td align="center"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2가 생성한 사이버펑크 일러스트"></td>
-<td align="center"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="사이버펑크 출력 프레임"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2가 생성한 사이버펑크 일러스트"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="사이버펑크 출력 프레임"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d" width="280" controls></video></td>
 </tr></table>
 
@@ -390,7 +390,7 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 HUD 요소, 스킬 바, 선택지 오버레이가 포함된 게임 스타일 UI 이미지를 GPT Image 2로 만든 뒤, Seedance 2.0에서 움직여 인터랙티브 게임 시퀀스처럼 보이게 합니다. Seedance는 사실적인 인간 영상보다 게임이나 일러스트 스타일에서 제약이 훨씬 적습니다.
 
 <table><tr>
-<td align="center"><img src="images/game_case9/output.jpg" width="400" alt="게임 UI 출력 이미지"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="게임 UI 출력 이미지"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
 </tr></table>
 

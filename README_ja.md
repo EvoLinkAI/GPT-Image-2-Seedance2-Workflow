@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo.png" alt="GPT Image 2 × Seedance 2.0 Workflow Guide">
+<a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2"><img src="images/logo.png" alt="GPT Image 2 × Seedance 2.0 Workflow Guide"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
@@ -80,7 +80,7 @@ Evolink ですぐ試せます: [GPT Image 2 + Seedance 2.0](https://evolink.ai?u
 もっとも一般的なワークフローです。GPT Image 2 でストーリーボードのコマを生成し、それを Seedance 2.0 で動画化します。プロモーション動画、短編ドラマ、アニメの OP などに向いています。
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case1/output.jpg" width="400" alt="Storyboard output panel"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case1/output.jpg" width="400" alt="Storyboard output panel"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="400" controls></video></td>
 </tr></table>
 
@@ -113,7 +113,7 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 コミュニティから見つかった重要なテクニックです。ストーリーボードの各コマを 1 枚ずつ読み込むより、1 枚の 3×3 グリッド画像にまとめてから Seedance に渡す方が、失敗率を大きく下げられます。
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 grid storyboard output"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case2/output.jpg" width="400" alt="3×3 grid storyboard output"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b" width="400" controls></video></td>
 </tr></table>
 
@@ -149,13 +149,13 @@ Output as a single image with all 9 panels arranged in a grid.
 GPT Image 2 で三面図（正面・側面・背面）のキャラクターシートを作成し、それを Seedance 2.0 でアニメーションの基準として使います。アニメキャラ、ゲームキャラ、フィギュア演出に最適です。
 
 <table><tr>
-<td align="center"><img src="images/character_case3/input0.jpg" width="260" alt="Character sheet front"></td>
-<td align="center"><img src="images/character_case3/input1.jpg" width="260" alt="Character sheet side"></td>
-<td align="center"><img src="images/character_case3/input2.jpg" width="260" alt="Equipment sheet"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input0.jpg" width="260" alt="Character sheet front"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input1.jpg" width="260" alt="Character sheet side"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input2.jpg" width="260" alt="Equipment sheet"></a></td>
 </tr></table>
 
 <table><tr>
-<td align="center"><img src="images/character_case3/output.jpg" width="400" alt="Combined character sheet with equipment"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/output.jpg" width="400" alt="Combined character sheet with equipment"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f" width="400" controls></video></td>
 </tr></table>
 
@@ -193,7 +193,7 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 GPT Image 2 でシーン設定画像を作り、Seedance 2.0 に自由に動かさせる方法です。制御を強めた出力（ストーリーボード主導）と自由度の高い出力（プロンプト主導）を比較すると、カットごとに最適なアプローチを選びやすくなります。
 
 <table><tr>
-<td align="center"><img src="images/character_case4/output0.jpg" width="280" alt="Anime OP output 1"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case4/output0.jpg" width="280" alt="Anime OP output 1"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a" width="280" controls></video></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019" width="280" controls></video></td>
 </tr></table>
@@ -231,12 +231,12 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 
 | Output |
 | :----: |
-| <img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 1"> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output0.jpg" width="400" alt="GPT Image 2 generated app UI screenshot 1"></a> |
 
 <table><tr>
-<td align="center"><img src="images/app_case5/output1.jpg" width="220" alt="App UI screenshot 2"></td>
-<td align="center"><img src="images/app_case5/output2.jpg" width="220" alt="App UI screenshot 3"></td>
-<td align="center"><img src="images/app_case5/output3.jpg" width="220" alt="App UI screenshot 4"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output1.jpg" width="220" alt="App UI screenshot 2"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output2.jpg" width="220" alt="App UI screenshot 3"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output3.jpg" width="220" alt="App UI screenshot 4"></a></td>
 </tr></table>
 
 **手順:**
@@ -272,7 +272,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 2 段階のワークフローです。まず GPT Image 2 でキービジュアルと対応するストーリーボードを生成し、その後 Seedance 2.0 で各カットをアニメーション化します。最後に字幕と音楽を加えれば、15 秒の完成 CM になります。
 
 <table><tr>
-<td align="center"><img src="images/commercial_case6/output.jpg" width="400" alt="Commercial output image"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/commercial_case6/output.jpg" width="400" alt="Commercial output image"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3" width="400" controls></video></td>
 </tr></table>
 
@@ -317,8 +317,8 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 3 つのツールを組み合わせるワークフローです。ビジュアルは GPT Image 2、動きは Seedance 2.0、音楽は Suno が担当します。先に楽曲を作ってテンポと構成を確定し、そのビートに合わせてストーリーボードを設計します。
 
 <table><tr>
-<td align="center"><img src="images/music_case7/input.jpg" width="280" alt="GPT Image 2 generated storyboard for MV"></td>
-<td align="center"><img src="images/music_case7/output.jpg" width="280" alt="Music video output frame"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/input.jpg" width="280" alt="GPT Image 2 generated storyboard for MV"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/output.jpg" width="280" alt="Music video output frame"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201" width="280" controls></video></td>
 </tr></table>
 
@@ -354,8 +354,8 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 GPT Image 2 でサイバーパンク、ネオン、提灯、フェミニンな雰囲気などのビジュアルルールを固定し、その画像を Seedance 2.0 で動かして、壁紙・ポスター・物語の導入の中間にあるようなスタイライズ短編を作ります。
 
 <table><tr>
-<td align="center"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2 generated cyberpunk illustration"></td>
-<td align="center"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Cyberpunk output frame"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="GPT Image 2 generated cyberpunk illustration"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Cyberpunk output frame"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d" width="280" controls></video></td>
 </tr></table>
 
@@ -388,7 +388,7 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 HUD、スキルバー、選択肢オーバーレイ付きのゲーム風 UI 画像を GPT Image 2 で作り、それを Seedance 2.0 で動かして、インタラクティブなゲームシーケンスを再現します。リアルな人物映像よりも、ゲーム・イラスト・アニメ系のスタイルは Seedance 上で制限が少なく、表現の幅も広いです。
 
 <table><tr>
-<td align="center"><img src="images/game_case9/output.jpg" width="400" alt="Game UI output image"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="Game UI output image"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
 </tr></table>
 

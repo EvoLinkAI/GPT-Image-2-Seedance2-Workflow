@@ -81,7 +81,7 @@ Se isto for útil para você, considere dar uma estrela. ⭐
 O workflow mais comum. Use o GPT Image 2 para gerar um painel de storyboard e depois anime-o com o Seedance 2.0. Ideal para vídeos promocionais, dramas curtos e aberturas de animação.
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case1/output.jpg" width="400" alt="Painel de storyboard gerado"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case1/output.jpg" width="400" alt="Painel de storyboard gerado"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/ac25fc3d-b6cb-4149-a8ba-e7e10c5b1faa" width="400" controls></video></td>
 </tr></table>
 
@@ -114,7 +114,7 @@ Cinematic brand advertisement, slow camera push-in, product centered in frame, w
 Uma técnica importante descoberta pela comunidade: compor todos os painéis do storyboard em uma única imagem em grade 3×3 antes de importar para o Seedance reduz bastante a taxa de falha em comparação com importar quadro por quadro.
 
 <table><tr>
-<td align="center"><img src="images/storyboard_case2/output.jpg" width="400" alt="Storyboard em grade 3×3 gerado"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case2/output.jpg" width="400" alt="Storyboard em grade 3×3 gerado"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/00f32388-a17b-4b9c-8da3-1956436ce91b" width="400" controls></video></td>
 </tr></table>
 
@@ -152,13 +152,13 @@ Output as a single image with all 9 panels arranged in a grid.
 Gere uma folha de personagem com três vistas (frente, lado e costas) no GPT Image 2 e use-a como âncora para a animação no Seedance 2.0. Ideal para personagens de anime, personagens de jogos e revelações de figuras.
 
 <table><tr>
-<td align="center"><img src="images/character_case3/input0.jpg" width="260" alt="Folha de personagem frente"></td>
-<td align="center"><img src="images/character_case3/input1.jpg" width="260" alt="Folha de personagem lado"></td>
-<td align="center"><img src="images/character_case3/input2.jpg" width="260" alt="Folha de equipamento"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input0.jpg" width="260" alt="Folha de personagem frente"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input1.jpg" width="260" alt="Folha de personagem lado"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/input2.jpg" width="260" alt="Folha de equipamento"></a></td>
 </tr></table>
 
 <table><tr>
-<td align="center"><img src="images/character_case3/output.jpg" width="400" alt="Folha de personagem combinada com equipamento"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case3/output.jpg" width="400" alt="Folha de personagem combinada com equipamento"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f" width="400" controls></video></td>
 </tr></table>
 
@@ -196,7 +196,7 @@ Japanese full-color anime style, high-speed cuts, high frame count, 24fps, dark 
 Use o GPT Image 2 para criar uma imagem-base de ambientação e depois deixe o Seedance 2.0 animar com mais liberdade. Comparar saídas guiadas por storyboard com saídas livres orientadas só por prompt ajuda a decidir a melhor abordagem para cada plano.
 
 <table><tr>
-<td align="center"><img src="images/character_case4/output0.jpg" width="280" alt="Saída 1 de abertura de anime"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case4/output0.jpg" width="280" alt="Saída 1 de abertura de anime"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/f08a2fee-89a7-4c7c-a58a-f1306f87419a" width="280" controls></video></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09d81a41-b5c5-47f3-8c67-442b7a93b019" width="280" controls></video></td>
 </tr></table>
@@ -234,12 +234,12 @@ Use o GPT Image 2 para gerar screenshots de interface com aparência final de um
 
 | Output |
 | :----: |
-| <img src="images/app_case5/output0.jpg" width="400" alt="Screenshot 1 de UI de app gerado pelo GPT Image 2"> |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output0.jpg" width="400" alt="Screenshot 1 de UI de app gerado pelo GPT Image 2"></a> |
 
 <table><tr>
-<td align="center"><img src="images/app_case5/output1.jpg" width="220" alt="Screenshot 2 de UI de app"></td>
-<td align="center"><img src="images/app_case5/output2.jpg" width="220" alt="Screenshot 3 de UI de app"></td>
-<td align="center"><img src="images/app_case5/output3.jpg" width="220" alt="Screenshot 4 de UI de app"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output1.jpg" width="220" alt="Screenshot 2 de UI de app"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output2.jpg" width="220" alt="Screenshot 3 de UI de app"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/app_case5/output3.jpg" width="220" alt="Screenshot 4 de UI de app"></a></td>
 </tr></table>
 
 **Passos:**
@@ -275,7 +275,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 Workflow em duas etapas: o GPT Image 2 gera a imagem principal e o storyboard correspondente; depois o Seedance 2.0 anima cada clipe. Monte tudo com legendas e música para obter uma peça completa de 15 segundos.
 
 <table><tr>
-<td align="center"><img src="images/commercial_case6/output.jpg" width="400" alt="Imagem gerada do comercial"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/commercial_case6/output.jpg" width="400" alt="Imagem gerada do comercial"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/09ae3c57-b8fb-4323-ba76-7777541fe4a3" width="400" controls></video></td>
 </tr></table>
 
@@ -320,8 +320,8 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm], [product
 Combinação de três ferramentas: GPT Image 2 para os visuais, Seedance 2.0 para o movimento e Suno para a música. Produza a música primeiro para fixar o tempo e a estrutura, depois crie storyboards alinhados à batida.
 
 <table><tr>
-<td align="center"><img src="images/music_case7/input.jpg" width="280" alt="Storyboard para videoclipe gerado pelo GPT Image 2"></td>
-<td align="center"><img src="images/music_case7/output.jpg" width="280" alt="Quadro de saída do videoclipe"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/input.jpg" width="280" alt="Storyboard para videoclipe gerado pelo GPT Image 2"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/music_case7/output.jpg" width="280" alt="Quadro de saída do videoclipe"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/fd4be5c7-cd02-4a77-ae07-6b80efeff201" width="280" controls></video></td>
 </tr></table>
 
@@ -357,8 +357,8 @@ Japanese city pop anime style, soft summer afternoon light, character walking li
 Use o GPT Image 2 para estabelecer um estilo visual consistente (cyberpunk, néon, lanternas, estética feminina) e depois anime cada imagem com o Seedance 2.0 para produzir um curta estilizado entre wallpaper, pôster e abertura de história.
 
 <table><tr>
-<td align="center"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="Ilustração cyberpunk gerada pelo GPT Image 2"></td>
-<td align="center"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Quadro de saída cyberpunk"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/input.jpg" width="280" alt="Ilustração cyberpunk gerada pelo GPT Image 2"></a></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/cyberpunk_case8/output.jpg" width="280" alt="Quadro de saída cyberpunk"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/db6ebb63-90dc-47c5-96c5-ab2fa53ed56d" width="280" controls></video></td>
 </tr></table>
 
@@ -391,7 +391,7 @@ Slow atmospheric camera drift, neon reflections on wet pavement, soft particle e
 Use o GPT Image 2 para gerar imagens com UI de jogo (HUD, barras de habilidade, overlays de escolha) e depois anime-as no Seedance 2.0 para simular sequências interativas. Estilos de jogo e ilustração enfrentam menos restrições de conteúdo no Seedance do que filmagens humanas realistas.
 
 <table><tr>
-<td align="center"><img src="images/game_case9/output.jpg" width="400" alt="Imagem de saída de UI de jogo"></td>
+<td align="center"><a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="Imagem de saída de UI de jogo"></a></td>
 <td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
 </tr></table>
 
