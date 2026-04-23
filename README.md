@@ -161,7 +161,7 @@ Generate a character three-view sheet (front, side, back) with GPT Image 2, then
 | :----: |
 | <img src="images/character_case3/output.jpg" width="300" alt="Combined character sheet with equipment"> |
 
-![Character case 3 output](https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f)
+https://github.com/user-attachments/assets/92a0aa56-441f-40db-b9c9-13410254cb3f
 
 **Steps:**
 
