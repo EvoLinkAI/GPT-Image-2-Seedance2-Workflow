@@ -45,6 +45,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## 📰 News
 
+- **April 25, 2026:** Added Case 10–12 (multi-frame storyboard, Japanese MV toolchain, Claude Code × character sheet), expanded Case 9 with ARPG simulation variants, added community showcase to Gallery
 - **April 23, 2026:** Repository launched with 9 curated workflow cases
 
 ## 📑 Menu
@@ -55,9 +56,11 @@ If you find this useful, consider giving it a star. ⭐
 - [🎥 Storyboard Workflows](#-storyboard-workflows)
   - [Case 1: Standard Storyboard → Video (by @kiyoshi_shin)](#case-1-standard-storyboard--video-by-kiyoshi_shin)
   - [Case 2: 3×3 Grid Storyboard Method (by @servasyy_ai)](#case-2-33-grid-storyboard-method-by-servasyy_ai)
+  - [Case 10: Multi-Frame Reference → Fast-Cut Video (by @heygentlewhale)](#case-10-multi-frame-reference--fast-cut-video-by-heygentlewhale)
 - [🎨 Character & Animation](#-character--animation)
   - [Case 3: Character Sheet → Animation (by @YaReYaRu30Life)](#case-3-character-sheet--animation-by-yareyaru30life)
   - [Case 4: Anime OP Style Video (by @Toshi_nyaruo_AI)](#case-4-anime-op-style-video-by-toshi_nyaruo_ai)
+  - [Case 12: Claude Code × Character Sheet → Animation (by @old_pgmrs_will)](#case-12-claude-code--character-sheet--animation-by-old_pgmrs_will)
 - [📱 App & Product Demo](#-app--product-demo)
   - [Case 5: App MVP Demo Video (by @Shin_Engineer)](#case-5-app-mvp-demo-video-by-shin_engineer)
   - [Case 6: 15-Second Commercial (by @ai_mitosan)](#case-6-15-second-commercial-by-ai_mitosan)
@@ -65,6 +68,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 7: Music Video with Suno (by @fukaborichannel)](#case-7-music-video-with-suno-by-fukaborichannel)
   - [Case 8: Cyberpunk Style Short Film (by @ponyodong)](#case-8-cyberpunk-style-short-film-by-ponyodong)
   - [Case 9: Game & Interactive Content (by @AbleGPT)](#case-9-game--interactive-content-by-ablegpt)
+  - [Case 11: Japanese MV — Full AI Toolchain (by @Tz_2022)](#case-11-japanese-mv--full-ai-toolchain-by-tz_2022)
 - [💡 Tips & Techniques](#-tips--techniques)
   - [Consistency Guide](#consistency-guide)
   - [Prompt Templates](#prompt-templates)
@@ -417,8 +421,148 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 [Style: Black Myth style, Chinese mythological martial arts, realistic rendering, dynamic camera work.]
 ```
 
+**Variant — ARPG Game Simulation (by [@0xbisc](https://x.com/0xbisc/status/2047315350862352715)):**
+
+One Piece, Stranger Things, any IP — generate a game screenshot of a world that doesn't exist, then expand it into live gameplay with Seedance 2.0. 934 likes / 125K views.
+
+<table><tr>
+<td align="center"><video src="images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+</tr></table>
+
+**GPT Image 2 Prompt:**
+
+```
+Generate an ARPG dialogue game screenshot inspired by [film/series name]
+```
+
+**Seedance 2.0:** Use Image-to-Video mode. No prompt needed — Seedance reads the HUD layout and extends it into a gameplay sequence automatically.
+
 > [!NOTE]
 > Seedance 2.0 has restrictions on realistic human content. Game, anime, and illustration styles bypass most of these limitations and offer more creative range.
+>
+> **ARPG tip (via [@peter6759](https://x.com/peter6759/status/2047130834180903166)):** For interactive movie-game style, combine both steps in one pass — GPT Image 2 prompt: `Interactive movie game, Black Myth style, Water Margin` → Seedance 2.0 prompt: `Click option A, normal UI shift, then reasonable combat happens`. The dual-language approach (Chinese prompt for GPT Image 2, English for Seedance) often improves cultural fidelity.
+>
+> **Community showcase:** [@markgadala](https://x.com/markgadala/status/2047825115631518115) used this workflow to generate a full trailer for a game that doesn't exist. [@0xInk_](https://x.com/0xInk_/status/2047648944004755679) used it for high-detail UI animations (972 likes / 75K views).
+
+<!-- Case 10: Multi-Frame Reference Storyboard (by @heygentlewhale + @ai_gezgini) -->
+### Case 10: [Multi-Frame Reference → Fast-Cut Video](https://x.com/heygentlewhale/status/2047969137969004946) (by [@heygentlewhale](https://x.com/heygentlewhale))
+
+Feed Seedance 2.0 a storyboard image with multiple reference frames and instruct it to follow the sequence order. The model reads frame positions as scene cues and outputs a coherent fast-cut edit — without manual clip assembly.
+
+<table><tr>
+<td align="center"><video src="images/storyboard_case10/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+</tr></table>
+
+**Steps:**
+
+1. Generate a multi-panel storyboard image in GPT Image 2 (12 frames, 3×4 or 4×3 grid)
+2. Upload the storyboard as the reference image in Seedance 2.0
+3. Write a sequencing prompt that names the frame count and edit style
+
+**GPT Image 2 Prompt:**
+
+```
+Create a 12-panel storyboard grid for a [N]-second [genre] film:
+- 4 columns × 3 rows, left-to-right, top-to-bottom reading order
+- Each panel: [shot type] + [action description]
+- Location: [setting], Time: [day/night], Mood: [atmosphere]
+- Consistent character design and scene across all panels
+- No text labels, no panel borders
+Output as a single image.
+```
+
+**Seedance 2.0 Prompt:**
+
+```
+Follow the storyboard sequence of the 12 reference frames in image1, edited as a fast-cut memory montage.
+[Describe visual style — example below:]
+A nostalgic romance film set in 1990s Singapore, shot on 35mm film in Kodak Portra 800 style.
+Soft grain, dreamy blur, warm highlights, and slight color shifts create a vintage cinematic atmosphere.
+```
+
+**Universal sequencing prompt (via [@ai_gezgini](https://x.com/ai_gezgini/status/2047349122315805016)):**
+
+```
+Use this storyboard to generate a video, follow the scene order, keep transitions smooth,
+and preserve cinematic lighting and pacing.
+[Add any extra visual details you want.]
+```
+
+> [!NOTE]
+> This prompt works across genres — swap the style description for sci-fi, horror, documentary, or any other look. The key phrase is `follow the storyboard sequence of the [N] reference frames` — it tells Seedance to treat frame positions as a timeline rather than a single composition.
+
+<!-- Case 11: Japanese MV Full Toolchain (by @Tz_2022) -->
+### Case 11: [Japanese MV — Full AI Toolchain](https://x.com/Tz_2022/status/2047684399404056609) (by [@Tz_2022](https://x.com/Tz_2022))
+
+Four-tool pipeline producing a complete Japanese-style music video: GPT Image 2 for visuals → Seedance 2.0 for motion → Suno 5.5 for music → CapCut for final edit. 742 likes / 107K views.
+
+<table><tr>
+<td align="center"><video src="images/creative_case11/output.mp4" width="400" controls></video></td>
+</tr></table>
+
+**Steps:**
+
+1. Generate the music in Suno 5.5 first — lock song length, tempo, and mood
+2. Design storyboard panels in GPT Image 2 timed to the song sections
+3. Animate each panel in Seedance 2.0, matching clip duration to beat
+4. Import video clips and the Suno track into CapCut — sync and export
+
+**GPT Image 2 Prompt:**
+
+```
+Create a [N]-panel storyboard for a Japanese-style music video:
+Intro: [visual concept]
+Verse: [visual concept]
+Chorus: [visual concept]
+Style: [anime illustration / painterly / film still], [color palette], [mood].
+Character: [name and appearance]. Keep this character design fixed across all panels.
+```
+
+**Seedance 2.0 Prompt:**
+
+```
+Japanese anime style, [season] atmosphere, [lighting description], soft film grain, 24fps.
+[Character name] [action description], [background description].
+```
+
+> [!NOTE]
+> Produce music first — knowing the beat structure before designing storyboards lets you precisely match panel timing to song cuts. This extends Case 7 (City Pop MV) by adding Suno into the loop and treating the whole pipeline as a synchronized production rather than post-assembly.
+
+<!-- Case 12: Claude Code + Character Sheet → Animation (by @old_pgmrs_will) -->
+### Case 12: [Claude Code × Character Sheet → Animation](https://x.com/old_pgmrs_will/status/2045091769180914019) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+
+Use Claude Code to write the world-building and character lore, then pass structured descriptions to GPT Image 2 to generate the character key visual, then animate with Seedance 2.0. Developer-friendly workflow for original IP creation. 191 likes / 7K views.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/seedance2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case12/output.jpg" width="400" alt="Claude Code + GPT Image 2 character key visual"></a></td>
+</tr></table>
+
+**Steps:**
+
+1. Use Claude Code to draft world-building notes and a structured character spec (name, appearance, personality, setting)
+2. Feed the character spec directly into GPT Image 2 to generate a key visual or character sheet
+3. Use the key visual as the reference image in Seedance 2.0 and animate
+
+**Claude Code → GPT Image 2 handoff prompt:**
+
+```
+Based on the following character spec, generate a key visual for [character name]:
+[Paste Claude Code output here — name, appearance, outfit, world setting, mood]
+Style: [anime / cinematic illustration / game art], [color palette].
+Fix this character design — it will be used as a reference across all subsequent images.
+```
+
+**Seedance 2.0 Prompt:**
+
+```
+Japanese full-color anime style, character in natural idle breathing animation,
+subtle hair and clothing movement, 24fps, seamless loop.
+[Or: high-speed cuts, 24fps, dark fantasy anime OP style — protagonist in opening sequence.]
+```
+
+> [!NOTE]
+> Claude Code outputs structured text — character specs, scene descriptions, dialogue outlines — which GPT Image 2 handles well as detailed prompts. This pipeline is particularly effective for original story IP: build the lore in code, visualize it in GPT Image 2, animate it in Seedance.
 
 ## 💡 Tips & Techniques
 
@@ -495,6 +639,10 @@ Cinematic commercial quality, [brand tone: premium / energetic / warm],
 Duration: 3 seconds.
 ```
 
+**Prompt length — shorter often wins**
+
+Community experiment via [@Iancu_ai](https://x.com/Iancu_ai/status/2047882924679168083): a 1500-word cinema-grade Seedance prompt lost to a single sentence. Same character, same 15 seconds. The short prompt won. Seedance rewards directional clarity over exhaustive description — write the motion intent, not every detail of the scene.
+
 ---
 
 ### Troubleshooting
@@ -542,6 +690,73 @@ Step 3: Add your Seedance prompt → generate
 <a href='https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Get%20Started-Evolink-black' height="25"></a>
 
 
+## 🖼️ Gallery
+
+Community outputs that demonstrate the workflow's range — no extractable prompt, but strong visual reference.
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**[@Jake_Joseph](https://x.com/Jake_Joseph/status/2046706676154450424)**<br>
+GPT Image 2 + Seedance 2 — hyperrealistic elderly portrait video ("Old people on Facebook are absolutely cooked")<br>
+`1.7K likes / 1.3M views`
+
+<video src="images/gallery/jake_joseph_facebook.mp4" width="100%" controls></video>
+
+</td>
+<td align="center" width="50%">
+
+**[@venturetwins](https://x.com/venturetwins/status/2047820435543437630)**<br>
+GPT Image 2 → Seedance 2 game streaming concept — "can't wait until we can each stream our own game"<br>
+`995 likes / 159K views`
+
+<video src="images/gallery/venturetwins_game.mp4" width="100%" controls></video>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**[@0xInk_](https://x.com/0xInk_/status/2047648944004755679)**<br>
+GPT Image 2 UI animation + Seedance 2 — high-detail interface animation showcase<br>
+`972 likes / 75K views`
+
+<video src="images/gallery/0xink_ui_animation.mp4" width="100%" controls></video>
+
+</td>
+<td align="center" width="50%">
+
+**[@markgadala](https://x.com/markgadala/status/2047825115631518115)**<br>
+Full game trailer for a game that doesn't exist — GPT Image 2 storyboards + Seedance 2<br>
+`58 likes / 2.7K views`
+
+<video src="images/gallery/markgadala_game_trailer.mp4" width="100%" controls></video>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**[@Tz_2022](https://x.com/Tz_2022/status/2047684399404056609)**<br>
+Japanese-style MV: GPT-Image 2 + Seedance 2.0 + Suno 5.5 + CapCut — see Case 11 for full workflow<br>
+`742 likes / 107K views`
+
+<video src="images/creative_case11/output.mp4" width="100%" controls></video>
+
+</td>
+<td align="center" width="50%">
+
+**[@Ankit_patel211](https://x.com/Ankit_patel211/status/2047706765509423382)**<br>
+Realistic vs. Manga style comparison — text-to-video vs. image-to-video with Seedance 2 + GPT Image 2<br>
+`5 likes / 408 views`
+
+<video src="images/gallery/ankit_realistic_manga.mp4" width="100%" controls></video>
+
+</td>
+</tr>
+</table>
+
 ## 🙏 Acknowledge
 
 This repository was inspired by outstanding open workflow collections and community-shared experiments.
@@ -560,8 +775,18 @@ Thanks to the creators and contributors who shared their work publicly and made 
 - [@AbleGPT](https://x.com/AbleGPT)
 - [@patata1216](https://x.com/patata1216)
 - [@peter6759](https://x.com/peter6759)
-- [@ponyodong](https://x.com/ponyodong)
 - [@hibi_ai__](https://x.com/hibi_ai__)
+- [@heygentlewhale](https://x.com/heygentlewhale)
+- [@ai_gezgini](https://x.com/ai_gezgini)
+- [@Tz_2022](https://x.com/Tz_2022)
+- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [@0xbisc](https://x.com/0xbisc)
+- [@Iancu_ai](https://x.com/Iancu_ai)
+- [@Jake_Joseph](https://x.com/Jake_Joseph)
+- [@venturetwins](https://x.com/venturetwins)
+- [@0xInk_](https://x.com/0xInk_)
+- [@markgadala](https://x.com/markgadala)
+- [@Ankit_patel211](https://x.com/Ankit_patel211)
 
 *We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
 
