@@ -39,6 +39,7 @@ Faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
 
 ## 📰 Haberler
 
+- **25 Nisan 2026:** Vaka 10–12 eklendi (çok kareli storyboard, Japon MV toolchain, Claude Code × karakter sheet'i), Vaka 9 ARPG simülasyon varyantıyla genişletildi, galeriye topluluk showcase'i eklendi
 - **23 Nisan 2026:** Depo 9 secilmis is akisi vakasiyla yayina alindi
 
 ## 📑 Menu
@@ -49,9 +50,11 @@ Faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
 - [🎥 Storyboard Is Akislari](#-storyboard-is-akislari)
   - [Vaka 1: Standart Storyboard → Video (by @kiyoshi_shin)](#vaka-1-standart-storyboard--video-by-kiyoshi_shin)
   - [Vaka 2: 3×3 Izgara Storyboard Yontemi (by @servasyy_ai)](#vaka-2-33-izgara-storyboard-yontemi-by-servasyy_ai)
+  - [Vaka 10: Cok Kareli Referans → Hizli Kesim Video (by @heygentlewhale)](#vaka-10-cok-kareli-referans--hizli-kesim-video-by-heygentlewhale)
 - [🎨 Karakter ve Animasyon](#-karakter-ve-animasyon)
   - [Vaka 3: Karakter Sheet'i → Animasyon (by @YaReYaRu30Life)](#vaka-3-karakter-sheeti--animasyon-by-yareyaru30life)
   - [Vaka 4: Anime OP Tarzi Video (by @Toshi_nyaruo_AI)](#vaka-4-anime-op-tarzi-video-by-toshi_nyaruo_ai)
+  - [Vaka 12: Claude Code × Karakter Sheet'i → Animasyon (by @old_pgmrs_will)](#vaka-12-claude-code--karakter-sheeti--animasyon-by-old_pgmrs_will)
 - [📱 Uygulama ve Urun Demolari](#-uygulama-ve-urun-demolari)
   - [Vaka 5: Uygulama MVP Demo Videosu (by @Shin_Engineer)](#vaka-5-uygulama-mvp-demo-videosu-by-shin_engineer)
   - [Vaka 6: 15 Saniyelik Reklam (by @ai_mitosan)](#vaka-6-15-saniyelik-reklam-by-ai_mitosan)
@@ -59,6 +62,7 @@ Faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
   - [Vaka 7: Suno ile Muzik Videosu (by @fukaborichannel)](#vaka-7-suno-ile-muzik-videosu-by-fukaborichannel)
   - [Vaka 8: Siberpunk Tarzinda Kisa Film (by @ponyodong)](#vaka-8-siberpunk-tarzinda-kisa-film-by-ponyodong)
   - [Vaka 9: Oyun ve Etkilesimli Icerik (by @AbleGPT)](#vaka-9-oyun-ve-etkilesimli-icerik-by-ablegpt)
+  - [Vaka 11: Japon MV — Tam AI Toolchain (by @Tz_2022)](#vaka-11-japon-mv--tam-ai-toolchain-by-tz_2022)
 - [💡 Ipuclari ve Teknikler](#-ipuclari-ve-teknikler)
   - [Tutarlilik Rehberi](#tutarlilik-rehberi)
   - [Prompt Sablonlari](#prompt-sablonlari)
@@ -134,6 +138,54 @@ Output as a single image with all 9 panels arranged in a grid.
 
 > [!NOTE]
 > **Kullanmadan once koseli parantez icindeki icerigi degistirin.** Bu yontem ise yarar cunku Seedance hareket niyetini tek bir goruntuden analiz eder. Izgara yon referansi saglar ve ayri goruntulere gore daha tutarli hareket uretir.
+
+<!-- Case 10: Multi-Frame Reference Storyboard (by @heygentlewhale + @ai_gezgini) -->
+### Vaka 10: [Cok Kareli Referans → Hizli Kesim Video](https://x.com/heygentlewhale/status/2047969137969004946) (by [@heygentlewhale](https://x.com/heygentlewhale))
+
+Seedance 2.0'a birden fazla referans karesi iceren bir storyboard goruntusu verin ve sirayi takip etmesini soyleyin. Model, kare konumlarini sahne sinyalleri olarak okur ve klipleri manuel olarak birlestirmeye gerek kalmadan tutarli bir hizli kesim duzenlemesi uretir.
+
+<table><tr>
+<td align="center"><video src="images/storyboard_case10/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+</tr></table>
+
+**Adimlar:**
+
+1. GPT Image 2'de cok panelli bir storyboard goruntusu uretin (12 kare, 3×4 veya 4×3 izgara)
+2. Storyboard'u Seedance 2.0'a referans goruntu olarak yukleyin
+3. Kare sayisini ve duzenleme stilini belirten bir siralama prompt'u yazin
+
+**GPT Image 2 Prompt'u:**
+
+```text
+Create a 12-panel storyboard grid for a [N]-second [genre] film:
+- 4 columns × 3 rows, left-to-right, top-to-bottom reading order
+- Each panel: [shot type] + [action description]
+- Location: [setting], Time: [day/night], Mood: [atmosphere]
+- Consistent character design and scene across all panels
+- No text labels, no panel borders
+Output as a single image.
+```
+
+**Seedance 2.0 Prompt'u:**
+
+```text
+Follow the storyboard sequence of the 12 reference frames in image1, edited as a fast-cut memory montage.
+[Describe visual style — example below:]
+A nostalgic romance film set in 1990s Singapore, shot on 35mm film in Kodak Portra 800 style.
+Soft grain, dreamy blur, warm highlights, and slight color shifts create a vintage cinematic atmosphere.
+```
+
+**Evrensel siralama prompt'u (via [@ai_gezgini](https://x.com/ai_gezgini/status/2047349122315805016)):**
+
+```text
+Use this storyboard to generate a video, follow the scene order, keep transitions smooth,
+and preserve cinematic lighting and pacing.
+[Add any extra visual details you want.]
+```
+
+> [!NOTE]
+> Bu prompt her turde isler: stil aciklamasini bilim kurgu, korku, belgesel veya baska bir turle degistirin. Anahtar ifade `follow the storyboard sequence of the [N] reference frames`'dir; bu ifade Seedance'e kare konumlarini tek bir kompozisyon yerine bir zaman cizelgesi olarak ele almasi gerektigini soyler.
 
 ## 🎨 Karakter ve Animasyon
 
@@ -215,6 +267,41 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 
 > [!NOTE]
 > Seedance serbest canlandirma yaptiginda (storyboard referansi olmadan), sonuc daha dinamik olabilir ama kaynak goruntuyle daha az tutarli olur. Kritik karakter cekimleri icin storyboard kontrolu, aksiyon sekanslari icin ise serbest animasyon kullanin.
+
+<!-- Case 12: Claude Code + Character Sheet → Animation (by @old_pgmrs_will) -->
+### Vaka 12: [Claude Code × Karakter Sheet'i → Animasyon](https://x.com/old_pgmrs_will/status/2045091769180914019) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+
+Lore ve dunya insasi icin Claude Code kullanin, ardindan yapilandirilmis aciklamalari GPT Image 2'ye aktararak karakterin key visual'ini olusturun ve Seedance 2.0 ile canlandirin. Orijinal IP olusturma icin gelistiricilere yonelik is akisi. 191 begeni / 7B gorunum.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/seedance2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case12/output.jpg" width="400" alt="Claude Code + GPT Image 2 ile uretilmis karakter key visual'i"></a></td>
+</tr></table>
+
+**Adimlar:**
+
+1. Lore notlari ve yapilandirilmis karakter spesifikasyonu (isim, gorunum, kisilik, ortam) olusturmak icin Claude Code kullanin
+2. Karakter spesifikasyonunu dogrudan GPT Image 2'ye girerek key visual veya karakter sheet'i uretin
+3. Key visual'i Seedance 2.0'da referans goruntu olarak kullanin ve canlandirin
+
+**Claude Code → GPT Image 2 aktarim prompt'u:**
+
+```text
+Based on the following character spec, generate a key visual for [character name]:
+[Paste Claude Code output here — name, appearance, outfit, world setting, mood]
+Style: [anime / cinematic illustration / game art], [color palette].
+Fix this character design — it will be used as a reference across all subsequent images.
+```
+
+**Seedance 2.0 Prompt'u:**
+
+```text
+Japanese full-color anime style, character in natural idle breathing animation,
+subtle hair and clothing movement, 24fps, seamless loop.
+[Or: high-speed cuts, 24fps, dark fantasy anime OP style — protagonist in opening sequence.]
+```
+
+> [!NOTE]
+> Claude Code, GPT Image 2'nin ayrintili prompt olarak iyi islettigi yapilandirilmis metin (karakter spesifikasyonlari, sahne aciklamalari, diyalog sablonlari) uretir. Bu pipeline ozellikle orijinal hikaye IP'leri icin etkilidir: lore'u kodda olusturun, GPT Image 2'de gorselleştirin ve Seedance'te canlandirin.
 
 ## 📱 Uygulama ve Urun Demolari
 
@@ -408,8 +495,65 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 [Style: Black Myth style, Chinese mythological martial arts, realistic rendering, dynamic camera work.]
 ```
 
+**Varyant — ARPG oyun simulasyonu (by [@0xbisc](https://x.com/0xbisc/status/2047315350862352715)):**
+
+One Piece, Stranger Things, herhangi bir IP: var olmayan bir dunyanin oyun ekran goruntusunu uretin ve ardindan Seedance 2.0 ile gercek gameplay'e genisletin. 934 begeni / 125B gorunum.
+
+<table><tr>
+<td align="center"><video src="images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+</tr></table>
+
+**GPT Image 2 Prompt'u:**
+
+```text
+Generate an ARPG dialogue game screenshot inspired by [film/series name]
+```
+
+**Seedance 2.0:** Image-to-Video modunu kullanin. Prompt gerekmez: Seedance HUD tasarimini okur ve otomatik olarak bir gameplay sekansina genisletir.
+
 > [!NOTE]
 > Seedance 2.0'in gercekci insan icerigi uzerinde kisitlamalari vardir. Oyun, anime ve ilustrasyon tarzlari bu sinirlamalarin cogunu asar ve daha genis yaratici alan sunar.
+>
+> **ARPG ipucu (via [@peter6759](https://x.com/peter6759/status/2047130834180903166)):** Etkilesimli film tarzi icin her iki adimi tek bir geciste birlestirebilirsiniz: GPT Image 2 prompt'u: `Interactive movie game, Black Myth style, Water Margin` → Seedance 2.0 prompt'u: `Click option A, normal UI shift, then reasonable combat happens`. Cift dilli yaklasim (GPT Image 2 icin Cince prompt, Seedance icin Ingilizce) kulturel sadakati genellikle arttirir.
+>
+> **Topluluk showcase'i:** [@markgadala](https://x.com/markgadala/status/2047825115631518115) bu is akisini var olmayan bir oyunun tam fragmanini uretmek icin kullandi. [@0xInk_](https://x.com/0xInk_/status/2047648944004755679) yuksek cozunurluklu UI animasyonlari icin kullandi (972 begeni / 75B gorunum).
+
+<!-- Case 11: Japanese MV Full Toolchain (by @Tz_2022) -->
+### Vaka 11: [Japon MV — Tam AI Toolchain](https://x.com/Tz_2022/status/2047684399404056609) (by [@Tz_2022](https://x.com/Tz_2022))
+
+Tam Japon tarzinda bir muzik videosu uretmek icin dort aracli pipeline: GPT Image 2 gorseller icin → Seedance 2.0 hareket icin → Suno 5.5 muzik icin → CapCut son duzenleme icin. 742 begeni / 107B gorunum.
+
+<table><tr>
+<td align="center"><video src="images/creative_case11/output.mp4" width="400" controls></video></td>
+</tr></table>
+
+**Adimlar:**
+
+1. Once Suno 5.5'te muzigi uretin: parcanin uzunlugunu, temposunu ve ruh halini belirleyin
+2. GPT Image 2'de sarki bolumlerine gore senkronize storyboard panelleri tasarlayin
+3. Her paneli Seedance 2.0'da canlandirin, klip suresini ritme uydurun
+4. Video klipleri ve Suno parcasini CapCut'a aktarip senkronize edin ve disa aktarin
+
+**GPT Image 2 Prompt'u:**
+
+```text
+Create a [N]-panel storyboard for a Japanese-style music video:
+Intro: [visual concept]
+Verse: [visual concept]
+Chorus: [visual concept]
+Style: [anime illustration / painterly / film still], [color palette], [mood].
+Character: [name and appearance]. Keep this character design fixed across all panels.
+```
+
+**Seedance 2.0 Prompt'u:**
+
+```text
+Japanese anime style, [season] atmosphere, [lighting description], soft film grain, 24fps.
+[Character name] [action description], [background description].
+```
+
+> [!NOTE]
+> Once muzigi uretin: storyboard tasarlamadan once beat yapisini bilmek, panel zamanlamasini sarki kesmelerine tam oturtmanizi saglar. Bu vaka, Suno'yu donguye entegre ederek ve tum pipeline'i sonradan montaj yerine senkronize bir produksiyon olarak ele alarak Vaka 7'yi (City Pop MV) genisletir.
 
 ## 💡 Ipuclari ve Teknikler
 
@@ -550,8 +694,18 @@ Calismalarini acik bicimde paylasan ve bu vaka incelemelerini mumkun kilan ureti
 - [@AbleGPT](https://x.com/AbleGPT)
 - [@patata1216](https://x.com/patata1216)
 - [@peter6759](https://x.com/peter6759)
-- [@ponyodong](https://x.com/ponyodong)
 - [@hibi_ai__](https://x.com/hibi_ai__)
+- [@heygentlewhale](https://x.com/heygentlewhale)
+- [@ai_gezgini](https://x.com/ai_gezgini)
+- [@Tz_2022](https://x.com/Tz_2022)
+- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [@0xbisc](https://x.com/0xbisc)
+- [@Iancu_ai](https://x.com/Iancu_ai)
+- [@Jake_Joseph](https://x.com/Jake_Joseph)
+- [@venturetwins](https://x.com/venturetwins)
+- [@0xInk_](https://x.com/0xInk_)
+- [@markgadala](https://x.com/markgadala)
+- [@Ankit_patel211](https://x.com/Ankit_patel211)
 
 *Her vakanin orijinal ureticisine kesin olarak atfedildigini garanti edemiyoruz. Duzenlenmesi gereken bir sey varsa bizimle iletisime gecin, guncelleriz.*
 

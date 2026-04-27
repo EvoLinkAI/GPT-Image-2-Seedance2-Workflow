@@ -45,6 +45,7 @@ Se isto for útil para você, considere dar uma estrela. ⭐
 
 ## 📰 Notícias
 
+- **25 de abril de 2026:** Adicionados os casos 10–12 (storyboard multiframe, toolchain de videoclipe japonês, Claude Code × folha de personagem), caso 9 expandido com variante de simulação ARPG, showcase da comunidade adicionado à galeria
 - **23 de abril de 2026:** Repositório lançado com 9 casos de workflow selecionados
 
 ## 📑 Menu
@@ -55,9 +56,11 @@ Se isto for útil para você, considere dar uma estrela. ⭐
 - [🎥 Workflows com Storyboard](#-workflows-com-storyboard)
   - [Caso 1: Storyboard padrão → Vídeo (por @kiyoshi_shin)](#caso-1-storyboard-padrão--vídeo-por-kiyoshi_shin)
   - [Caso 2: Método de storyboard em grade 3×3 (por @servasyy_ai)](#caso-2-método-de-storyboard-em-grade-33-por-servasyy_ai)
+  - [Caso 10: Referência multiframe → Vídeo de corte rápido (por @heygentlewhale)](#caso-10-referência-multiframe--vídeo-de-corte-rápido-por-heygentlewhale)
 - [🎨 Personagem e Animação](#-personagem-e-animação)
   - [Caso 3: Folha de personagem → Animação (por @YaReYaRu30Life)](#caso-3-folha-de-personagem--animação-por-yareyaru30life)
   - [Caso 4: Vídeo em estilo de abertura de anime (por @Toshi_nyaruo_AI)](#caso-4-vídeo-em-estilo-de-abertura-de-anime-por-toshi_nyaruo_ai)
+  - [Caso 12: Claude Code × Folha de personagem → Animação (por @old_pgmrs_will)](#caso-12-claude-code--folha-de-personagem--animação-por-old_pgmrs_will)
 - [📱 Demo de App e Produto](#-demo-de-app-e-produto)
   - [Caso 5: Vídeo demo de MVP de app (por @Shin_Engineer)](#caso-5-vídeo-demo-de-mvp-de-app-por-shin_engineer)
   - [Caso 6: Comercial de 15 segundos (por @ai_mitosan)](#caso-6-comercial-de-15-segundos-por-ai_mitosan)
@@ -65,12 +68,12 @@ Se isto for útil para você, considere dar uma estrela. ⭐
   - [Caso 7: Videoclipe com Suno (por @fukaborichannel)](#caso-7-videoclipe-com-suno-por-fukaborichannel)
   - [Caso 8: Curta em estilo cyberpunk (por @ponyodong)](#caso-8-curta-em-estilo-cyberpunk-por-ponyodong)
   - [Caso 9: Jogos e conteúdo interativo (por @AbleGPT)](#caso-9-jogos-e-conteúdo-interativo-por-ablegpt)
+  - [Caso 11: MV japonês — Toolchain completo de IA (por @Tz_2022)](#caso-11-mv-japonês--toolchain-completo-de-ia-por-tz_2022)
 - [💡 Dicas e Técnicas](#-dicas-e-técnicas)
   - [Guia de consistência](#guia-de-consistência)
   - [Templates de prompt](#templates-de-prompt)
   - [Solução de problemas](#solução-de-problemas)
 - [🚀 Experimente no Evolink](#-experimente-no-evolink)
-- [🖼️ Galeria](#️-galeria)
 - [🙏 Agradecimentos](#-agradecimentos)
 
 ## 🎥 Workflows com Storyboard
@@ -143,6 +146,54 @@ Output as a single image with all 9 panels arranged in a grid.
 
 > [!NOTE]
 > **Substitua o conteúdo entre colchetes antes de usar.** Este método funciona porque o Seedance analisa a intenção de movimento a partir de uma única imagem. A grade fornece referência direcional e produz um movimento mais coerente do que imagens separadas.
+
+<!-- Case 10: Multi-Frame Reference Storyboard (by @heygentlewhale + @ai_gezgini) -->
+### Caso 10: [Referência multiframe → Vídeo de corte rápido](https://x.com/heygentlewhale/status/2047969137969004946) (por [@heygentlewhale](https://x.com/heygentlewhale))
+
+Forneça ao Seedance 2.0 uma imagem de storyboard com vários quadros de referência e instrua-o a seguir a ordem da sequência. O modelo lê as posições dos quadros como sinais de cena e gera uma edição de corte rápido coerente, sem necessidade de montar clipes manualmente.
+
+<table><tr>
+<td align="center"><video src="images/storyboard_case10/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+</tr></table>
+
+**Passos:**
+
+1. Gere no GPT Image 2 uma imagem de storyboard multipanel (12 quadros, grade 3×4 ou 4×3)
+2. Carregue o storyboard como imagem de referência no Seedance 2.0
+3. Escreva um prompt de sequenciamento que indique o número de quadros e o estilo de edição
+
+**Prompt para GPT Image 2:**
+
+```text
+Create a 12-panel storyboard grid for a [N]-second [genre] film:
+- 4 columns × 3 rows, left-to-right, top-to-bottom reading order
+- Each panel: [shot type] + [action description]
+- Location: [setting], Time: [day/night], Mood: [atmosphere]
+- Consistent character design and scene across all panels
+- No text labels, no panel borders
+Output as a single image.
+```
+
+**Prompt para Seedance 2.0:**
+
+```text
+Follow the storyboard sequence of the 12 reference frames in image1, edited as a fast-cut memory montage.
+[Describe visual style — example below:]
+A nostalgic romance film set in 1990s Singapore, shot on 35mm film in Kodak Portra 800 style.
+Soft grain, dreamy blur, warm highlights, and slight color shifts create a vintage cinematic atmosphere.
+```
+
+**Prompt de sequenciamento universal (via [@ai_gezgini](https://x.com/ai_gezgini/status/2047349122315805016)):**
+
+```text
+Use this storyboard to generate a video, follow the scene order, keep transitions smooth,
+and preserve cinematic lighting and pacing.
+[Add any extra visual details you want.]
+```
+
+> [!NOTE]
+> Este prompt funciona em qualquer gênero: substitua a descrição de estilo por ficção científica, terror, documentário ou qualquer outro. A frase-chave é `follow the storyboard sequence of the [N] reference frames`, que instrui o Seedance a tratar as posições dos quadros como uma linha do tempo em vez de uma composição única.
 
 ## 🎨 Personagem e Animação
 
@@ -224,6 +275,41 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 
 > [!NOTE]
 > Quando o Seedance anima livremente, sem referência de storyboard, o resultado pode ficar mais dinâmico, mas menos consistente com a imagem de origem. Use controle por storyboard para planos-chave do personagem e animação livre para sequências de ação.
+
+<!-- Case 12: Claude Code + Character Sheet → Animation (by @old_pgmrs_will) -->
+### Caso 12: [Claude Code × Folha de personagem → Animação](https://x.com/old_pgmrs_will/status/2045091769180914019) (por [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+
+Use o Claude Code para escrever o lore e a construção do mundo, depois passe descrições estruturadas para o GPT Image 2 gerar o key visual do personagem e anime-o com o Seedance 2.0. Workflow voltado para desenvolvedores para criação de IPs originais. 191 curtidas / 7K visualizações.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/seedance2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case12/output.jpg" width="400" alt="Key visual de personagem gerado com Claude Code + GPT Image 2"></a></td>
+</tr></table>
+
+**Passos:**
+
+1. Use o Claude Code para redigir notas de lore e uma especificação estruturada do personagem (nome, aparência, personalidade, ambiente)
+2. Insira a especificação do personagem diretamente no GPT Image 2 para gerar um key visual ou folha de personagem
+3. Use o key visual como imagem de referência no Seedance 2.0 e anime-o
+
+**Prompt de transferência Claude Code → GPT Image 2:**
+
+```text
+Based on the following character spec, generate a key visual for [character name]:
+[Paste Claude Code output here — name, appearance, outfit, world setting, mood]
+Style: [anime / cinematic illustration / game art], [color palette].
+Fix this character design — it will be used as a reference across all subsequent images.
+```
+
+**Prompt para Seedance 2.0:**
+
+```text
+Japanese full-color anime style, character in natural idle breathing animation,
+subtle hair and clothing movement, 24fps, seamless loop.
+[Or: high-speed cuts, 24fps, dark fantasy anime OP style — protagonist in opening sequence.]
+```
+
+> [!NOTE]
+> O Claude Code gera texto estruturado (especificações de personagem, descrições de cena, esquemas de diálogo) que o GPT Image 2 lida bem como prompts detalhados. Este pipeline é especialmente eficaz para IPs de história originais: construa o lore em código, visualize no GPT Image 2 e anime no Seedance.
 
 ## 📱 Demo de App e Produto
 
@@ -417,8 +503,65 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 [Style: Black Myth style, Chinese mythological martial arts, realistic rendering, dynamic camera work.]
 ```
 
+**Variante — Simulação de jogo ARPG (por [@0xbisc](https://x.com/0xbisc/status/2047315350862352715)):**
+
+One Piece, Stranger Things, qualquer IP: gere uma captura de jogo de um mundo que não existe e depois expanda para gameplay real com o Seedance 2.0. 934 curtidas / 125K visualizações.
+
+<table><tr>
+<td align="center"><video src="images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+</tr></table>
+
+**Prompt para GPT Image 2:**
+
+```text
+Generate an ARPG dialogue game screenshot inspired by [film/series name]
+```
+
+**Seedance 2.0:** Use o modo Image-to-Video. Nenhum prompt é necessário: o Seedance lê o design do HUD e o expande automaticamente em uma sequência de gameplay.
+
 > [!NOTE]
 > O Seedance 2.0 tem restrições para conteúdo humano realista. Estilos de jogo, anime e ilustração contornam a maioria dessas limitações e oferecem maior liberdade criativa.
+>
+> **Dica ARPG (via [@peter6759](https://x.com/peter6759/status/2047130834180903166)):** Para um estilo de filme interativo, combine os dois passos em uma única passagem: prompt do GPT Image 2: `Interactive movie game, Black Myth style, Water Margin` → prompt do Seedance 2.0: `Click option A, normal UI shift, then reasonable combat happens`. A abordagem bilíngue (prompt em chinês para o GPT Image 2, em inglês para o Seedance) costuma melhorar a fidelidade cultural.
+>
+> **Showcase da comunidade:** [@markgadala](https://x.com/markgadala/status/2047825115631518115) usou este workflow para gerar um trailer completo de um jogo que não existe. [@0xInk_](https://x.com/0xInk_/status/2047648944004755679) o usou para animações de UI em alta resolução (972 curtidas / 75K visualizações).
+
+<!-- Case 11: Japanese MV Full Toolchain (by @Tz_2022) -->
+### Caso 11: [MV japonês — Toolchain completo de IA](https://x.com/Tz_2022/status/2047684399404056609) (por [@Tz_2022](https://x.com/Tz_2022))
+
+Pipeline de quatro ferramentas para produzir um videoclipe completo em estilo japonês: GPT Image 2 para visuais → Seedance 2.0 para o movimento → Suno 5.5 para a música → CapCut para a edição final. 742 curtidas / 107K visualizações.
+
+<table><tr>
+<td align="center"><video src="images/creative_case11/output.mp4" width="400" controls></video></td>
+</tr></table>
+
+**Passos:**
+
+1. Gere primeiro a música no Suno 5.5: defina a duração da faixa, o tempo e o clima
+2. Crie painéis de storyboard no GPT Image 2 sincronizados com as seções da música
+3. Anime cada painel no Seedance 2.0, ajustando a duração do clipe ao beat
+4. Importe os clipes de vídeo e a faixa do Suno no CapCut, sincronize e exporte
+
+**Prompt para GPT Image 2:**
+
+```text
+Create a [N]-panel storyboard for a Japanese-style music video:
+Intro: [visual concept]
+Verse: [visual concept]
+Chorus: [visual concept]
+Style: [anime illustration / painterly / film still], [color palette], [mood].
+Character: [name and appearance]. Keep this character design fixed across all panels.
+```
+
+**Prompt para Seedance 2.0:**
+
+```text
+Japanese anime style, [season] atmosphere, [lighting description], soft film grain, 24fps.
+[Character name] [action description], [background description].
+```
+
+> [!NOTE]
+> Gere a música primeiro: conhecer a estrutura do beat antes de criar os storyboards permite alinhar com precisão o tempo dos painéis aos cortes da música. Este caso expande o Caso 7 (MV City Pop) integrando o Suno no loop e tratando todo o pipeline como uma produção sincronizada em vez de uma montagem posterior.
 
 ## 💡 Dicas e Técnicas
 
@@ -560,8 +703,18 @@ Obrigado aos criadores e contribuidores que publicaram seus trabalhos e tornaram
 - [@AbleGPT](https://x.com/AbleGPT)
 - [@patata1216](https://x.com/patata1216)
 - [@peter6759](https://x.com/peter6759)
-- [@ponyodong](https://x.com/ponyodong)
 - [@hibi_ai__](https://x.com/hibi_ai__)
+- [@heygentlewhale](https://x.com/heygentlewhale)
+- [@ai_gezgini](https://x.com/ai_gezgini)
+- [@Tz_2022](https://x.com/Tz_2022)
+- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [@0xbisc](https://x.com/0xbisc)
+- [@Iancu_ai](https://x.com/Iancu_ai)
+- [@Jake_Joseph](https://x.com/Jake_Joseph)
+- [@venturetwins](https://x.com/venturetwins)
+- [@0xInk_](https://x.com/0xInk_)
+- [@markgadala](https://x.com/markgadala)
+- [@Ankit_patel211](https://x.com/Ankit_patel211)
 
 *Não podemos garantir que todos os casos estejam atribuídos ao criador original. Se algo precisar ser corrigido, entre em contato conosco e atualizaremos.*
 

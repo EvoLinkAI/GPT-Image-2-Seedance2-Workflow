@@ -45,6 +45,7 @@ Evolink에서 바로 사용해 보세요: [GPT Image 2 + Seedance 2.0](https://e
 
 ## 📰 뉴스
 
+- **2026년 4월 25일:** 사례 10–12 추가 (멀티 프레임 스토리보드, 일본어 MV 툴체인, Claude Code × 캐릭터 시트). 사례 9에 ARPG 시뮬레이션 변형 추가. 갤러리에 커뮤니티 쇼케이스 추가
 - **2026년 4월 23일:** 9개의 선별된 워크플로 사례와 함께 저장소 공개
 
 ## 📑 목차
@@ -55,9 +56,11 @@ Evolink에서 바로 사용해 보세요: [GPT Image 2 + Seedance 2.0](https://e
 - [🎥 스토리보드 워크플로](#-스토리보드-워크플로)
   - [사례 1: 기본 스토리보드 → 영상 (by @kiyoshi_shin)](#사례-1-기본-스토리보드--영상-by-kiyoshi_shin)
   - [사례 2: 3×3 그리드 스토리보드 방식 (by @servasyy_ai)](#사례-2-33-그리드-스토리보드-방식-by-servasyy_ai)
+  - [사례 10: 멀티 프레임 참고 → 빠른 컷 영상 (by @heygentlewhale)](#사례-10-멀티-프레임-참고--빠른-컷-영상-by-heygentlewhale)
 - [🎨 캐릭터 & 애니메이션](#-캐릭터--애니메이션)
   - [사례 3: 캐릭터 시트 → 애니메이션 (by @YaReYaRu30Life)](#사례-3-캐릭터-시트--애니메이션-by-yareyaru30life)
   - [사례 4: 애니메이션 OP 스타일 영상 (by @Toshi_nyaruo_AI)](#사례-4-애니메이션-op-스타일-영상-by-toshi_nyaruo_ai)
+  - [사례 12: Claude Code × 캐릭터 시트 → 애니메이션 (by @old_pgmrs_will)](#사례-12-claude-code--캐릭터-시트--애니메이션-by-old_pgmrs_will)
 - [📱 앱 & 제품 데모](#-앱--제품-데모)
   - [사례 5: 앱 MVP 데모 영상 (by @Shin_Engineer)](#사례-5-앱-mvp-데모-영상-by-shin_engineer)
   - [사례 6: 15초 광고 (by @ai_mitosan)](#사례-6-15초-광고-by-ai_mitosan)
@@ -65,6 +68,7 @@ Evolink에서 바로 사용해 보세요: [GPT Image 2 + Seedance 2.0](https://e
   - [사례 7: Suno와 함께 만드는 뮤직비디오 (by @fukaborichannel)](#사례-7-suno와-함께-만드는-뮤직비디오-by-fukaborichannel)
   - [사례 8: 사이버펑크 스타일 단편 영화 (by @ponyodong)](#사례-8-사이버펑크-스타일-단편-영화-by-ponyodong)
   - [사례 9: 게임 & 인터랙티브 콘텐츠 (by @AbleGPT)](#사례-9-게임--인터랙티브-콘텐츠-by-ablegpt)
+  - [사례 11: 일본어 MV — 완전 AI 툴체인 (by @Tz_2022)](#사례-11-일본어-mv--완전-ai-툴체인-by-tz_2022)
 - [💡 팁 & 테크닉](#-팁--테크닉)
   - [일관성 가이드](#일관성-가이드)
   - [프롬프트 템플릿](#프롬프트-템플릿)
@@ -142,6 +146,54 @@ Output as a single image with all 9 panels arranged in a grid.
 
 > [!NOTE]
 > **사용 전 대괄호 안의 내용을 교체하세요.** 이 방식이 효과적인 이유는 Seedance가 단일 이미지에서 모션 의도를 분석하기 때문입니다. 그리드는 방향성 참고 정보를 제공하므로, 분리된 이미지보다 더 일관된 움직임을 만듭니다.
+
+<!-- Case 10: Multi-Frame Reference Storyboard (by @heygentlewhale + @ai_gezgini) -->
+### 사례 10: [멀티 프레임 참고 → 빠른 컷 영상](https://x.com/heygentlewhale/status/2047969137969004946) (by [@heygentlewhale](https://x.com/heygentlewhale))
+
+여러 참고 프레임이 담긴 스토리보드 이미지를 Seedance 2.0에 입력하고, 시퀀스 순서를 따르도록 지시합니다. 모델은 프레임 위치를 장면 단서로 읽어 빠른 컷 편집 영상을 만들어냅니다. 수동 클립 조립이 필요 없습니다.
+
+<table><tr>
+<td align="center"><video src="images/storyboard_case10/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+</tr></table>
+
+**단계:**
+
+1. GPT Image 2에서 멀티 패널 스토리보드 이미지를 생성합니다 (12프레임, 3×4 또는 4×3 그리드)
+2. 스토리보드를 Seedance 2.0의 참고 이미지로 업로드합니다
+3. 프레임 수와 편집 스타일을 명시한 시퀀스 프롬프트를 작성합니다
+
+**GPT Image 2 프롬프트:**
+
+```text
+Create a 12-panel storyboard grid for a [N]-second [genre] film:
+- 4 columns × 3 rows, left-to-right, top-to-bottom reading order
+- Each panel: [shot type] + [action description]
+- Location: [setting], Time: [day/night], Mood: [atmosphere]
+- Consistent character design and scene across all panels
+- No text labels, no panel borders
+Output as a single image.
+```
+
+**Seedance 2.0 프롬프트:**
+
+```text
+Follow the storyboard sequence of the 12 reference frames in image1, edited as a fast-cut memory montage.
+[Describe visual style — example below:]
+A nostalgic romance film set in 1990s Singapore, shot on 35mm film in Kodak Portra 800 style.
+Soft grain, dreamy blur, warm highlights, and slight color shifts create a vintage cinematic atmosphere.
+```
+
+**범용 시퀀스 프롬프트 (via [@ai_gezgini](https://x.com/ai_gezgini/status/2047349122315805016)):**
+
+```text
+Use this storyboard to generate a video, follow the scene order, keep transitions smooth,
+and preserve cinematic lighting and pacing.
+[Add any extra visual details you want.]
+```
+
+> [!NOTE]
+> 이 프롬프트는 장르에 관계없이 사용할 수 있습니다. 스타일 설명을 SF, 공포, 다큐멘터리 등 원하는 형식으로 교체하면 됩니다. 핵심 문구는 `follow the storyboard sequence of the [N] reference frames`입니다. 이 지시어가 Seedance에게 프레임 위치를 단일 구성이 아닌 타임라인으로 인식하도록 알려줍니다.
 
 ## 🎨 캐릭터 & 애니메이션
 
@@ -223,6 +275,41 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 
 > [!NOTE]
 > Seedance가 스토리보드 기준 없이 자유롭게 애니메이션하면 더 역동적인 결과가 나올 수 있지만, 원본 이미지와의 일관성은 떨어질 수 있습니다. 중요한 캐릭터 컷은 스토리보드 제어를 사용하고, 액션 시퀀스는 자유 애니메이션을 활용하세요.
+
+<!-- Case 12: Claude Code + Character Sheet → Animation (by @old_pgmrs_will) -->
+### 사례 12: [Claude Code × 캐릭터 시트 → 애니메이션](https://x.com/old_pgmrs_will/status/2045091769180914019) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+
+Claude Code로 세계관과 캐릭터 설정을 작성한 다음, 구조화된 설명을 GPT Image 2에 전달해 캐릭터 키 비주얼을 생성하고, Seedance 2.0으로 애니메이션화합니다. 오리지널 IP 제작을 위한 개발자 친화적 워크플로입니다. 191 좋아요 / 7K 조회.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/seedance2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case12/output.jpg" width="400" alt="Claude Code + GPT Image 2 캐릭터 키 비주얼"></a></td>
+</tr></table>
+
+**단계:**
+
+1. Claude Code로 세계관 노트와 구조화된 캐릭터 스펙(이름, 외모, 성격, 배경)을 작성합니다
+2. 캐릭터 스펙을 GPT Image 2에 직접 입력해 키 비주얼 또는 캐릭터 시트를 생성합니다
+3. 키 비주얼을 Seedance 2.0의 참고 이미지로 사용해 애니메이션화합니다
+
+**Claude Code → GPT Image 2 핸드오프 프롬프트:**
+
+```text
+Based on the following character spec, generate a key visual for [character name]:
+[Paste Claude Code output here — name, appearance, outfit, world setting, mood]
+Style: [anime / cinematic illustration / game art], [color palette].
+Fix this character design — it will be used as a reference across all subsequent images.
+```
+
+**Seedance 2.0 프롬프트:**
+
+```text
+Japanese full-color anime style, character in natural idle breathing animation,
+subtle hair and clothing movement, 24fps, seamless loop.
+[Or: high-speed cuts, 24fps, dark fantasy anime OP style — protagonist in opening sequence.]
+```
+
+> [!NOTE]
+> Claude Code는 구조화된 텍스트(캐릭터 스펙, 장면 설명, 대화 개요)를 출력하며, GPT Image 2는 이를 상세 프롬프트로 잘 처리합니다. 이 파이프라인은 오리지널 스토리 IP 제작에 특히 효과적입니다. 코드에서 설정을 만들고, GPT Image 2에서 시각화하고, Seedance에서 애니메이션화하세요.
 
 ## 📱 앱 & 제품 데모
 
@@ -416,8 +503,65 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 [Style: Black Myth style, Chinese mythological martial arts, realistic rendering, dynamic camera work.]
 ```
 
+**변형 — ARPG 게임 시뮬레이션 (by [@0xbisc](https://x.com/0xbisc/status/2047315350862352715)):**
+
+원피스, 기묘한 이야기 등 어떤 IP든 가능합니다. 존재하지 않는 세계의 게임 스크린샷을 생성한 뒤, Seedance 2.0으로 실제 게임플레이처럼 확장합니다. 934 좋아요 / 125K 조회.
+
+<table><tr>
+<td align="center"><video src="images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+</tr></table>
+
+**GPT Image 2 프롬프트:**
+
+```text
+Generate an ARPG dialogue game screenshot inspired by [film/series name]
+```
+
+**Seedance 2.0:** Image-to-Video 모드를 사용하세요. 프롬프트 없이도 Seedance가 HUD 레이아웃을 읽고 자동으로 게임플레이 시퀀스로 확장합니다.
+
 > [!NOTE]
 > Seedance 2.0은 사실적인 인간 콘텐츠에 제한이 있습니다. 게임, 애니메이션, 일러스트 스타일은 이러한 제한 대부분을 우회하며 더 넓은 창작 범위를 제공합니다.
+>
+> **ARPG 팁 (via [@peter6759](https://x.com/peter6759/status/2047130834180903166)):** 인터랙티브 무비 게임 스타일을 원한다면, 두 단계를 한 번에 결합하세요. GPT Image 2 프롬프트: `Interactive movie game, Black Myth style, Water Margin` → Seedance 2.0 프롬프트: `Click option A, normal UI shift, then reasonable combat happens`. 이중 언어 접근법(GPT Image 2는 중국어 프롬프트, Seedance는 영어)을 사용하면 문화적 정확도가 향상되는 경우가 많습니다.
+>
+> **커뮤니티 쇼케이스:** [@markgadala](https://x.com/markgadala/status/2047825115631518115)는 이 워크플로로 존재하지 않는 게임의 풀 트레일러를 제작했습니다. [@0xInk_](https://x.com/0xInk_/status/2047648944004755679)는 고디테일 UI 애니메이션에 활용했습니다 (972 좋아요 / 75K 조회).
+
+<!-- Case 11: Japanese MV Full Toolchain (by @Tz_2022) -->
+### 사례 11: [일본어 MV — 완전 AI 툴체인](https://x.com/Tz_2022/status/2047684399404056609) (by [@Tz_2022](https://x.com/Tz_2022))
+
+완전한 일본어 스타일 뮤직비디오를 제작하는 4개 도구 파이프라인입니다: GPT Image 2로 비주얼 → Seedance 2.0으로 모션 → Suno 5.5로 음악 → CapCut으로 최종 편집. 742 좋아요 / 107K 조회.
+
+<table><tr>
+<td align="center"><video src="images/creative_case11/output.mp4" width="400" controls></video></td>
+</tr></table>
+
+**단계:**
+
+1. 먼저 Suno 5.5에서 음악을 생성합니다. 곡 길이, 템포, 분위기를 확정합니다
+2. GPT Image 2에서 곡 구간에 맞춰 타이밍을 설계한 스토리보드 패널을 만듭니다
+3. Seedance 2.0에서 각 패널을 비트에 맞춰 애니메이션화합니다
+4. CapCut에 영상 클립과 Suno 트랙을 가져와 동기화하고 내보냅니다
+
+**GPT Image 2 프롬프트:**
+
+```text
+Create a [N]-panel storyboard for a Japanese-style music video:
+Intro: [visual concept]
+Verse: [visual concept]
+Chorus: [visual concept]
+Style: [anime illustration / painterly / film still], [color palette], [mood].
+Character: [name and appearance]. Keep this character design fixed across all panels.
+```
+
+**Seedance 2.0 프롬프트:**
+
+```text
+Japanese anime style, [season] atmosphere, [lighting description], soft film grain, 24fps.
+[Character name] [action description], [background description].
+```
+
+> [!NOTE]
+> 음악을 먼저 만드세요. 스토리보드를 설계하기 전에 비트 구조를 알아야 패널 타이밍을 곡 컷에 정확히 맞출 수 있습니다. 이 사례는 사례 7(시티팝 MV)을 확장하여 Suno를 루프에 추가하고, 전체 파이프라인을 사후 조립이 아닌 동기화된 제작 과정으로 다룹니다.
 
 ## 💡 팁 & 테크닉
 
@@ -559,8 +703,18 @@ Step 3: Add your Seedance prompt → generate
 - [@AbleGPT](https://x.com/AbleGPT)
 - [@patata1216](https://x.com/patata1216)
 - [@peter6759](https://x.com/peter6759)
-- [@ponyodong](https://x.com/ponyodong)
 - [@hibi_ai__](https://x.com/hibi_ai__)
+- [@heygentlewhale](https://x.com/heygentlewhale)
+- [@ai_gezgini](https://x.com/ai_gezgini)
+- [@Tz_2022](https://x.com/Tz_2022)
+- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [@0xbisc](https://x.com/0xbisc)
+- [@Iancu_ai](https://x.com/Iancu_ai)
+- [@Jake_Joseph](https://x.com/Jake_Joseph)
+- [@venturetwins](https://x.com/venturetwins)
+- [@0xInk_](https://x.com/0xInk_)
+- [@markgadala](https://x.com/markgadala)
+- [@Ankit_patel211](https://x.com/Ankit_patel211)
 
 *모든 사례가 원작자에게 정확히 귀속되었음을 보장할 수는 없습니다. 수정이 필요하면 연락해 주세요. 확인 후 업데이트하겠습니다.*
 
