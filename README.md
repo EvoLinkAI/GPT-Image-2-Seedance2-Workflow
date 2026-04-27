@@ -74,7 +74,6 @@ If you find this useful, consider giving it a star. ⭐
   - [Prompt Templates](#prompt-templates)
   - [Troubleshooting](#troubleshooting)
 - [🚀 Try It on Evolink](#-try-it-on-evolink)
-- [🖼️ Gallery](#️-gallery)
 - [🙏 Acknowledge](#-acknowledge)
 
 ## 🎥 Storyboard Workflows
@@ -689,73 +688,6 @@ Step 3: Add your Seedance prompt → generate
 
 <a href='https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Get%20Started-Evolink-black' height="25"></a>
 
-
-## 🖼️ Gallery
-
-Community outputs that demonstrate the workflow's range — no extractable prompt, but strong visual reference.
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**[@Jake_Joseph](https://x.com/Jake_Joseph/status/2046706676154450424)**<br>
-GPT Image 2 + Seedance 2 — hyperrealistic elderly portrait video ("Old people on Facebook are absolutely cooked")<br>
-`1.7K likes / 1.3M views`
-
-<video src="images/gallery/jake_joseph_facebook.mp4" width="100%" controls></video>
-
-</td>
-<td align="center" width="50%">
-
-**[@venturetwins](https://x.com/venturetwins/status/2047820435543437630)**<br>
-GPT Image 2 → Seedance 2 game streaming concept — "can't wait until we can each stream our own game"<br>
-`995 likes / 159K views`
-
-<video src="images/gallery/venturetwins_game.mp4" width="100%" controls></video>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**[@0xInk_](https://x.com/0xInk_/status/2047648944004755679)**<br>
-GPT Image 2 UI animation + Seedance 2 — high-detail interface animation showcase<br>
-`972 likes / 75K views`
-
-<video src="images/gallery/0xink_ui_animation.mp4" width="100%" controls></video>
-
-</td>
-<td align="center" width="50%">
-
-**[@markgadala](https://x.com/markgadala/status/2047825115631518115)**<br>
-Full game trailer for a game that doesn't exist — GPT Image 2 storyboards + Seedance 2<br>
-`58 likes / 2.7K views`
-
-<video src="images/gallery/markgadala_game_trailer.mp4" width="100%" controls></video>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**[@Tz_2022](https://x.com/Tz_2022/status/2047684399404056609)**<br>
-Japanese-style MV: GPT-Image 2 + Seedance 2.0 + Suno 5.5 + CapCut — see Case 11 for full workflow<br>
-`742 likes / 107K views`
-
-<video src="images/creative_case11/output.mp4" width="100%" controls></video>
-
-</td>
-<td align="center" width="50%">
-
-**[@Ankit_patel211](https://x.com/Ankit_patel211/status/2047706765509423382)**<br>
-Realistic vs. Manga style comparison — text-to-video vs. image-to-video with Seedance 2 + GPT Image 2<br>
-`5 likes / 408 views`
-
-<video src="images/gallery/ankit_realistic_manga.mp4" width="100%" controls></video>
-
-</td>
-</tr>
-</table>
 
 ## 🙏 Acknowledge
 
