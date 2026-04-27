@@ -156,8 +156,8 @@ Sors le résultat sous forme d'une seule image avec les 9 panneaux disposés en 
 Fournissez à Seedance 2.0 une image de storyboard avec plusieurs cadres de référence et demandez-lui de suivre l'ordre de la séquence. Le modèle lit les positions des cadres comme des repères de scène et produit un montage à coupes rapides cohérent, sans assemblage manuel des plans.
 
 <table><tr>
-<td align="center"><video src="images/storyboard_case10/output.mp4" width="400" controls></video></td>
-<td align="center"><video src="images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
 </tr></table>
 
 **Étapes :**
@@ -525,7 +525,7 @@ Clique sur l'option A, animation normale de transition UI, puis une séquence de
 One Piece, Stranger Things, n'importe quelle IP — générez une capture de jeu d'un monde qui n'existe pas, puis étendez-la à du gameplay réel avec Seedance 2.0. 934 likes / 125K vues.
 
 <table><tr>
-<td align="center"><video src="images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
 </tr></table>
 
 **Prompt GPT Image 2 :**
@@ -550,7 +550,7 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 Pipeline à quatre outils pour produire un clip musical japonais complet : GPT Image 2 pour les visuels → Seedance 2.0 pour le mouvement → Suno 5.5 pour la musique → CapCut pour le montage final. 742 likes / 107K vues.
 
 <table><tr>
-<td align="center"><video src="images/creative_case11/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/creative_case11/output.mp4" width="400" controls></video></td>
 </tr></table>
 
 **Étapes :**

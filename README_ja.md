@@ -151,8 +151,8 @@ Output as a single image with all 9 panels arranged in a grid.
 複数の参考フレームを含む絵コンテ画像を Seedance 2.0 に渡し、シーンの順序に従うよう指示します。モデルはフレームの位置をシーン指示として解釈し、手動での組み合わせなしに、一貫した高速カット編集を出力します。
 
 <table><tr>
-<td align="center"><video src="images/storyboard_case10/output.mp4" width="400" controls></video></td>
-<td align="center"><video src="images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
 </tr></table>
 
 **手順:**
@@ -506,7 +506,7 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 ワンピース、ストレンジャー・シングス、どの IP でも OK。存在しないゲームのスクリーンショットを GPT Image 2 で生成し、Seedance 2.0 でリアルなゲームプレイに拡張します。934 いいね / 12.5万 再生。
 
 <table><tr>
-<td align="center"><video src="images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
 </tr></table>
 
 **GPT Image 2 プロンプト:**
@@ -530,7 +530,7 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 4ツールのパイプラインで完全な日本語スタイルのミュージックビデオを制作: GPT Image 2 でビジュアル → Seedance 2.0 でモーション → Suno 5.5 で音楽 → CapCut で最終編集。742 いいね / 10.7万 再生。
 
 <table><tr>
-<td align="center"><video src="images/creative_case11/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/creative_case11/output.mp4" width="400" controls></video></td>
 </tr></table>
 
 **手順:**

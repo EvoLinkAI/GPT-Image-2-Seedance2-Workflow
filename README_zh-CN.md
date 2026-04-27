@@ -153,8 +153,8 @@ Output as a single image with all 9 panels arranged in a grid.
 向 Seedance 2.0 传入一张包含多个参考帧的分镜图，并指示它按顺序跟随场景。模型会将帧的位置解读为场景提示，直接输出连贯的快剪效果——无需手动拼接。
 
 <table><tr>
-<td align="center"><video src="images/storyboard_case10/output.mp4" width="400" controls></video></td>
-<td align="center"><video src="images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
 </tr></table>
 
 **步骤：**
@@ -509,7 +509,7 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 海贼王、怪奇物语，任何 IP 都行——先用 GPT Image 2 生成一款并不存在的游戏截图，再用 Seedance 2.0 将其扩展为真实的游戏画面。934 点赞 / 12.5 万播放。
 
 <table><tr>
-<td align="center"><video src="images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
 </tr></table>
 
 **GPT Image 2 提示词：**
@@ -533,7 +533,7 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 四工具流程，完整制作一支日系风格音乐视频：GPT Image 2 负责画面 → Seedance 2.0 负责运动 → Suno 5.5 负责音乐 → CapCut 负责最终剪辑。742 点赞 / 10.7 万播放。
 
 <table><tr>
-<td align="center"><video src="images/creative_case11/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/creative_case11/output.mp4" width="400" controls></video></td>
 </tr></table>
 
 **步骤：**
