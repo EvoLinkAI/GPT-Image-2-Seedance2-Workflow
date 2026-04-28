@@ -153,8 +153,8 @@ Output as a single image with all 9 panels arranged in a grid.
 Forneça ao Seedance 2.0 uma imagem de storyboard com vários quadros de referência e instrua-o a seguir a ordem da sequência. O modelo lê as posições dos quadros como sinais de cena e gera uma edição de corte rápido coerente, sem necessidade de montar clipes manualmente.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/output.mp4" width="400" controls></video></td>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/4d7af334-4e49-4de4-899e-803f72116c21" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/5def7e00-6fc6-4a4e-8075-5f37cb24b84c" width="400" controls></video></td>
 </tr></table>
 
 **Passos:**
@@ -478,7 +478,7 @@ Use o GPT Image 2 para gerar imagens com UI de jogo (HUD, barras de habilidade, 
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="Imagem de saída de UI de jogo"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/fa3b3fed-21eb-417a-a6a6-7f98990368ce" width="400" controls></video></td>
 </tr></table>
 
 **Passos:**
@@ -508,7 +508,7 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 One Piece, Stranger Things, qualquer IP: gere uma captura de jogo de um mundo que não existe e depois expanda para gameplay real com o Seedance 2.0. 934 curtidas / 125K visualizações.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/983b433a-88ea-4843-9047-fc01396752fe" width="400" controls></video></td>
 </tr></table>
 
 **Prompt para GPT Image 2:**
@@ -532,7 +532,7 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 Pipeline de quatro ferramentas para produzir um videoclipe completo em estilo japonês: GPT Image 2 para visuais → Seedance 2.0 para o movimento → Suno 5.5 para a música → CapCut para a edição final. 742 curtidas / 107K visualizações.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/creative_case11/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/e5ce621c-7fa3-47b5-99a7-00df7741a651" width="400" controls></video></td>
 </tr></table>
 
 **Passos:**

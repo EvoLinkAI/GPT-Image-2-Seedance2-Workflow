@@ -145,8 +145,8 @@ Output as a single image with all 9 panels arranged in a grid.
 Seedance 2.0'a birden fazla referans karesi iceren bir storyboard goruntusu verin ve sirayi takip etmesini soyleyin. Model, kare konumlarini sahne sinyalleri olarak okur ve klipleri manuel olarak birlestirmeye gerek kalmadan tutarli bir hizli kesim duzenlemesi uretir.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/output.mp4" width="400" controls></video></td>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/4d7af334-4e49-4de4-899e-803f72116c21" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/5def7e00-6fc6-4a4e-8075-5f37cb24b84c" width="400" controls></video></td>
 </tr></table>
 
 **Adimlar:**
@@ -470,7 +470,7 @@ HUD ogeleri, yetenek cubuklari ve secim katmanlari iceren oyun tarzi UI goruntul
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="Oyun UI cikti goruntusu"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/fa3b3fed-21eb-417a-a6a6-7f98990368ce" width="400" controls></video></td>
 </tr></table>
 
 **Adimlar:**
@@ -500,7 +500,7 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 One Piece, Stranger Things, herhangi bir IP: var olmayan bir dunyanin oyun ekran goruntusunu uretin ve ardindan Seedance 2.0 ile gercek gameplay'e genisletin. 934 begeni / 125B gorunum.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/983b433a-88ea-4843-9047-fc01396752fe" width="400" controls></video></td>
 </tr></table>
 
 **GPT Image 2 Prompt'u:**
@@ -524,7 +524,7 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 Tam Japon tarzinda bir muzik videosu uretmek icin dort aracli pipeline: GPT Image 2 gorseller icin → Seedance 2.0 hareket icin → Suno 5.5 muzik icin → CapCut son duzenleme icin. 742 begeni / 107B gorunum.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/creative_case11/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/e5ce621c-7fa3-47b5-99a7-00df7741a651" width="400" controls></video></td>
 </tr></table>
 
 **Adimlar:**

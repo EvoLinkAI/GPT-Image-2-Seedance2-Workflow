@@ -153,8 +153,8 @@ Output as a single image with all 9 panels arranged in a grid.
 여러 참고 프레임이 담긴 스토리보드 이미지를 Seedance 2.0에 입력하고, 시퀀스 순서를 따르도록 지시합니다. 모델은 프레임 위치를 장면 단서로 읽어 빠른 컷 편집 영상을 만들어냅니다. 수동 클립 조립이 필요 없습니다.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/output.mp4" width="400" controls></video></td>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/storyboard_case10/storyboard_ref.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/4d7af334-4e49-4de4-899e-803f72116c21" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/5def7e00-6fc6-4a4e-8075-5f37cb24b84c" width="400" controls></video></td>
 </tr></table>
 
 **단계:**
@@ -478,7 +478,7 @@ HUD 요소, 스킬 바, 선택지 오버레이가 포함된 게임 스타일 UI 
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/output.jpg" width="400" alt="게임 UI 출력 이미지"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/961c4bc4-c83c-49d3-bc14-7b128e80bc17" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/fa3b3fed-21eb-417a-a6a6-7f98990368ce" width="400" controls></video></td>
 </tr></table>
 
 **단계:**
@@ -508,7 +508,7 @@ Click option A, normal UI transition animation, then a reasonable combat sequenc
 원피스, 기묘한 이야기 등 어떤 IP든 가능합니다. 존재하지 않는 세계의 게임 스크린샷을 생성한 뒤, Seedance 2.0으로 실제 게임플레이처럼 확장합니다. 934 좋아요 / 125K 조회.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/game_case9/output_onepiece.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/983b433a-88ea-4843-9047-fc01396752fe" width="400" controls></video></td>
 </tr></table>
 
 **GPT Image 2 프롬프트:**
@@ -532,7 +532,7 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 완전한 일본어 스타일 뮤직비디오를 제작하는 4개 도구 파이프라인입니다: GPT Image 2로 비주얼 → Seedance 2.0으로 모션 → Suno 5.5로 음악 → CapCut으로 최종 편집. 742 좋아요 / 107K 조회.
 
 <table><tr>
-<td align="center"><video src="https://raw.githubusercontent.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow/main/images/creative_case11/output.mp4" width="400" controls></video></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/e5ce621c-7fa3-47b5-99a7-00df7741a651" width="400" controls></video></td>
 </tr></table>
 
 **단계:**
