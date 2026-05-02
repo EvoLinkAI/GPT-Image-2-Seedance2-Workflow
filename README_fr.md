@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
 [![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
-[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
+[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2-guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
 [![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=gptimage2-x-seedance2)
 
 
@@ -43,6 +43,7 @@ Si ce projet vous est utile, pensez à lui donner une étoile. ⭐
 
 ## 📰 Actualités
 
+- **1er mai 2026 :** ajout des cas 13–27 (grille de séquences de danse, animation de page de bande dessinée, publicité de luxe, vidéo culinaire cinématographique, pipeline d'interface de jeu, workflow d'agent unique, contrôle des coûts via storyboard, MV avec shotlist Claude, grille de casting, pipeline sculpt 3D, remake cyberpunk d'une IP, concept de ville GTA, chorégraphie K-Pop, publicité vidéo produit, animation d'introduction de personnage)
 - **25 avril 2026 :** ajout des cas 10–12 (storyboard multiframe, toolchain de clip japonais, Claude Code × fiche personnage), cas 9 étendu avec une variante de simulation ARPG, showcase communautaire ajouté à la galerie
 - **23 avril 2026 :** lancement du dépôt avec 9 cas de workflow sélectionnés
 
@@ -54,25 +55,40 @@ Si ce projet vous est utile, pensez à lui donner une étoile. ⭐
 - [📰 Actualités](#actualites-fr)
 - [📑 Menu](#menu-fr)
 - [🎥 Workflows storyboard](#workflows-storyboard-fr)
-- [Cas 1 : Storyboard standard → Vidéo](#cas-1-fr)
-- [Cas 2 : Méthode storyboard en grille 3×3](#cas-2-fr)
-- [Cas 10 : Référence multiframe → Vidéo à coupes rapides](#cas-10-fr)
+  - [Cas 1 : Storyboard standard → Vidéo (par @kiyoshi_shin)](#cas-1-fr)
+  - [Cas 2 : Méthode storyboard en grille 3×3 (par @servasyy_ai)](#cas-2-fr)
+  - [Cas 10 : Référence multiframe → Vidéo à coupes rapides (par @heygentlewhale)](#cas-10-fr)
+  - [Cas 14 : Page de bande dessinée → Vidéo animée (par @nimentrix)](#cas-14-fr)
+  - [Cas 19 : Contrôle des coûts axé sur le storyboard (par @0xbisc)](#cas-19-fr)
 - [🎨 Personnages et animation](#personnages-animation-fr)
-- [Cas 3 : Fiche personnage → Animation](#cas-3-fr)
-- [Cas 4 : Vidéo style opening d'anime](#cas-4-fr)
-- [Cas 12 : Claude Code × Fiche personnage → Animation](#cas-12-fr)
+  - [Cas 3 : Fiche personnage → Animation (par @YaReYaRu30Life)](#cas-3-fr)
+  - [Cas 4 : Vidéo style opening d'anime (par @Toshi_nyaruo_AI)](#cas-4-fr)
+  - [Cas 12 : Claude Code × Fiche personnage → Animation (par @old_pgmrs_will)](#cas-12-fr)
+  - [Cas 13 : Grille de séquences de danse → Vidéo de danse (par @Ciri_ai)](#cas-13-fr)
+  - [Cas 25 : Chorégraphie K-Pop — Contrôle détaillé (par @Kashberg_0)](#cas-25-fr)
+  - [Cas 27 : Animation d'introduction de personnage (par @0xbisc)](#cas-27-fr)
 - [📱 Démo d'application et produit](#app-produit-fr)
-- [Cas 5 : Vidéo de démo MVP d'application](#cas-5-fr)
-- [Cas 6 : Publicité de 15 secondes](#cas-6-fr)
+  - [Cas 5 : Vidéo de démo MVP d'application (par @Shin_Engineer)](#cas-5-fr)
+  - [Cas 6 : Publicité de 15 secondes (par @ai_mitosan)](#cas-6-fr)
+  - [Cas 15 : Publicité de luxe — Du storyboard au film (par @insmind_com)](#cas-15-fr)
+  - [Cas 26 : Image produit → Publicité vidéo courte (par @insmind_com)](#cas-26-fr)
 - [🎵 Combinaisons créatives](#combinaisons-creatives-fr)
-- [Cas 7 : Clip musical avec Suno](#cas-7-fr)
-- [Cas 8 : Court métrage cyberpunk](#cas-8-fr)
-- [Cas 9 : Jeu et contenu interactif](#cas-9-fr)
-- [Cas 11 : Clip japonais — Toolchain IA complet](#cas-11-fr)
+  - [Cas 7 : Clip musical avec Suno (par @fukaborichannel)](#cas-7-fr)
+  - [Cas 8 : Court métrage cyberpunk (par @ponyodong)](#cas-8-fr)
+  - [Cas 9 : Jeu et contenu interactif (par @AbleGPT)](#cas-9-fr)
+  - [Cas 11 : Clip japonais — Toolchain IA complet (par @Tz_2022)](#cas-11-fr)
+  - [Cas 16 : Vidéo culinaire cinématographique (par @kingofdairyque)](#cas-16-fr)
+  - [Cas 17 : Animation d'interface de jeu — Pipeline complet (par @0xInk_)](#cas-17-fr)
+  - [Cas 18 : Workflow automatisé avec un agent unique (par @venturetwins)](#cas-18-fr)
+  - [Cas 20 : Shotlist Claude → Clip musical (par @CoffeeVectors)](#cas-20-fr)
+  - [Cas 21 : Grille de casting — Audition d'acteurs (par @8fstudioz)](#cas-21-fr)
+  - [Cas 22 : Sculpt 3D → Rendu IA → Animation (par @_DAntunes_)](#cas-22-fr)
+  - [Cas 23 : Remake cyberpunk d'IP — Film concept (par @AYi_AInotes)](#cas-23-fr)
+  - [Cas 24 : Concept de jeu de ville style GTA (par @markgadala)](#cas-24-fr)
 - [💡 Conseils et techniques](#conseils-techniques-fr)
-- [Guide de cohérence](#guide-coherence-fr)
-- [Modèles de prompts](#modeles-prompts-fr)
-- [Dépannage](#depannage-fr)
+  - [Guide de cohérence](#guide-coherence-fr)
+  - [Modèles de prompts](#modeles-prompts-fr)
+  - [Dépannage](#depannage-fr)
 - [🚀 Essayer sur Evolink](#evolink-fr)
 - [🙏 Remerciements](#remerciements-fr)
 
@@ -198,6 +214,90 @@ and preserve cinematic lighting and pacing.
 > [!NOTE]
 > Ce prompt fonctionne pour tous les genres — remplacez la description de style par science-fiction, horreur, documentaire ou tout autre registre. L'expression clé est `follow the storyboard sequence of the [N] reference frames` : elle indique à Seedance de traiter les positions des cadres comme une frise temporelle plutôt que comme une composition unique.
 
+<a id="cas-14-fr"></a>
+
+### Cas 14 : [Page de bande dessinée → Vidéo animée](https://x.com/nimentrix/status/2049560412979708334) (par [@nimentrix](https://x.com/nimentrix))
+
+Créez une page de bande dessinée multi-panneaux avec GPT Image 2 — mise en page en diagonale, bulles de dialogue, narration cinématographique — puis animez l'ensemble de la page en vidéo avec Seedance 2.0. Le modèle lit les cases comme une séquence narrative et produit un court animé continu. 330 likes / 21K vues / 360 favoris.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/comic_case14/output.jpg" width="400" alt="Page de bande dessinée animée"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/0b5038e2-dfca-4c65-b5d7-a719a74408b0" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Créez une fiche de design du personnage (face, profil, dos) avec GPT Image 2 pour figer son apparence
+2. Générez une page de bande dessinée multi-panneaux en utilisant le personnage comme référence
+3. Importez la page dans Seedance 2.0 et animez-la
+
+**Prompt GPT Image 2 — Fiche personnage :**
+
+```text
+Create a character design style sheet for [describe your character]:
+front view, side view, back view on white background.
+Make the aspect ratio 4:3.
+```
+
+**Prompt GPT Image 2 — Page de bande dessinée :**
+
+```text
+[Character description] and [companion], american comic multi-panel illustration,
+diagonal layout, six panels, cinematic storytelling, clear reading flow, with speech bubbles.
+[Describe the story sequence across panels.]
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Animate this comic page as a cinematic sequence. Follow the panel order from top-left to bottom-right.
+Smooth transitions between panels, maintain character consistency, cinematic camera movement.
+```
+
+> [!NOTE]
+> La mise en page diagonale et les bulles de dialogue donnent à Seedance des repères visuels clairs sur les limites des cases et l'ordre de lecture. Pour de meilleurs résultats, gardez l'action de chaque case simple et distincte. Ce workflow se combine également bien avec Suno pour ajouter une bande-son à la vidéo finale.
+
+<a id="cas-19-fr"></a>
+
+### Cas 19 : [Contrôle des coûts axé sur le storyboard](https://x.com/0xbisc/status/2049100073481716076) (par [@0xbisc](https://x.com/0xbisc))
+
+Une approche orientée production : itérer d'abord sur le storyboard dans GPT Image 2 (peu coûteux), puis ne générer la vidéo qu'une fois la composition figée (coûteux). Cela économise beaucoup de crédits, car les itérations vidéo consomment 10 à 50 fois plus que les itérations d'image. 298 likes / 13K vues / 291 favoris.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case19/output.jpg" width="400" alt="Workflow storyboard-first"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/09e04d80-c0d1-4a8c-9b74-2efe474acfcd" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Générez une grille de storyboard de 8 panneaux avec GPT Image 2
+2. Examinez chaque panneau — régénérez ou éditez les panneaux individuels jusqu'à satisfaction
+3. Une fois le storyboard complet figé, importez-le dans Seedance 2.0
+4. Générez la vidéo en une seule passe à partir du storyboard finalisé
+
+**Prompt GPT Image 2 :**
+
+```text
+Create a single cinematic storyboard image containing 8 panels,
+arranged in a 4-column horizontal grid layout across the canvas.
+Panels are evenly distributed in 4 columns, forming a balanced multi-row composition.
+Use generous spacing between panels for visual clarity.
+[Describe each panel's content, camera angle, and action.]
+Character: [fixed appearance description across all panels].
+Style: [art style], cinematic lighting, high detail.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Follow the storyboard sequence. Cinematic [genre] style,
+smooth transitions between shots, maintain character consistency,
+[describe pacing and mood]. 24fps.
+```
+
+> [!NOTE]
+> **Pourquoi le storyboard-first gagne en coût :** les itérations vidéo brûlent vite les crédits. Avec un storyboard, vous pouvez ajuster plan par plan et détecter les problèmes en amont. L'étape vidéo devient un rendu final unique plutôt qu'une boucle d'essais coûteuse. Les retours communautaires confirment que c'est le workflow le plus économique pour les séquences longues.
+
 <a id="personnages-animation-fr"></a>
 
 ## 🎨 Personnages et animation
@@ -319,6 +419,144 @@ subtle hair and clothing movement, 24fps, seamless loop.
 > [!NOTE]
 > Claude Code produit du texte structuré — fiches personnage, descriptions de scènes, plans de dialogue — que GPT Image 2 traite efficacement comme des prompts détaillés. Ce pipeline est particulièrement efficace pour les IP de fiction originaux : construisez le lore en code, visualisez-le dans GPT Image 2, animez-le dans Seedance.
 
+<a id="cas-13-fr"></a>
+
+### Cas 13 : [Grille de séquences de danse → Vidéo de danse](https://x.com/Ciri_ai/status/2049034340160704643) (par [@Ciri_ai](https://x.com/Ciri_ai))
+
+Générez une grille 4×4 de poses de danse avec GPT Image 2, puis transmettez-la à Seedance 2.0 comme référence de mouvement. Le modèle lit la grille comme une séquence chorégraphique et produit une vidéo de danse continue. Variante avancée : téléversez plusieurs références de personnage pour des transitions de tenues calées sur le beat. 161 likes / 9K vues.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/dance_case13/output.jpg" width="400" alt="Grille de séquences de danse"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/39376245-e7c7-4812-b770-9e81acf4eca2" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Générez avec GPT Image 2 une image en grille 4×4 montrant un personnage dans des poses de danse séquentielles
+2. Téléversez la grille comme image de référence dans Seedance 2.0
+3. Demandez à Seedance de suivre la séquence de danse à partir de l'image de référence
+4. (Avancé) Téléversez le personnage en tenue A, le personnage en tenue B et la grille de danse comme trois références pour des transitions de tenues en cours de danse
+
+**Prompt GPT Image 2 :**
+
+```text
+Create a 4x4 image grid showing [character description] in various dance moves, in a logical sequence.
+Style: [anime / realistic / stylized], consistent character design across all 16 panels.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+The character dances according to the sequence in the reference image@image1. No text.
+```
+
+**Avancé — Transition de tenue calée sur le beat :**
+
+```text
+Character from Image 1 performs the dance based on the breakdown in Image 3.
+Midway through the performance, they switch outfits on beat into the character from Image 2.
+Then, the character from Image 2 continues and completes the remaining dance steps from Image 3.
+Emphasize precise beat synchronization with the music.
+```
+
+> [!NOTE]
+> Cette technique fonctionne pour toute séquence de mouvement — danse, arts martiaux, sport. La grille 4×4 fournit à Seedance 16 cadres de référence à interpoler, produisant un mouvement plus fluide qu'avec moins de panneaux.
+>
+> **Variantes communautaires :** [@airina_xyz](https://x.com/airina_xyz/status/2049830199236190326) a démontré le workflow de base avec une danseuse street urbaine. [@Kashberg_0](https://x.com/Kashberg_0/status/2049697925262102689) a utilisé des planches de personnage + cadres de mouvement de référence pour de la chorégraphie K-Pop (52 likes / 2K vues).
+
+<a id="cas-25-fr"></a>
+
+### Cas 25 : [Chorégraphie K-Pop — Contrôle détaillé](https://x.com/Kashberg_0/status/2049839091899088948) (par [@Kashberg_0](https://x.com/Kashberg_0))
+
+Contrôle maximal sur l'animation de danse : rédigez un découpage chorégraphique en 16 étapes avec des descriptions de mouvement précises, générez la grille de référence avec GPT Image 2, puis animez avec Seedance 2.0. Chaque étape dure 2 à 3 secondes, produisant une vidéo de danse continue de 35 à 50 secondes avec une qualité de mouvement K-pop authentique.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/kpop_case25/input.jpg" width="400" alt="Grille de référence de chorégraphie K-Pop"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/1c088b5e-6305-4bf6-9377-97784d5f8fac" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Rédigez une séquence chorégraphique détaillée (16 étapes avec des mouvements de danse spécifiques)
+2. Générez avec GPT Image 2 une grille de référence montrant chaque étape
+3. Transmettez la grille + la description chorégraphique complète à Seedance 2.0
+4. Le modèle suit la séquence d'étapes avec des transitions fluides
+
+**Prompt GPT Image 2 :**
+
+```text
+Create a 4x4 grid (16 panels) showing a [character description] performing K-pop choreography:
+Step 1: Starting Pose
+Step 2: Step Touch Right
+Step 3: Step Touch Left
+[... list all 16 steps ...]
+Step 16: Final Pose (hold)
+Style: photorealistic, consistent character, clean background, full-body framing.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+K-pop dance video, [character description], performing the exact 16-step choreography
+from the reference grid in order. Each step 2-3 seconds.
+Movement style: mix of sharp hits and smooth transitions, clean isolations,
+controlled spins, balanced footwork. No jitter.
+Full-body framing, smooth tracking camera, continuous flow.
+Tempo: 100-115 BPM feel. Final pose held 2-3 seconds.
+```
+
+> [!NOTE]
+> Plus vos descriptions d'étapes sont précises, mieux Seedance suit la chorégraphie. Nommez de vrais mouvements de danse (body roll, hair flip, chest pop) plutôt que des descriptions vagues. Cette technique fonctionne aussi pour les katas d'arts martiaux, les flows de yoga ou toute séquence de mouvement séquentielle.
+
+<a id="cas-27-fr"></a>
+
+### Cas 27 : [Animation d'introduction de personnage](https://x.com/0xbisc/status/2049496584283656690) (par [@0xbisc](https://x.com/0xbisc))
+
+Créez une animation d'introduction de personnage de style jeu AAA cyberpunk. Prenez n'importe quelle image de personnage, redessinez-la comme un personnage de jeu avec GPT Image 2, générez un écran d'intro cinématographique, puis animez le reveal avec Seedance 2.0. Substituez n'importe quel personnage — le workflow est agnostique au personnage. 55 likes / 3K vues.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/intro_case27/output.jpg" width="400" alt="Animation d'introduction de personnage"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/e52eaa0b-b2fa-4c35-b790-a92af05d0c82" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Partez d'une image de personnage (votre propre art, photo ou image générée par IA)
+2. Utilisez GPT Image 2 pour redessiner en personnage de jeu AAA cyberpunk — conservez l'identité du visage, modernisez le style
+3. Générez un écran d'intro cinématographique avec le personnage (fond sombre, éclairage dramatique, mise en page de carton-titre)
+4. Animez le reveal d'intro dans Seedance 2.0
+
+**Prompt GPT Image 2 — Redesign du personnage :**
+
+```text
+Based on the provided image, redesign as a cyberpunk AAA game character.
+Keep face identity, keep original outfit.
+Hyper-realistic game character, near-photoreal but still game-rendered.
+Cinematic lighting, dark moody atmosphere, neon accent colors.
+```
+
+**Prompt GPT Image 2 — Écran d'intro :**
+
+```text
+Cinematic game character introduction screen.
+Character: [redesigned character] standing in [dramatic pose].
+Background: dark, atmospheric, [genre-appropriate environment].
+Layout: character centered, space for title text above, dramatic rim lighting.
+Style: AAA game quality, Unreal Engine 5 look.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Cinematic character reveal animation. Camera slowly pushes in on the character,
+dramatic lighting builds, subtle particle effects, atmospheric fog,
+character shifts weight slightly, eyes lock to camera.
+AAA game intro quality, 24fps, 5 seconds.
+```
+
+> [!NOTE]
+> Ce workflow est agnostique au personnage — substituez n'importe quel personnage (anime, réaliste, stylisé) et le pipeline s'adapte. La clé est le double passage GPT Image 2 : d'abord redessiner le personnage pour le style cible, puis composer la mise en page de l'écran d'intro.
+
 <a id="app-produit-fr"></a>
 
 ## 📱 Démo d'application et produit
@@ -409,6 +647,84 @@ Style : [esthétique de marque], format large 16:9, cinématographique.
 ```text
 Qualité de publicité cinématographique, [ton de marque : premium / énergique / chaleureux], [nom du produit] centré dans le cadre, lent travelling avant, éclairage [direction de lumière] mettant le produit en valeur, fond propre, sans personne, 3 secondes.
 ```
+
+<a id="cas-15-fr"></a>
+
+### Cas 15 : [Publicité de luxe — Du storyboard au film](https://x.com/insmind_com/status/2049481439285223785) (par [@insmind_com](https://x.com/insmind_com))
+
+Générez une grille de storyboard 3×4 (12 cadres) pour une publicité de parfum de luxe avec GPT Image 2, puis animez-la en un film cinématographique de niveau marque avec Seedance 2.0. La structure — intro → rituel → transformation → résolution → clôture de marque — produit un arc narratif complet en une seule génération. 371 likes / 84K vues / 255 favoris.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/luxury_case15/output.jpg" width="400" alt="Storyboard de publicité de luxe"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/281fef1e-f42d-442c-b06e-44d7cff221ec" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Générez avec GPT Image 2 une grille de storyboard de 12 cadres (3×4), avec mise en page éditoriale et esthétique de marque de luxe
+2. Importez la grille de storyboard dans Seedance 2.0 comme image de référence unique
+3. Demandez à Seedance d'animer la séquence comme une publicité de luxe cinématographique
+4. Ajoutez la musique et l'étalonnage final dans votre logiciel de montage
+
+**Prompt GPT Image 2 :**
+
+```text
+Create a high-end 9:16 luxury fragrance pitch deck storyboard in 3x4 grid (12 frames),
+editorial layout, Aesop/Byredo style, beige + lavender palette.
+Structured flow: intro → ritual → transformation → resolution → brand closure.
+Each frame split: top = visual direction, bottom = scene.
+Minimal text, elegant typography, soft lighting, product-centered compositions.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Follow the storyboard sequence. Cinematic luxury fragrance commercial,
+soft natural lighting, slow deliberate movements, shallow depth of field,
+editorial pacing, premium brand aesthetic, smooth transitions between scenes.
+```
+
+> [!NOTE]
+> La mise en page éditoriale (avec notes de direction visuelle dans chaque cadre) donne à Seedance des indices narratifs plus forts qu'une grille classique. Ce workflow s'adapte à toute catégorie de produit de luxe — soins, montres, mode — en changeant la palette et les références produit.
+
+<a id="cas-26-fr"></a>
+
+### Cas 26 : [Image produit → Publicité vidéo courte](https://x.com/insmind_com/status/2049843814337306974) (par [@insmind_com](https://x.com/insmind_com))
+
+Transformez des images produit statiques en vidéos sociales qui arrêtent le scroll. Téléversez vos photos produit existantes comme références dans GPT Image 2, générez une composition de scène, puis animez avec Seedance 2.0. Conçu pour l'e-commerce et le marketing social — produisez du contenu prêt pour TikTok/Reels à partir des photos produit que vous possédez déjà.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/product_case26/output.jpg" width="400" alt="Publicité vidéo produit"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/880c0019-e45a-4eb9-be6f-638ff71a0e0f" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Fournissez vos images produit existantes comme références à GPT Image 2
+2. Générez une composition de scène qui met les produits en contexte
+3. Importez la scène composée dans Seedance 2.0
+4. Animez avec un mouvement d'interaction produit naturel
+
+**Prompt GPT Image 2 :**
+
+```text
+Product A (ref image 1), Product B (ref image 2).
+Fixed camera shot. [Describe the scene context — e.g., a phone playing a video,
+hands interacting with products, lifestyle setting].
+Style: commercial photography, soft lighting, clean composition.
+9:16 vertical format for social media.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Smooth product showcase animation, natural hand interaction,
+subtle camera movement, soft lighting transitions,
+commercial quality, clean and modern feel, 3-5 seconds.
+```
+
+> [!NOTE]
+> Ce cas se distingue du cas 15 (publicité de luxe) en partant de photos produit existantes plutôt qu'en générant tout à partir de zéro. Idéal pour les vendeurs e-commerce qui possèdent déjà des images produit et veulent les convertir rapidement en publicités vidéo.
 
 <a id="combinaisons-creatives-fr"></a>
 
@@ -541,7 +857,7 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 >
 > **Conseil ARPG (via [@peter6759](https://x.com/peter6759/status/2047130834180903166)) :** Pour un style de film interactif, combinez les deux étapes en une seule passe — prompt GPT Image 2 : `Interactive movie game, Black Myth style, Water Margin` → prompt Seedance 2.0 : `Click option A, normal UI shift, then reasonable combat happens`. L'approche bilingue (prompt en chinois pour GPT Image 2, en anglais pour Seedance) améliore souvent la fidélité culturelle.
 >
-> **Showcase communautaire :** [@markgadala](https://x.com/markgadala/status/2047825115631518115) a utilisé ce workflow pour générer une bande-annonce complète d'un jeu inexistant. [@0xInk_](https://x.com/0xInk_/status/2047648944004755679) l'a utilisé pour des animations d'interface très détaillées (972 likes / 75K vues).
+> **Showcase communautaire :** [@markgadala](https://x.com/markgadala/status/2047825115631518115) a utilisé ce workflow pour générer une bande-annonce complète d'un jeu inexistant. [@0xInk_](https://x.com/0xInk_/status/2048809000121360649) a partagé un workflow complet en 4 étapes pour l'animation d'interface de jeu vidéo — fiche personnage Midjourney → GPT Image 2 pour la conversion 3D et le design UI → Seedance 2.0 pour l'animation (2280 likes / 208K vues / 2793 favoris). [@0xbisc](https://x.com/0xbisc/status/2049496584283656690) a démontré un workflow d'animation d'introduction de personnage cyberpunk (55 likes / 3K vues).
 
 <a id="cas-11-fr"></a>
 
@@ -580,6 +896,323 @@ Japanese anime style, [season] atmosphere, [lighting description], soft film gra
 
 > [!NOTE]
 > Produisez la musique d'abord — connaître la structure rythmique avant de concevoir les storyboards permet d'aligner précisément le timing des panneaux sur les coupes de la chanson. Ce cas étend le cas 7 (clip City Pop) en intégrant Suno dans la boucle et en traitant l'ensemble du pipeline comme une production synchronisée plutôt qu'un assemblage après coup.
+
+<a id="cas-16-fr"></a>
+
+### Cas 16 : [Vidéo culinaire cinématographique](https://x.com/kingofdairyque/status/2049812014596599834) (par [@kingofdairyque](https://x.com/kingofdairyque))
+
+Utilisez GPT Image 2 + Seedance 2.0 pour créer des vidéos de préparation culinaire ultra-réalistes avec descriptions de plans horodatées. Chaque segment temporel (0–2 s, 2–4 s, etc.) définit un angle de caméra et une action spécifiques, donnant à Seedance un contrôle précis sur la séquence de 15 secondes. 55 likes / 1K vues.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/food_case16/input.jpg" width="400" alt="Storyboard de vidéo culinaire"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/30a20e57-8384-4117-adf7-4f92faebeb33" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Rédigez une shotlist détaillée et horodatée décrivant chaque segment de 2 secondes
+2. Générez l'image de storyboard avec GPT Image 2 à partir de la shotlist
+3. Transmettez l'image + le prompt horodaté complet à Seedance 2.0
+4. Le modèle suit la structure horodatée pour produire une séquence culinaire cohérente
+
+**Prompt GPT Image 2 :**
+
+```text
+Ultra-realistic cinematic food photography storyboard, dark rustic wooden table,
+soft dramatic lighting, shallow depth of field, natural textures.
+[Describe the dish and key preparation moments across 6-8 panels.]
+Style: editorial food photography, warm tones, no text.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Ultra-realistic cinematic 15-second vertical video (9:16), 4K, dark rustic wooden table,
+soft dramatic lighting, shallow depth of field, natural textures, no text, no subtitles, no music.
+[0-2s] Top-down shot: hands gently touch a bowl of [ingredient]. Subtle ambient movement.
+[2-4s] Side close shot: [preparation action] in slow motion, catching warm light.
+[4-6s] Macro shot: hands [action]. Texture detail visible.
+[6-8s] 45-degree angle: [ingredient] pours into [vessel]. Natural bounce and movement.
+[8-10s] Top angled close-up: hands carefully [assembly action]. Precise controlled motion.
+[10-12s] Side shot: oven door opens. Warm golden light spills out with gentle steam.
+[12-14s] Close-up: [finishing touch]. Surface becomes glossy, light reflecting softly.
+[14-15s] Final frontal shot: finished [dish] on rustic table. Hands enter frame softly.
+```
+
+> [!NOTE]
+> La technique du prompt horodaté donne à Seedance une frise temporelle précise plan par plan. Cela fonctionne pour toute vidéo produit ou processus — unboxing, artisanat, mixologie. Gardez chaque segment à 2 secondes et décrivez à la fois l'angle de caméra et l'action pour de meilleurs résultats.
+
+<a id="cas-17-fr"></a>
+
+### Cas 17 : [Animation d'interface de jeu — Pipeline complet](https://x.com/0xInk_/status/2048809000121360649) (par [@0xInk_](https://x.com/0xInk_))
+
+Le workflow le plus viral de cette collection : créer une animation complète d'interface de jeu vidéo à partir de zéro. Commencez avec un personnage 2D dans Midjourney, convertissez-le en rendu 3D prêt pour le jeu avec GPT Image 2, concevez l'UI complète (HUD, écrans de chargement, menus), puis animez le tout avec Seedance 2.0. GPT Image 2 excelle ici car il gère les détails d'UI et permet des révisions itératives sans perte de qualité. 2280 likes / 208K vues / 2793 favoris.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case17/output.jpg" width="400" alt="Animation d'interface de jeu"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/b83da8f3-3dd6-44a3-bb27-b0d59cab381a" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Créez une fiche personnage 2D dans Midjourney (corps entier, vue de face, apparence détaillée)
+2. Utilisez GPT Image 2 pour convertir le personnage 2D en rendu 3D type jeu vidéo
+3. Utilisez GPT Image 2 pour concevoir les écrans d'UI — sélection de personnage, écran de chargement, overlay HUD
+4. Importez chaque écran d'UI dans Seedance 2.0 et animez les transitions
+
+**Prompt GPT Image 2 — Conversion 3D :**
+
+```text
+Based on the provided image, redesign as a [genre] AAA game character.
+Keep face identity, keep original outfit.
+Hyper-realistic game character, near-photoreal but still game-rendered.
+Cinematic lighting, Unreal Engine 5 quality.
+```
+
+**Prompt GPT Image 2 — UI de jeu :**
+
+```text
+Create a AAA game [screen type: character select / loading / HUD] screen.
+Character: [description from previous step].
+UI elements: [health bar / skill icons / menu buttons / loading progress].
+Style: [cyberpunk / fantasy / sci-fi], dark cinematic lighting, 16:9.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Game UI animation sequence. Smooth transition from [screen A] to [screen B],
+cinematic camera movement, UI elements animate in with subtle glow effects,
+AAA game quality, 24fps.
+```
+
+> [!NOTE]
+> L'idée clé : GPT Image 2 vous laisse retravailler une image plusieurs fois sans dégradation de qualité — parfait pour itérer sur les mises en page d'UI. Construisez l'interface complète comme une série d'écrans statiques, puis laissez Seedance les relier en une animation fluide.
+
+<a id="cas-18-fr"></a>
+
+### Cas 18 : [Workflow automatisé avec un agent unique](https://x.com/venturetwins/status/2048526911056613586) (par [@venturetwins](https://x.com/venturetwins))
+
+L'approche zéro-effort : indiquez à un seul agent IA (comme Glif) ce que vous voulez, et il gère tout le pipeline — génération du storyboard avec GPT Image 2 et animation avec Seedance 2.0 — en une seule conversation. Pas de transferts manuels de fichiers, pas de prompt engineering étape par étape. 934 likes / 70K vues.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/agent_case18/output.jpg" width="400" alt="Workflow d'agent unique automatisé"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/cc01849d-ee9b-47af-a7b0-d13250a001e0" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Ouvrez votre plateforme d'agent (Glif, Flowith ou similaire)
+2. Décrivez la vidéo souhaitée en langage naturel
+3. L'agent génère automatiquement le storyboard avec GPT Image 2
+4. L'agent transmet le storyboard à Seedance 2.0 et renvoie la vidéo finale
+
+**Exemple de prompt à l'agent :**
+
+```text
+I want to create a [genre] anime short.
+Scene: [describe the story in 2-3 sentences].
+Style: [anime / cinematic / realistic].
+Make it [duration] seconds.
+```
+
+> [!NOTE]
+> Ce workflow supprime toute friction technique — vous n'avez pas besoin de connaître le prompt engineering ni de gérer les transferts de fichiers entre outils. Le compromis : moins de contrôle sur les plans individuels. Idéal pour le prototypage rapide et la validation d'idées. Confirmé fonctionnel sur [@heyglif](https://x.com/heyglif), [@flowith](https://x.com/flowith) et autres plateformes d'agents similaires.
+
+<a id="cas-20-fr"></a>
+
+### Cas 20 : [Shotlist Claude → Clip musical](https://x.com/CoffeeVectors/status/2049592150581485757) (par [@CoffeeVectors](https://x.com/CoffeeVectors))
+
+Utilisez Claude pour générer une shotlist détaillée (15 plans d'une seconde avec différents angles de caméra et actions), générez un seul portrait avec GPT Image 2, puis produisez chaque plan avec Seedance 2.0. Montez les plans avec votre propre musique Suno pour un MV complet. L'IA écrit la direction créative — vous n'avez qu'à exécuter.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/shotlist_case20/output.jpg" width="400" alt="Clip musical avec shotlist Claude"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/d6ba86c4-65c3-4b1d-aa3c-846667f53b5e" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Générez un portrait unique de personnage avec GPT Image 2 comme ancrage visuel
+2. Demandez à Claude d'écrire une shotlist de 15 plans (un plan par seconde) avec angles et actions variés
+3. Transmettez le portrait + chaque description de plan à Seedance 2.0 séparément
+4. Montez tous les plans ensemble et synchronisez sur votre piste musicale
+
+**Prompt Claude pour la shotlist :**
+
+```text
+Write a 15-second prestige-TV sequence, one shot per second.
+Character: [describe the character from your GPT Image 2 portrait].
+Mood: [apocalyptic / romantic / action / ethereal].
+Each shot should specify: camera angle, character action, lighting, and visual effect.
+Format as a numbered list, one line per shot.
+```
+
+**Prompt Seedance 2.0 (par plan) :**
+
+```text
+[Paste individual shot description from Claude's list.]
+Reference image: the character portrait.
+Style: cinematic, [mood], dramatic lighting, 24fps.
+```
+
+> [!NOTE]
+> Ce workflow sépare la direction créative (Claude) de l'exécution visuelle (GPT Image 2 + Seedance). Particulièrement efficace pour les clips musicaux où il faut de nombreux plans variés du même personnage. Le portrait unique sert d'ancrage et maintient la cohérence sur les 15 plans.
+
+<a id="cas-21-fr"></a>
+
+### Cas 21 : [Grille de casting — Audition d'acteurs](https://x.com/8fstudioz/status/2049547426198151627) (par [@8fstudioz](https://x.com/8fstudioz))
+
+Économisez des crédits en auditionnant 4 acteurs en une seule génération. Générez avec GPT Image 2 une grille de casting à 4 panneaux montrant différents acteurs pour le même rôle, puis testez chacun dans Seedance 2.0 avec la même réplique. Identifiez l'acteur qui mérite vraiment d'investir des crédits avant de vous engager dans une vidéo complète.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/casting_case21/input.jpg" width="400" alt="Grille de casting"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/dcdd958f-70cd-43f6-b191-4e0715fe2472" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Générez avec GPT Image 2 une grille de casting à 4 panneaux — même rôle, 4 acteurs différents
+2. Testez chaque acteur individuellement dans Seedance 2.0 avec le même dialogue et la même action
+3. Comparez la qualité de performance (regard, expression, mouvement)
+4. Investissez les crédits restants uniquement sur l'acteur gagnant
+
+**Prompt GPT Image 2 :**
+
+```text
+Create a 16:9 horizontal cinematic casting board showing 4 different actor candidates for the same role.
+Style: [CGI AAA video game cinematic / photorealistic / anime / stylized 3D].
+Role brief: [describe the character type, age, build, personality].
+Each actor should look distinct but fit the role requirements.
+Layout: 4 panels side by side, each showing the actor in the same pose and framing.
+```
+
+**Prompt Seedance 2.0 (par acteur) :**
+
+```text
+[Actor description from panel N] delivers the line: "[dialogue]".
+Natural eye contact with camera, subtle facial expressions,
+[emotional tone: confident / vulnerable / menacing].
+Medium close-up, soft cinematic lighting, 3 seconds.
+```
+
+> [!NOTE]
+> Un personnage peut paraître excellent en image fixe mais perdre tout le rôle dès qu'on teste dialogue, regard et performance. Ce workflow déplace la décision de casting en amont, avant de dépenser des crédits sur des scènes complètes.
+
+<a id="cas-22-fr"></a>
+
+### Cas 22 : [Sculpt 3D → Rendu IA → Animation](https://x.com/_DAntunes_/status/2049142166232904078) (par [@_DAntunes_](https://x.com/_DAntunes_))
+
+Faites le pont entre la modélisation 3D traditionnelle et la vidéo IA : créez un modèle d'argile 3D brut dans Nomad Sculpt (ou toute application de sculpting), utilisez GPT Image 2 pour le rendre en illustration soignée, puis animez avec Seedance 2.0 via ComfyUI. Vous obtenez un contrôle précis sur la pose et la composition que des prompts texte purs ne permettent pas.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/sculpt_case22/output.jpg" width="400" alt="Sculpt 3D vers animation"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/f5ecdb0c-d1ca-4291-91bc-eb88de91cd82" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Sculptez un modèle 3D brut dans Nomad Sculpt (ou Blender, ZBrush, etc.)
+2. Exportez une capture d'écran du modèle sous l'angle de caméra souhaité
+3. Utilisez GPT Image 2 pour rendre le modèle 3D en illustration soignée ou image réaliste
+4. Importez l'image rendue dans Seedance 2.0 (via ComfyUI ou directement) et animez
+
+**Prompt GPT Image 2 :**
+
+```text
+Based on this 3D clay model reference, create a fully rendered [style] illustration.
+Maintain the exact pose, proportions, and camera angle from the reference.
+Style: [anime / realistic / painterly / game art].
+Add: [lighting, textures, background, clothing details].
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+[Character description] in [action], maintaining the pose from the reference.
+[Style] animation, smooth natural movement, cinematic lighting, 24fps.
+```
+
+> [!NOTE]
+> Le modèle 3D vous donne ce qu'aucun prompt texte ne peut offrir : un contrôle exact sur la pose corporelle, la position des mains et l'angle de caméra. Même un modèle d'argile brut suffit — GPT Image 2 prend en charge tout le rendu et le travail de détail. Ce pipeline est idéal pour les créateurs qui utilisent déjà des outils 3D et veulent ajouter l'animation IA à leur workflow.
+
+<a id="cas-23-fr"></a>
+
+### Cas 23 : [Remake cyberpunk d'IP — Film concept](https://x.com/AYi_AInotes/status/2048745866538647912) (par [@AYi_AInotes](https://x.com/AYi_AInotes))
+
+Prenez n'importe quelle IP existante (film/TV) et réimaginez-la dans un univers complètement différent à l'aide de GPT Image 2 + Seedance 2.0. Cet exemple reconstruit Game of Thrones dans une dystopie cyberpunk de 2048 — le Trône de Fer est forgé en AK-47 dorés, les dragons sont des mechas crachant du plasma, et le Roi de la Nuit est un cyber-mort-vivant lumineux. Chaque image a la qualité d'une affiche de cinéma. 181 likes / 43K vues.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/remake_case23/output.jpg" width="400" alt="Remake cyberpunk d'IP"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/ac605d02-6871-47dc-9b58-414356872def" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Choisissez une IP existante et définissez le concept de remix (ex. "Game of Thrones en cyberpunk 2048")
+2. Générez avec GPT Image 2 les redesigns clés des personnages — traduisez les traits iconiques de chacun dans le nouvel univers
+3. Générez des compositions de scènes qui font écho à des moments iconiques de l'original
+4. Animez chaque scène dans Seedance 2.0 avec un mouvement cinématographique
+
+**Prompt GPT Image 2 :**
+
+```text
+Reimagine [character name] from [IP] in a [new setting] aesthetic:
+Original traits: [list iconic visual elements].
+New interpretation: [how each trait translates to the new setting].
+Style: cinematic concept art, [new setting] visual language, movie poster quality.
+Lighting: [neon / holographic / dystopian glow].
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Cinematic [new setting] sequence, epic scale, dramatic camera movement,
+[character] in [iconic action reimagined for new setting],
+atmospheric particles, volumetric lighting, 24fps.
+```
+
+> [!NOTE]
+> Ce workflow fonctionne pour toute combinaison IP × univers : Star Wars dans le Japon féodal, Marvel en Art déco, Harry Potter en cyberpunk. La clé est de traduire les traits visuels iconiques de chaque personnage dans le nouveau langage esthétique tout en les gardant reconnaissables.
+
+<a id="cas-24-fr"></a>
+
+### Cas 24 : [Concept de jeu de ville style GTA](https://x.com/markgadala/status/2048560337960489385) (par [@markgadala](https://x.com/markgadala))
+
+Créez n'importe quelle version de GTA en 5 minutes. Générez avec GPT Image 2 des captures d'écran de jeu situées dans n'importe quelle ville (Tokyo, Lagos, Mumbai), puis animez-les en images de gameplay avec Seedance 2.0. Le résultat ressemble à une vraie bande-annonce de jeu pour un jeu qui n'existe pas. 99 likes / 8.7K vues.
+
+<table><tr>
+<td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/gta_case24/output.jpg" width="400" alt="Concept de jeu de ville style GTA"></a></td>
+<td align="center"><video src="https://github.com/user-attachments/assets/d3b0a7b9-827a-47f6-b24e-eabfacf3e892" width="400" controls></video></td>
+</tr></table>
+
+**Étapes :**
+
+1. Définissez votre variante de GTA — ville, époque, style visuel
+2. Générez avec GPT Image 2 des captures d'écran de jeu : vue à la troisième personne, overlay HUD, environnement urbain
+3. Importez dans Seedance 2.0 et animez en images de gameplay
+4. Assemblez les plans en bande-annonce
+
+**Prompt GPT Image 2 :**
+
+```text
+GTA-style open world game screenshot set in [city], [time period].
+Third-person camera behind the player character.
+Character: [description], walking/driving through [specific street scene].
+HUD elements: minimap bottom-left, health bar, wanted stars.
+Style: photorealistic AAA game, ray-traced lighting, [time of day].
+16:9 widescreen, 4K quality.
+```
+
+**Prompt Seedance 2.0 :**
+
+```text
+Third-person gameplay footage, character walking through [city] streets,
+natural pedestrian movement, dynamic camera following behind,
+neon signs and city lights, AAA game quality, smooth 24fps.
+```
+
+> [!NOTE]
+> Ce cas étend l'approche concept de jeu du cas 9 spécifiquement aux jeux open-world urbains. Les éléments HUD (minimap, barre de vie, étoiles de recherche) sont ce qui vend l'illusion du "vrai jeu". Fonctionne pour toute ville — plus vos détails au niveau de la rue sont précis, plus le résultat est convaincant.
 
 <a id="conseils-techniques-fr"></a>
 
@@ -661,6 +1294,10 @@ Qualité de publicité cinématographique, [ton de marque : premium / énergique
 [direction de la lumière] met le produit en valeur, fond propre, sans personne.
 Durée : 3 secondes.
 ```
+
+**Longueur des prompts — plus court gagne souvent**
+
+Expérimentation communautaire via [@Iancu_ai](https://x.com/Iancu_ai/status/2047882924679168083) : un prompt Seedance de 1500 mots de qualité cinéma a perdu face à une seule phrase. Même personnage, mêmes 15 secondes. Le prompt court a gagné. Seedance récompense la clarté directionnelle plutôt que la description exhaustive — écrivez l'intention de mouvement, pas chaque détail de la scène.
 
 ---
 
