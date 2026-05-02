@@ -720,33 +720,10 @@ Ce dépôt s'inspire d'excellentes collections de workflows ouverts et d'expéri
 
 Merci aux créateurs et contributeurs ayant partagé publiquement leur travail et rendu ces études de cas possibles.
 
-- [@szounft](https://x.com/szounft)
-- [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI)
-- [@ponyodong](https://x.com/ponyodong)
-- [@servasyy_ai](https://x.com/servasyy_ai)
-- [@YaReYaRu30Life](https://x.com/YaReYaRu30Life)
-- [@fukaborichannel](https://x.com/fukaborichannel)
-- [@Shin_Engineer](https://x.com/Shin_Engineer)
-- [@ai_mitosan](https://x.com/ai_mitosan)
-- [@kiyoshi_shin](https://x.com/kiyoshi_shin)
-- [@AbleGPT](https://x.com/AbleGPT)
-- [@patata1216](https://x.com/patata1216)
-- [@peter6759](https://x.com/peter6759)
-- [@hibi_ai__](https://x.com/hibi_ai__)
-- [@heygentlewhale](https://x.com/heygentlewhale)
-- [@ai_gezgini](https://x.com/ai_gezgini)
-- [@Tz_2022](https://x.com/Tz_2022)
-- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
-- [@0xbisc](https://x.com/0xbisc)
-- [@Iancu_ai](https://x.com/Iancu_ai)
-- [@Jake_Joseph](https://x.com/Jake_Joseph)
-- [@venturetwins](https://x.com/venturetwins)
-- [@0xInk_](https://x.com/0xInk_)
-- [@markgadala](https://x.com/markgadala)
-- [@Ankit_patel211](https://x.com/Ankit_patel211)
+[@szounft](https://x.com/szounft) · [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI) · [@ponyodong](https://x.com/ponyodong) · [@servasyy_ai](https://x.com/servasyy_ai) · [@YaReYaRu30Life](https://x.com/YaReYaRu30Life) · [@fukaborichannel](https://x.com/fukaborichannel) · [@Shin_Engineer](https://x.com/Shin_Engineer) · [@ai_mitosan](https://x.com/ai_mitosan) · [@kiyoshi_shin](https://x.com/kiyoshi_shin) · [@AbleGPT](https://x.com/AbleGPT) · [@patata1216](https://x.com/patata1216) · [@peter6759](https://x.com/peter6759) · [@hibi_ai__](https://x.com/hibi_ai__) · [@heygentlewhale](https://x.com/heygentlewhale) · [@ai_gezgini](https://x.com/ai_gezgini) · [@Tz_2022](https://x.com/Tz_2022) · [@old_pgmrs_will](https://x.com/old_pgmrs_will) · [@0xbisc](https://x.com/0xbisc) · [@Iancu_ai](https://x.com/Iancu_ai) · [@Jake_Joseph](https://x.com/Jake_Joseph) · [@venturetwins](https://x.com/venturetwins) · [@0xInk_](https://x.com/0xInk_) · [@markgadala](https://x.com/markgadala) · [@Ankit_patel211](https://x.com/Ankit_patel211) · [@Ciri_ai](https://x.com/Ciri_ai) · [@nimentrix](https://x.com/nimentrix) · [@insmind_com](https://x.com/insmind_com) · [@kingofdairyque](https://x.com/kingofdairyque) · [@Kashberg_0](https://x.com/Kashberg_0) · [@airina_xyz](https://x.com/airina_xyz) · [@CoffeeVectors](https://x.com/CoffeeVectors) · [@mdmadeit](https://x.com/mdmadeit) · [@Morph_VGart](https://x.com/Morph_VGart) · [@MEnesKirca](https://x.com/MEnesKirca) · [@MrLarus](https://x.com/MrLarus) · [@AYi_AInotes](https://x.com/AYi_AInotes) · [@8fstudioz](https://x.com/8fstudioz) · [@_DAntunes_](https://x.com/_DAntunes_)
 
 *Nous ne pouvons pas garantir que chaque cas soit attribué à son créateur d'origine. Si une correction est nécessaire, contactez-nous et nous la ferons.*
 
 Si vous avez d'autres cas de workflow intéressants à partager, n'hésitez pas à nous contacter pour enrichir la bibliothèque de workflows Evolink.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvolinkAI/gptimage2-x-seedance2&type=Date)](https://www.star-history.com/#EvolinkAI/gptimage2-x-seedance2&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/GPT-Image-2-Seedance2-Workflow&type=Date)](https://www.star-history.com/#EvoLinkAI/GPT-Image-2-Seedance2-Workflow&Date)

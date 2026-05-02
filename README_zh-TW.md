@@ -720,33 +720,10 @@ Step 3: Add your Seedance prompt → generate
 
 感謝所有公開分享作品的創作者與貢獻者，讓這些案例得以整理成文。
 
-- [@szounft](https://x.com/szounft)
-- [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI)
-- [@ponyodong](https://x.com/ponyodong)
-- [@servasyy_ai](https://x.com/servasyy_ai)
-- [@YaReYaRu30Life](https://x.com/YaReYaRu30Life)
-- [@fukaborichannel](https://x.com/fukaborichannel)
-- [@Shin_Engineer](https://x.com/Shin_Engineer)
-- [@ai_mitosan](https://x.com/ai_mitosan)
-- [@kiyoshi_shin](https://x.com/kiyoshi_shin)
-- [@AbleGPT](https://x.com/AbleGPT)
-- [@patata1216](https://x.com/patata1216)
-- [@peter6759](https://x.com/peter6759)
-- [@hibi_ai__](https://x.com/hibi_ai__)
-- [@heygentlewhale](https://x.com/heygentlewhale)
-- [@ai_gezgini](https://x.com/ai_gezgini)
-- [@Tz_2022](https://x.com/Tz_2022)
-- [@old_pgmrs_will](https://x.com/old_pgmrs_will)
-- [@0xbisc](https://x.com/0xbisc)
-- [@Iancu_ai](https://x.com/Iancu_ai)
-- [@Jake_Joseph](https://x.com/Jake_Joseph)
-- [@venturetwins](https://x.com/venturetwins)
-- [@0xInk_](https://x.com/0xInk_)
-- [@markgadala](https://x.com/markgadala)
-- [@Ankit_patel211](https://x.com/Ankit_patel211)
+[@szounft](https://x.com/szounft) · [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI) · [@ponyodong](https://x.com/ponyodong) · [@servasyy_ai](https://x.com/servasyy_ai) · [@YaReYaRu30Life](https://x.com/YaReYaRu30Life) · [@fukaborichannel](https://x.com/fukaborichannel) · [@Shin_Engineer](https://x.com/Shin_Engineer) · [@ai_mitosan](https://x.com/ai_mitosan) · [@kiyoshi_shin](https://x.com/kiyoshi_shin) · [@AbleGPT](https://x.com/AbleGPT) · [@patata1216](https://x.com/patata1216) · [@peter6759](https://x.com/peter6759) · [@hibi_ai__](https://x.com/hibi_ai__) · [@heygentlewhale](https://x.com/heygentlewhale) · [@ai_gezgini](https://x.com/ai_gezgini) · [@Tz_2022](https://x.com/Tz_2022) · [@old_pgmrs_will](https://x.com/old_pgmrs_will) · [@0xbisc](https://x.com/0xbisc) · [@Iancu_ai](https://x.com/Iancu_ai) · [@Jake_Joseph](https://x.com/Jake_Joseph) · [@venturetwins](https://x.com/venturetwins) · [@0xInk_](https://x.com/0xInk_) · [@markgadala](https://x.com/markgadala) · [@Ankit_patel211](https://x.com/Ankit_patel211) · [@Ciri_ai](https://x.com/Ciri_ai) · [@nimentrix](https://x.com/nimentrix) · [@insmind_com](https://x.com/insmind_com) · [@kingofdairyque](https://x.com/kingofdairyque) · [@Kashberg_0](https://x.com/Kashberg_0) · [@airina_xyz](https://x.com/airina_xyz) · [@CoffeeVectors](https://x.com/CoffeeVectors) · [@mdmadeit](https://x.com/mdmadeit) · [@Morph_VGart](https://x.com/Morph_VGart) · [@MEnesKirca](https://x.com/MEnesKirca) · [@MrLarus](https://x.com/MrLarus) · [@AYi_AInotes](https://x.com/AYi_AInotes) · [@8fstudioz](https://x.com/8fstudioz) · [@_DAntunes_](https://x.com/_DAntunes_)
 
 *我們無法保證每個案例都已正確對應到原始創作者。如有需要修正之處，請聯絡我們，我們會盡快更新。*
 
 如果你還有更多有趣的工作流程案例願意分享，歡迎聯絡我們，一起擴充 Evolink 工作流程案例庫。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvolinkAI/gptimage2-x-seedance2&type=Date)](https://www.star-history.com/#EvolinkAI/gptimage2-x-seedance2&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/GPT-Image-2-Seedance2-Workflow&type=Date)](https://www.star-history.com/#EvoLinkAI/GPT-Image-2-Seedance2-Workflow&Date)
