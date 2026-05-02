@@ -1,6 +1,9 @@
 # Raw data
 *.json
 
+# Video files (referenced via GitHub user-attachments URLs)
+*.mp4
+
 # Planning docs (internal)
 PLAN.md
 
