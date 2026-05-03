@@ -6,7 +6,27 @@
 
 # Planning docs (internal)
 PLAN.md
+data/
 
 # System
 .DS_Store
 gpt_image2_seedance2_full.json
+images/showcase/hal2400ai_02906004.ffpass-0.log
+images/showcase/hal2400ai_02906004.ffpass-0.log.mbtree
+images/showcase/ix00ai_14885066.ffpass-0.log.mbtree
+images/showcase/johnagi168_98781120.ffpass-0.log.mbtree
+images/showcase/latwitchance_57047764.ffpass-0.log.mbtree
+images/showcase/oiioii_ai_93043420.ffpass-0.log.mbtree
+images/showcase/saccc_c_60360897.ffpass-0.log.mbtree
+images/showcase/suji_pop_94878035.ffpass-0.log.mbtree
+images/showcase/vortex_promos_12863376.ffpass-0.log.mbtree
+images/showcase/zetogroovin_61094147.ffpass-0.log.mbtree
+scripts/build_showcase.py
+scripts/build_upload_csv.py
+scripts/build_upload_helpers.py
+scripts/compress_oversize.py
+scripts/download_showcase_media.py
+scripts/render_showcase.py
+scripts/sync_i18n_showcase.py
+data/x-search/_ack_addition.txt
+.gitignore
