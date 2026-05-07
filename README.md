@@ -45,6 +45,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## 📰 News
 
+- **May 6, 2026:** Expanded [🌟 Community Showcase](#-community-showcase) with 33 new creator works from May 5–6 (slugs 71–103) — see [Update — May 5–6, 2026](#update--may-56-2026)
 - **May 2, 2026:** Added [🌟 Community Showcase](#-community-showcase) — 70 latest GPT Image 2 × Seedance 2.0 works from creators on X (April 29 – May 2)
 - **May 1, 2026:** Added Case 13–27 (dance sequence grid, comic page animation, luxury commercial, cinematic food video, game interface pipeline, single agent workflow, storyboard-first cost control, Claude shotlist MV, casting grid, 3D sculpt pipeline, IP cyberpunk remake, GTA city concept, K-Pop choreography, product video ad, character intro animation)
 - **April 25, 2026:** Added Case 10–12 (multi-frame storyboard, Japanese MV toolchain, Claude Code × character sheet), expanded Case 9 with ARPG simulation variants, added community showcase to Gallery
@@ -88,6 +89,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 21: Casting Grid — Actor Audition (by @8fstudioz)](#case-21-casting-grid--actor-audition-by-8fstudioz)
   - [Case 22: 3D Sculpt → AI Render → Animation (by @_DAntunes_)](#case-22-3d-sculpt--ai-render--animation-by-_dantunes_)
 - [🌟 Community Showcase](#-community-showcase)
+  - [Update — May 5–6, 2026](#update--may-56-2026)
 - [💡 Tips & Techniques](#-tips--techniques)
   - [Consistency Guide](#consistency-guide)
   - [Prompt Templates](#prompt-templates)
@@ -1720,6 +1722,205 @@ A snapshot of the latest **GPT Image 2 × Seedance 2.0** work shared by creators
 <br/><a href="https://x.com/joshesye/status/2049715911838355739"><b>@joshesye</b></a> · <sub>1,020 views</sub>
 <br/><sub>茶叶品牌 TVC《一口春山》</sub>
 </td>
+<td align="center" valign="top" width="25%"></td>
+<td align="center" valign="top" width="25%"></td>
+</tr></table>
+
+### Update — May 5–6, 2026
+
+33 additional creator works picked up from X on May 5–6, 2026 (one entry per author, GlobalGPT promo posts excluded). Listed in tweet-recency order; view counts are not yet captured for this batch.
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/35c556af-1752-4a8a-9965-d1e2314b242e" width="240" controls></video>
+<br/><a href="https://x.com/Pixelbunny_ai/status/2051985506414768154"><b>@Pixelbunny_ai</b></a>
+<br/><sub>- Create Stunning AAA quality shorts with leading models -…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/75051d48-988e-4e0d-9cfa-389d821abec8" width="240" controls></video>
+<br/><a href="https://x.com/Adam38363368936/status/2051969842748735596"><b>@Adam38363368936</b></a>
+<br/><sub>GPT image 2+Seedance 2</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/8241abd7-3b4e-4b62-8dca-24dac31926cc" width="240" controls></video>
+<br/><a href="https://x.com/ai_hakase_/status/2051950389063282894"><b>@ai_hakase_</b></a>
+<br/><sub>【AIでNetflix級のUIを爆速生成！GPT Image 2 × Seedance 2.0】 👉   最新のAIを…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/30710ea7-1f06-49b2-ad31-041fa95046c2" width="240" controls></video>
+<br/><a href="https://x.com/Hoshimiko_AIart/status/2051947486353433013"><b>@Hoshimiko_AIart</b></a>
+<br/><sub>「見たいアニメに間に合わない……！！」</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/8315ea16-32ff-4078-8dce-44d4d2c896d9" width="240" controls></video>
+<br/><a href="https://x.com/Dheer_Red/status/2051915196185346333"><b>@Dheer_Red</b></a>
+<br/><sub>Seedance 2.0, Veo 3.1, Nano Banana, GPT Image 2—all in one…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/c57c7caf-ab27-4c79-9ca6-b571d7899139" width="240" controls></video>
+<br/><a href="https://x.com/NyaiiBubu/status/2051914243193389078"><b>@NyaiiBubu</b></a>
+<br/><sub>AI for UGC modal Rp0 itu nyata 😭</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/1899a3a5-da5c-455b-8fa3-d3c3ab830df4" width="240" controls></video>
+<br/><a href="https://x.com/apoorvabr/status/2051904397324722349"><b>@apoorvabr</b></a>
+<br/><sub>I like the video concepts of @chrisfirst.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/1718996f-d0e8-4ba8-abef-1d0e725ed22f" width="240" controls></video>
+<br/><a href="https://x.com/MaAyyoub/status/2051900019444154376"><b>@MaAyyoub</b></a>
+<br/><sub>Don't ruin a new day by thinking about yesterday.</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/a7d5b81e-708e-4bb5-9263-7bfb9c6e0d01" width="240" controls></video>
+<br/><a href="https://x.com/halne369/status/2051867032333803722"><b>@halne369</b></a>
+<br/><sub>Seedance2.0用の絵コンテ作成のスキルができました！</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/4a76e9c0-0171-4b2a-a74d-90f3e59f80e8" width="240" controls></video>
+<br/><a href="https://x.com/RYD232210555420/status/2051847984053469424"><b>@RYD232210555420</b></a>
+<br/><sub>朋友设计的无人驾驶公交车 Sumgo，我帮它做了条 AI 概念宣传片。</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/ac2e370f-6986-4ac1-b2ec-9580901d9483" width="240" controls></video>
+<br/><a href="https://x.com/Lart_AI/status/2051838590016241772"><b>@Lart_AI</b></a>
+<br/><sub>🎮 Built with GPT Image 2 × Seedance 2.0 on LartAI!</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/ad9b0494-b689-4aad-8a50-bcd278110c8b" width="240" controls></video>
+<br/><a href="https://x.com/Jake_Joseph/status/2051774091108155844"><b>@Jake_Joseph</b></a>
+<br/><sub>Wait, you can put real screenshots inside AI-generated UGC…</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/661be30d-946d-42f6-888c-fc19d8ab6e9d" width="240" controls></video>
+<br/><a href="https://x.com/KimAkiyama81/status/2051768139566714958"><b>@KimAkiyama81</b></a>
+<br/><sub>Choreographing a hallway action scene using GPT Image 2 and…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/6735dd89-bc7d-462e-8f5f-69fab82158e7" width="240" controls></video>
+<br/><a href="https://x.com/ChangningL29508/status/2051743657980748119"><b>@ChangningL29508</b></a>
+<br/><sub>Use the same storyboard to generate a realistic character r…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/d3d201fc-0813-4d08-aab0-eb0d7a27f708" width="240" controls></video>
+<br/><a href="https://x.com/aiseomastery/status/2051733667106734129"><b>@aiseomastery</b></a>
+<br/><sub>THIS AI WORKFLOW TURNS A RAMEN RECIPE INTO A STUNNING ANIME…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/ae6c44a0-8e6a-4ff1-ab1f-99b7aa49af01" width="240" controls></video>
+<br/><a href="https://x.com/simplissimus_/status/2051714965485039897"><b>@simplissimus_</b></a>
+<br/><sub>Quer dominar a Força e ver sua própria versão Jedi ganhar v…</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/67479af0-384f-471f-a8ef-4ee4727289f0" width="240" controls></video>
+<br/><a href="https://x.com/azed_ai/status/2051693299376021888"><b>@azed_ai</b></a>
+<br/><sub>Studios sell this as pre-production</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/1800bbc0-e6f2-4289-9d41-ef07c15be380" width="240" controls></video>
+<br/><a href="https://x.com/fy360593/status/2051686764054790504"><b>@fy360593</b></a>
+<br/><sub>Been seeing a lot of people doing this "Fan cam" content la…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/954dc98f-ab00-4fd5-9106-8671310958ef" width="240" controls></video>
+<br/><a href="https://x.com/indrawan_ape/status/2051680370429685963"><b>@indrawan_ape</b></a>
+<br/><sub>GPT Image 2 × Seedance 2.0 on @higgsfield is insane.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/fbf50a8f-459b-47a9-8ab1-3cc89b91d239" width="240" controls></video>
+<br/><a href="https://x.com/floopers966/status/2051678374750203983"><b>@floopers966</b></a>
+<br/><sub>また最安値入札ミサイルかよ！</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/c793c91a-d280-4c2d-b1fd-d64271f467a8" width="240" controls></video>
+<br/><a href="https://x.com/Xaroon_x/status/2051656676441293172"><b>@Xaroon_x</b></a>
+<br/><sub>Made with GPT Image 2 + Seedance 2.0 by @yapper_so</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/998a71a7-0481-4e93-a717-36295181449c" width="240" controls></video>
+<br/><a href="https://x.com/MonetizationDon/status/2051644080803750092"><b>@MonetizationDon</b></a>
+<br/><sub>I decided to create my own Afrobeats Mortal Kombat-style sh…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/eaadef33-8db9-4aad-9c2e-a455fcf896ad" width="240" controls></video>
+<br/><a href="https://x.com/roomA708/status/2051639024574697952"><b>@roomA708</b></a>
+<br/><sub>GPT-Image-2 × Seedance 2.0で、Osmo Pocket 4の“架空CM”を作ってみました。</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/6a66e25d-2ae1-469f-896c-3f0593a79f8f" width="240" controls></video>
+<br/><a href="https://x.com/vkuoo/status/2051637837951615142"><b>@vkuoo</b></a>
+<br/><sub>Using Midjourney to generate the original images, GPT Image…</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/b6fdbff6-23c8-4c6e-9642-7c7fca112b35" width="240" controls></video>
+<br/><a href="https://x.com/RadineerE10/status/2051622937808318654"><b>@RadineerE10</b></a>
+<br/><sub>「YouMind」が世界最大級の無料AIプロンプトライブラリとして存在感を増している。</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/0fc459c5-03bc-4fce-928c-40ff34acf989" width="240" controls></video>
+<br/><a href="https://x.com/aivoxyy/status/2051621547518083130"><b>@aivoxyy</b></a>
+<br/><sub>GPT Image 2 + Seedance 2.0 a police chase of new 2026 Chevr…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/ec1de9ac-97a4-4648-bab6-5ae8818377c1" width="240" controls></video>
+<br/><a href="https://x.com/aadi29494/status/2051594382437232667"><b>@aadi29494</b></a>
+<br/><sub>Made a LEGO build-process video with GPT Image 2 + Seedance…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/cdb64846-fbfc-4b0f-8a18-9a55552eff87" width="240" controls></video>
+<br/><a href="https://x.com/mmarch_ai/status/2051591272918299085"><b>@mmarch_ai</b></a>
+<br/><sub>Con GPT Image 2 dominas la composición: añade textos largos…</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/c2ca0649-d276-4ae6-9d1f-e68a0907fc20" width="240" controls></video>
+<br/><a href="https://x.com/D_studioproject/status/2051580845606191260"><b>@D_studioproject</b></a>
+<br/><sub>How to join a cult with GPT Image 2 x Seedance 2.0 Anime St…</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/6f206801-4d40-44a0-971b-3500f7619f1b" width="240" controls></video>
+<br/><a href="https://x.com/EgeUymaz/status/2051576423089901874"><b>@EgeUymaz</b></a>
+<br/><sub>Storyboarded with GPT Image 2.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/399714ae-3ac1-4540-b1db-be9320051ee0" width="240" controls></video>
+<br/><a href="https://x.com/CurieuxExplorer/status/2051536554691334385"><b>@CurieuxExplorer</b></a>
+<br/><sub>Quiet Growth 🌱</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/da772e93-8226-4ac6-aff8-6b9786c861ce" width="240" controls></video>
+<br/><a href="https://x.com/josepho/status/2051535229161021618"><b>@josepho</b></a>
+<br/><sub>My new AI minishort, Dance of destruction, based on an old…</sub>
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center" valign="top" width="25%">
+<video src="https://github.com/user-attachments/assets/acf55ef2-63e7-420a-9d9a-61b97f2165f9" width="240" controls></video>
+<br/><a href="https://x.com/iswangwenbin/status/2051528434225234302"><b>@iswangwenbin</b></a>
+<br/><sub>我也来交作业了👇 Hyperframes + Mimo TTS + GPT Image 2 + Seedance 2.0</sub>
+</td>
+<td align="center" valign="top" width="25%"></td>
 <td align="center" valign="top" width="25%"></td>
 <td align="center" valign="top" width="25%"></td>
 </tr></table>

@@ -30,3 +30,5 @@ scripts/render_showcase.py
 scripts/sync_i18n_showcase.py
 data/x-search/_ack_addition.txt
 .gitignore
+scripts/build_reply_csv.py
+.gitignore
