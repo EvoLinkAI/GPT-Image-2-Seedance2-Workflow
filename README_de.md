@@ -92,7 +92,6 @@ Wenn dir das nützlich ist, gib dem Repository gern einen Star. ⭐
 - [💡 Tipps & Techniken](#-tipps--techniken)
   - [Leitfaden für Konsistenz](#leitfaden-für-konsistenz)
   - [Prompt-Vorlagen](#prompt-vorlagen)
-  - [Fehlerbehebung](#fehlerbehebung)
 - [🚀 Auf Evolink ausprobieren](#-auf-evolink-ausprobieren)
 - [🙏 Danksagung](#-danksagung)
 
@@ -1809,32 +1808,6 @@ Duration: 3 seconds.
 **Prompt-Länge — kürzer gewinnt oft**
 
 Community-Experiment via [@Iancu_ai](https://x.com/Iancu_ai/status/2047882924679168083): Ein 1500-Wörter-Kino-Prompt für Seedance verlor gegen einen einzigen Satz. Gleicher Charakter, gleiche 15 Sekunden. Der kurze Prompt gewann. Seedance belohnt Richtungsklarheit statt erschöpfender Beschreibung — schreibe die Bewegungsabsicht, nicht jedes Detail der Szene.
-
----
-
-### Fehlerbehebung
-
-**Seedance-Inhaltsmoderation blockiert**
-
-Ursache: Das Bild enthält Inhalte, die als sensibel eingestuft werden (realistische Gewalt, menschliche Gesichter in bestimmten Posen).
-Lösung: Wechsle zu Anime- oder Illustrationsstil, oder entferne Beschreibungen menschlicher Figuren aus deinem Prompt.
-
-**Ausgabebewegung ist chaotisch**
-
-Ursache: Das Storyboard-Bild ist zu komplex — Seedance kann die primäre Bewegungsrichtung nicht bestimmen.
-Lösung: Vereinfache das Storyboard-Panel auf ein Hauptmotiv und eine klare Aktion. Reduziere Hintergrundelemente.
-
-**Produktbild verzerrt sich**
-
-Siehe den Leitfaden für Konsistenz → Abschnitt Produktbild-Konsistenz oben.
-
-**Plattform-Eingabeformat-Anforderungen**
-
-| Plattform | Empfohlene Eingabegröße | Unterstützte Formate | Max. Dateigröße |
-| :---: | :---: | :---: | :---: |
-| Hailuo | 1280×720 oder 720×1280 | JPG / PNG | 10 MB |
-| Higgsfield | 1920×1080 | PNG | 20 MB |
-| HitPaw | Beliebiges Verhältnis | JPG / PNG / WEBP | 15 MB |
 
 ## 🚀 Auf Evolink ausprobieren
 

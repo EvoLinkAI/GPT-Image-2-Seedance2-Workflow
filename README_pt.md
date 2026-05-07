@@ -92,7 +92,6 @@ Se isto for útil para você, considere dar uma estrela. ⭐
 - [💡 Dicas & Técnicas](#-dicas--técnicas)
   - [Guia de consistência](#guia-de-consistência)
   - [Templates de prompt](#templates-de-prompt)
-  - [Solução de problemas](#solução-de-problemas)
 - [🚀 Experimente no Evolink](#-experimente-no-evolink)
 - [🙏 Agradecimentos](#-agradecimentos)
 
@@ -1784,32 +1783,6 @@ Duration: 3 seconds.
 **Tamanho do prompt — mais curto frequentemente vence**
 
 Experimento da comunidade via [@Iancu_ai](https://x.com/Iancu_ai/status/2047882924679168083): um prompt de 1500 palavras com qualidade cinematográfica para o Seedance perdeu para uma única frase. Mesmo personagem, mesmos 15 segundos. O prompt curto venceu. O Seedance recompensa clareza direcional em vez de descrição exaustiva — escreva a intenção de movimento, não cada detalhe da cena.
-
----
-
-### Solução de problemas
-
-**Bloqueio de moderação de conteúdo do Seedance**
-
-Causa: a imagem contém conteúdo sinalizado como sensível (violência realista, rostos humanos em certas poses).
-Solução: mude para estilo anime ou ilustração, ou remova descrições de figuras humanas do seu prompt.
-
-**Movimento de saída caótico**
-
-Causa: a imagem de storyboard é muito complexa — o Seedance não consegue determinar a direção principal do movimento.
-Solução: simplifique o painel de storyboard para um assunto principal e uma ação clara. Reduza os elementos de fundo.
-
-**Imagem de produto distorce**
-
-Veja a seção Guia de consistência → Consistência de imagem de produto acima.
-
-**Requisitos de formato de entrada por plataforma**
-
-| Plataforma | Tamanho de entrada recomendado | Formatos suportados | Tamanho máximo |
-| :---: | :---: | :---: | :---: |
-| Hailuo | 1280×720 ou 720×1280 | JPG / PNG | 10 MB |
-| Higgsfield | 1920×1080 | PNG | 20 MB |
-| HitPaw | Qualquer proporção | JPG / PNG / WEBP | 15 MB |
 
 ## 🚀 Experimente no Evolink
 

@@ -92,7 +92,6 @@ Faydalı bulursanız yıldız vermeyi düşünebilirsiniz. ⭐
 - [💡 İpuçları ve Teknikler](#-i̇puçları-ve-teknikler)
   - [Tutarlılık Rehberi](#tutarlılık-rehberi)
   - [Prompt Şablonları](#prompt-şablonları)
-  - [Sorun Giderme](#sorun-giderme)
 - [🚀 Evolink Üzerinde Deneyin](#-evolink-üzerinde-deneyin)
 - [🙏 Teşekkür](#-teşekkür)
 
@@ -1804,32 +1803,6 @@ Duration: 3 seconds.
 **Prompt uzunluğu — kısa genellikle kazanır**
 
 [@Iancu_ai](https://x.com/Iancu_ai/status/2047882924679168083) aracılığıyla topluluk deneyi: 1500 kelimelik sinema kalitesinde bir Seedance prompt'u tek bir cümleye kaybetti. Aynı karakter, aynı 15 saniye. Kısa prompt kazandı. Seedance, ayrıntılı sahne açıklaması yerine yönlendirici netliği ödüllendirir — sahnenin her detayını değil, hareket niyetini yazın.
-
----
-
-### Sorun Giderme
-
-**Seedance içerik moderasyonu engeli**
-
-Neden: görüntü hassas olarak işaretlenen içerik barındırıyor (gerçekçi şiddet, belirli pozlardaki insan yüzleri).
-Çözüm: anime veya illüstrasyon stiline geçin veya prompt'unuzdan insan figürü açıklamalarını kaldırın.
-
-**Çıktı hareketi kaotik**
-
-Neden: storyboard görseli çok karmaşık — Seedance birincil hareket yönünü belirleyemiyor.
-Çözüm: storyboard panelini tek bir ana konu ve tek bir net eylemle basitleştirin. Arka plan öğelerini azaltın.
-
-**Ürün görseli bozuluyor**
-
-Yukarıdaki Tutarlılık Rehberi → Ürün görseli tutarlılığı bölümüne bakın.
-
-**Platform giriş formatı gereksinimleri**
-
-| Platform | Önerilen giriş boyutu | Desteklenen formatlar | Maks dosya boyutu |
-| :---: | :---: | :---: | :---: |
-| Hailuo | 1280×720 veya 720×1280 | JPG / PNG | 10 MB |
-| Higgsfield | 1920×1080 | PNG | 20 MB |
-| HitPaw | Herhangi bir oran | JPG / PNG / WEBP | 15 MB |
 
 ## 🚀 Evolink Üzerinde Deneyin
 

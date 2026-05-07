@@ -93,7 +93,6 @@ If you find this useful, consider giving it a star. ⭐
 - [💡 Tips & Techniques](#-tips--techniques)
   - [Consistency Guide](#consistency-guide)
   - [Prompt Templates](#prompt-templates)
-  - [Troubleshooting](#troubleshooting)
 - [🚀 Try It on Evolink](#-try-it-on-evolink)
 - [🙏 Acknowledge](#-acknowledge)
 
@@ -2003,32 +2002,6 @@ Duration: 3 seconds.
 **Prompt length — shorter often wins**
 
 Community experiment via [@Iancu_ai](https://x.com/Iancu_ai/status/2047882924679168083): a 1500-word cinema-grade Seedance prompt lost to a single sentence. Same character, same 15 seconds. The short prompt won. Seedance rewards directional clarity over exhaustive description — write the motion intent, not every detail of the scene.
-
----
-
-### Troubleshooting
-
-**Seedance content moderation block**
-
-Cause: the image contains content flagged as sensitive (realistic violence, human faces in certain poses).
-Fix: switch to anime or illustration style, or remove human figure descriptions from your prompt.
-
-**Output motion is chaotic**
-
-Cause: the storyboard image is too complex — Seedance cannot determine the primary motion direction.
-Fix: simplify the storyboard panel to one main subject and one clear action. Reduce background elements.
-
-**Product image distorts**
-
-See the Consistency Guide → Product image consistency section above.
-
-**Platform input format requirements**
-
-| Platform | Recommended input size | Supported formats | Max file size |
-| :---: | :---: | :---: | :---: |
-| Hailuo | 1280×720 or 720×1280 | JPG / PNG | 10 MB |
-| Higgsfield | 1920×1080 | PNG | 20 MB |
-| HitPaw | Any ratio | JPG / PNG / WEBP | 15 MB |
 
 ## 🚀 Try It on Evolink
 
