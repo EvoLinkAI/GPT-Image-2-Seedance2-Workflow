@@ -39,6 +39,20 @@ GPT Image 2는 "무엇을 그릴지"와 비주얼 일관성을 담당합니다. 
 
 사용해 보기: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
 
+### 빠른 사용
+
+- [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)은 Agent에 GPT Image 2 이미지 생성 및 편집 기능을 추가합니다
+- [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)은 Agent에 Seedance 2 영상 생성 기능을 추가합니다
+
+### 빠른 설치
+
+```bash
+npx evolink-gpt-image@latest -y --path <your-skills-dir>
+npx evolink-seedance@latest -y --path <your-skills-dir>
+```
+
+`<your-skills-dir>` 은 Agent의 skills 디렉터리로 바꿔 넣으세요. `Claude Code` 는 `~/.claude/skills`, `OpenCode` 는 `~/.opencode/skills`, `Cursor` 는 프로젝트 `.cursor/skills` 또는 `~/.cursor/skills` 를 사용합니다. `OpenClaw` 는 `--path` 를 생략해도 설치기가 자동으로 감지합니다.
+
 유용하셨다면 스타를 눌러 주세요. ⭐
 
 

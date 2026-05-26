@@ -40,6 +40,20 @@ A maioria dos casos deste repositório foi curada a partir de criadores no X/Twi
 
 Experimente: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
 
+### Uso rapido
+
+- [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) adiciona geracao e edicao de imagens com GPT Image 2 ao seu agente
+- [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) adiciona geracao de video com Seedance 2 ao seu agente
+
+### Instalacao rapida
+
+```bash
+npx evolink-gpt-image@latest -y --path <your-skills-dir>
+npx evolink-seedance@latest -y --path <your-skills-dir>
+```
+
+Substitua `<your-skills-dir>` pelo diretorio de skills do seu agente: `Claude Code` usa `~/.claude/skills`, `OpenCode` usa `~/.opencode/skills`, e `Cursor` usa `.cursor/skills` no projeto ou `~/.cursor/skills`. No `OpenClaw`, voce pode omitir `--path`, porque o instalador detecta o diretorio automaticamente.
+
 Se isto for útil para você, considere dar uma estrela. ⭐
 
 

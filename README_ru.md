@@ -38,6 +38,20 @@ GPT Image 2 отвечает за «что рисовать» и визуаль�
 
 Попробуйте: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
 
+### Быстрый старт
+
+- [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) добавляет вашему агенту генерацию и редактирование изображений через GPT Image 2
+- [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) добавляет вашему агенту генерацию видео через Seedance 2
+
+### Быстрая установка
+
+```bash
+npx evolink-gpt-image@latest -y --path <your-skills-dir>
+npx evolink-seedance@latest -y --path <your-skills-dir>
+```
+
+Замените `<your-skills-dir>` на каталог skills вашего агента: для `Claude Code` это `~/.claude/skills`, для `OpenCode` это `~/.opencode/skills`, для `Cursor` это проектный `.cursor/skills` или `~/.cursor/skills`. В `OpenClaw` можно не указывать `--path`, установщик определит каталог автоматически.
+
 Если вам это полезно, поставьте звезду. ⭐
 
 

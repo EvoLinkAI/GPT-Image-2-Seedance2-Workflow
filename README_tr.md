@@ -40,6 +40,20 @@ Bu depodaki vakaların çoğu X/Twitter üreticilerinden, topluluk deneylerinden
 
 Deneyin: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
 
+### Hizli kullanim
+
+- [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) agentinize GPT Image 2 ile gorsel uretimi ve duzenleme yetenegi ekler
+- [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) agentinize Seedance 2 ile video uretimi yetenegi ekler
+
+### Hizli kurulum
+
+```bash
+npx evolink-gpt-image@latest -y --path <your-skills-dir>
+npx evolink-seedance@latest -y --path <your-skills-dir>
+```
+
+`<your-skills-dir>` yerine agentinizin skills dizinini yazin: `Claude Code` için `~/.claude/skills`, `OpenCode` için `~/.opencode/skills`, `Cursor` için proje icindeki `.cursor/skills` veya `~/.cursor/skills`. `OpenClaw` tarafinda `--path` zorunlu degildir; kurucu dizini otomatik algilar.
+
 Faydalı bulursanız yıldız vermeyi düşünebilirsiniz. ⭐
 
 

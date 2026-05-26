@@ -24,12 +24,7 @@
 </div>
 
 
-
-
-
 ## 🎬 Introduction
-
-Welcome to the GPT Image 2 × Seedance 2.0 workflow repository! 🤗
 
 **We collect proven workflows, prompt templates, and real creator examples for combining GPT Image 2 and Seedance 2.0 to produce high-quality AI videos.**
 
@@ -38,6 +33,20 @@ GPT Image 2 handles the "what to draw" and visual consistency. Seedance 2.0 hand
 Most cases in this repository are curated from X/Twitter creators, community experiments, and real production workflows.
 
 Try it: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
+
+### Quick Use
+
+- [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) adds GPT Image 2 image generation and editing to your agent
+- [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) adds Seedance 2 video generation to your agent
+
+### Quick Install
+
+```bash
+npx evolink-gpt-image@latest -y --path <your-skills-dir>
+npx evolink-seedance@latest -y --path <your-skills-dir>
+```
+
+Use your agent's skills directory for `<your-skills-dir>`: `~/.claude/skills` for Claude Code, `~/.opencode/skills` for OpenCode, and project `.cursor/skills` or `~/.cursor/skills` for Cursor. For OpenClaw, both installers can auto-detect the skills directory, so `--path` can be omitted.
 
 If you find this useful, consider giving it a star. ⭐
 

@@ -38,6 +38,20 @@ GPT Image 2 负责"画什么"和视觉一致性，Seedance 2.0 负责"怎么动"
 
 在 Evolink 上试试：[GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
 
+### 快速使用
+
+- [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) 为你的 Agent 增加 GPT Image 2 图片生成与编辑能力
+- [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) 为你的 Agent 增加 Seedance 2 视频生成能力
+
+### 快速安装
+
+```bash
+npx evolink-gpt-image@latest -y --path <your-skills-dir>
+npx evolink-seedance@latest -y --path <your-skills-dir>
+```
+
+将 `<your-skills-dir>` 替换为你的 Agent skills 目录：`Claude Code` 用 `~/.claude/skills`，`OpenCode` 用 `~/.opencode/skills`，`Cursor` 用项目 `.cursor/skills` 或 `~/.cursor/skills`。`OpenClaw` 可省略 `--path`，安装器会自动识别目录。
+
 如果这个仓库对你有帮助，可以点个 Star。⭐
 
 
