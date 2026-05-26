@@ -45,12 +45,44 @@ GPT Image 2 отвечает за «что рисовать» и визуаль�
 
 ### Быстрая установка
 
+#### Запуск прямо в Terminal
+
 ```bash
-npx evolink-gpt-image@latest -y --path <your-skills-dir>
-npx evolink-seedance@latest -y --path <your-skills-dir>
+npx evolink-gpt-image@latest
+npx evolink-seedance@latest
 ```
 
-Замените `<your-skills-dir>` на каталог skills вашего агента: для `Claude Code` это `~/.claude/skills`, для `OpenCode` это `~/.opencode/skills`, для `Cursor` это проектный `.cursor/skills` или `~/.cursor/skills`. В `OpenClaw` можно не указывать `--path`, установщик определит каталог автоматически.
+Если вы устанавливаете вручную через Terminal, эти две строки можно запускать как есть. Установщики попробуют автоматически определить известный каталог skills, а если не смогут, спросят, куда ставить.
+
+#### Claude Code
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.claude/skills
+npx evolink-seedance@latest -y --path ~/.claude/skills
+```
+
+#### OpenCode
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.opencode/skills
+npx evolink-seedance@latest -y --path ~/.opencode/skills
+```
+
+#### Cursor
+
+```bash
+npx evolink-gpt-image@latest -y --path .cursor/skills
+npx evolink-seedance@latest -y --path .cursor/skills
+```
+
+#### OpenClaw
+
+```bash
+npx evolink-gpt-image@latest -y
+npx evolink-seedance@latest -y
+```
+
+Вариант для Terminal выше подходит для ручной установки. Команды ниже, привязанные к конкретному хосту, лучше подходят, когда вы хотите, чтобы AI Agent установил skills без дополнительных вопросов.
 
 Если вам это полезно, поставьте звезду. ⭐
 

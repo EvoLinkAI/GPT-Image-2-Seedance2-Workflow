@@ -45,12 +45,44 @@ GPT Image 2 负责"画什么"和视觉一致性，Seedance 2.0 负责"怎么动"
 
 ### 快速安装
 
+#### 直接在 Terminal 运行
+
 ```bash
-npx evolink-gpt-image@latest -y --path <your-skills-dir>
-npx evolink-seedance@latest -y --path <your-skills-dir>
+npx evolink-gpt-image@latest
+npx evolink-seedance@latest
 ```
 
-将 `<your-skills-dir>` 替换为你的 Agent skills 目录：`Claude Code` 用 `~/.claude/skills`，`OpenCode` 用 `~/.opencode/skills`，`Cursor` 用项目 `.cursor/skills` 或 `~/.cursor/skills`。`OpenClaw` 可省略 `--path`，安装器会自动识别目录。
+如果是你本人在 Terminal 里手动安装，可以直接运行这两行。安装器会尽量自动识别已知 skills 目录；如果识别不到，会继续询问安装位置。
+
+#### Claude Code
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.claude/skills
+npx evolink-seedance@latest -y --path ~/.claude/skills
+```
+
+#### OpenCode
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.opencode/skills
+npx evolink-seedance@latest -y --path ~/.opencode/skills
+```
+
+#### Cursor
+
+```bash
+npx evolink-gpt-image@latest -y --path .cursor/skills
+npx evolink-seedance@latest -y --path .cursor/skills
+```
+
+#### OpenClaw
+
+```bash
+npx evolink-gpt-image@latest -y
+npx evolink-seedance@latest -y
+```
+
+上面的 Terminal 版本适合你自己手动安装；下面这些宿主专用命令适合直接发给 AI Agent 执行，避免它继续追问安装目录。
 
 如果这个仓库对你有帮助，可以点个 Star。⭐
 

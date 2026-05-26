@@ -47,12 +47,44 @@ Teste es: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_
 
 ### Schnellinstallation
 
+#### Direkt im Terminal ausführen
+
 ```bash
-npx evolink-gpt-image@latest -y --path <your-skills-dir>
-npx evolink-seedance@latest -y --path <your-skills-dir>
+npx evolink-gpt-image@latest
+npx evolink-seedance@latest
 ```
 
-Ersetze `<your-skills-dir>` durch das Skills-Verzeichnis deines Agenten: `Claude Code` nutzt `~/.claude/skills`, `OpenCode` nutzt `~/.opencode/skills`, `Cursor` nutzt das Projektverzeichnis `.cursor/skills` oder `~/.cursor/skills`. Bei `OpenClaw` kann `--path` entfallen, der Installer erkennt das Verzeichnis automatisch.
+Wenn du die Skills selbst manuell im Terminal installierst, kannst du diese beiden Zeilen direkt ausführen. Die Installer erkennen nach Möglichkeit ein bekanntes Skills-Verzeichnis automatisch und fragen sonst nach dem Installationsort.
+
+#### Claude Code
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.claude/skills
+npx evolink-seedance@latest -y --path ~/.claude/skills
+```
+
+#### OpenCode
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.opencode/skills
+npx evolink-seedance@latest -y --path ~/.opencode/skills
+```
+
+#### Cursor
+
+```bash
+npx evolink-gpt-image@latest -y --path .cursor/skills
+npx evolink-seedance@latest -y --path .cursor/skills
+```
+
+#### OpenClaw
+
+```bash
+npx evolink-gpt-image@latest -y
+npx evolink-seedance@latest -y
+```
+
+Die Terminal-Variante oben ist für die manuelle Installation gedacht. Die host-spezifischen Befehle unten sind besser geeignet, wenn ein AI-Agent die Skills ohne Rückfragen installieren soll.
 
 Wenn dir das nützlich ist, gib dem Repository gern einen Star. ⭐
 

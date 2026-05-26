@@ -47,12 +47,44 @@ Deneyin: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_m
 
 ### Hizli kurulum
 
+#### Dogrudan Terminal'de calistir
+
 ```bash
-npx evolink-gpt-image@latest -y --path <your-skills-dir>
-npx evolink-seedance@latest -y --path <your-skills-dir>
+npx evolink-gpt-image@latest
+npx evolink-seedance@latest
 ```
 
-`<your-skills-dir>` yerine agentinizin skills dizinini yazin: `Claude Code` için `~/.claude/skills`, `OpenCode` için `~/.opencode/skills`, `Cursor` için proje icindeki `.cursor/skills` veya `~/.cursor/skills`. `OpenClaw` tarafinda `--path` zorunlu degildir; kurucu dizini otomatik algilar.
+Eger kurulumu Terminal'de kendiniz manuel yapacaksaniz, bu iki satiri dogrudan calistirabilirsiniz. Kurucular bilinen bir skills dizinini otomatik algilamaya calisir; bulamazlarsa nereye kurulacagini sorarlar.
+
+#### Claude Code
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.claude/skills
+npx evolink-seedance@latest -y --path ~/.claude/skills
+```
+
+#### OpenCode
+
+```bash
+npx evolink-gpt-image@latest -y --path ~/.opencode/skills
+npx evolink-seedance@latest -y --path ~/.opencode/skills
+```
+
+#### Cursor
+
+```bash
+npx evolink-gpt-image@latest -y --path .cursor/skills
+npx evolink-seedance@latest -y --path .cursor/skills
+```
+
+#### OpenClaw
+
+```bash
+npx evolink-gpt-image@latest -y
+npx evolink-seedance@latest -y
+```
+
+Yukaridaki Terminal surumu manuel kurulum icindir. Asagidaki host-ozel komutlar ise bir AI Agent'in ek soru sormadan skills kurmasi icin daha uygundur.
 
 Faydalı bulursanız yıldız vermeyi düşünebilirsiniz. ⭐
 
