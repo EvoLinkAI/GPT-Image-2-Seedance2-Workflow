@@ -45,12 +45,8 @@ If you find this useful, consider giving it a star. ⭐
 
 ## 📰 News
 
-- **May 26, 2026:** Added 30 new [🌟 Community Showcase](#-community-showcase) creator works from the May 17–23 batch (slugs 104–133) — see [Update — May 17–23, 2026](#update--may-1723-2026)
-- **May 6, 2026:** Expanded [🌟 Community Showcase](#-community-showcase) with 33 new creator works from May 5–6 (slugs 71–103) — see [Update — May 5–6, 2026](#update--may-56-2026)
-- **May 2, 2026:** Added [🌟 Community Showcase](#-community-showcase) — 70 latest GPT Image 2 × Seedance 2.0 works from creators on X (April 29 – May 2)
-- **May 1, 2026:** Added Case 13–27 (dance sequence grid, comic page animation, luxury commercial, cinematic food video, game interface pipeline, single agent workflow, storyboard-first cost control, Claude shotlist MV, casting grid, 3D sculpt pipeline, IP cyberpunk remake, GTA city concept, K-Pop choreography, product video ad, character intro animation)
-- **April 25, 2026:** Added Case 10–12 (multi-frame storyboard, Japanese MV toolchain, Claude Code × character sheet), expanded Case 9 with ARPG simulation variants, added community showcase to Gallery
-- **April 23, 2026:** Repository launched with 9 curated workflow cases
+- **May 26, 2026:** Added 30 new [🌟 Community Showcase](#-community-showcase) creator works from the May 17–23 batch (slugs 104–133)
+- **May 6, 2026:** Expanded [🌟 Community Showcase](#-community-showcase) with 33 new creator works from May 5–6 (slugs 71–103)
 
 ## 📑 Menu
 

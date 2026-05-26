@@ -47,9 +47,6 @@ Si ce projet vous est utile, pensez a lui donner une etoile. ⭐
 
 - **26 mai 2026 :** ajout de 30 nouvelles créations à la [🌟 Vitrine de la Communauté](#-vitrine-de-la-communauté) depuis le lot du 17 au 23 mai (slugs 104–133)
 - **2 mai 2026 :** ajout de la [🌟 Vitrine de la Communauté](#-vitrine-de-la-communauté) — 70 derniers travaux GPT Image 2 × Seedance 2.0 de créateurs sur X (29 avril – 2 mai)
-- **1er mai 2026 :** ajout des cas 13-27 (grille de sequences de danse, animation de page de bande dessinee, publicite de luxe, video culinaire cinematographique, pipeline d'interface de jeu, workflow d'agent unique, controle des couts via storyboard, MV avec shotlist Claude, grille de casting, pipeline sculpt 3D, remake cyberpunk d'une IP, concept de ville GTA, choregraphie K-Pop, publicite video produit, animation d'introduction de personnage)
-- **25 avril 2026 :** ajout des cas 10-12 (storyboard multiframe, toolchain de clip japonais, Claude Code x fiche personnage), cas 9 etendu avec une variante de simulation ARPG, showcase communautaire ajoute a la galerie
-- **23 avril 2026 :** lancement du depot avec 9 cas de workflow selectionnes
 
 ## 📑 Menu
 

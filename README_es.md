@@ -46,9 +46,6 @@ Si te resulta util, considera darle una estrella. ⭐
 
 - **26 de mayo de 2026:** Añadidos 30 nuevos trabajos de creadores a la [🌟 Galería de la Comunidad](#-galería-de-la-comunidad) del lote del 17 al 23 de mayo (slugs 104–133)
 - **2 de mayo de 2026:** Añadida [🌟 Galería de la Comunidad](#-galería-de-la-comunidad) — 70 últimos trabajos con GPT Image 2 × Seedance 2.0 de creadores en X (29 de abril – 2 de mayo)
-- **1 de mayo de 2026:** Se agregaron los Casos 13–27 (cuadricula de secuencia de baile, animacion de pagina de comic, comercial de lujo, video cinematografico de comida, pipeline de interfaz de juego, flujo de trabajo con agente unico, control de costos con storyboard primero, MV con shotlist de Claude, cuadricula de casting, pipeline de escultura 3D, remake cyberpunk de IP, concepto de ciudad GTA, coreografia K-Pop, anuncio de video de producto, animacion de presentacion de personaje)
-- **25 de abril de 2026:** Se agregaron los Casos 10–12 (storyboard multi-cuadro, toolchain de MV japones, Claude Code × hoja de personaje), se expandio el Caso 9 con variantes de simulacion ARPG, se agrego galeria de la comunidad
-- **23 de abril de 2026:** Repositorio lanzado con 9 casos de flujo de trabajo seleccionados
 
 ## 📑 Menu
 

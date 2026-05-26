@@ -48,9 +48,6 @@ Wenn dir das nützlich ist, gib dem Repository gern einen Star. ⭐
 
 - **26. Mai 2026:** 30 neue Creator-Arbeiten zur [🌟 Community-Showcase](#-community-showcase) aus dem Batch vom 17.–23. Mai hinzugefügt (Slugs 104–133)
 - **2. Mai 2026:** [🌟 Community-Showcase](#-community-showcase) hinzugefügt — 70 aktuelle GPT Image 2 × Seedance 2.0 Werke von Creators auf X (29. April – 2. Mai)
-- **1. Mai 2026:** Fall 13–27 hinzugefügt (Tanzsequenz-Grid, Comic-Seite-Animation, Luxus-Werbespot, Filmisches Food-Video, Spiel-Interface-Pipeline, Single-Agent-Workflow, Storyboard-First-Kostenkontrolle, Claude-Shotlist-MV, Casting-Grid, 3D-Sculpt-Pipeline, IP-Cyberpunk-Remake, GTA-City-Konzept, K-Pop-Choreografie, Produkt-Video-Ad, Charakter-Intro-Animation)
-- **25. April 2026:** Fall 10–12 hinzugefügt (Multi-Frame-Storyboard, japanische MV-Toolchain, Claude Code × Charakterbogen), Fall 9 um ARPG-Simulationsvarianten erweitert, Community-Showcase zur Galerie hinzugefügt
-- **23. April 2026:** Repository mit 9 kuratierten Workflow-Fällen gestartet
 
 ## 📑 Menü
 

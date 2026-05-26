@@ -48,9 +48,6 @@ Faydalı bulursanız yıldız vermeyi düşünebilirsiniz. ⭐
 
 - **26 Mayıs 2026:** [🌟 Topluluk Vitrini](#-topluluk-vitrini) bölümüne 17–23 Mayıs grubundan 30 yeni iş eklendi (slug 104–133)
 - **2 Mayıs 2026:** [🌟 Topluluk Vitrini](#-topluluk-vitrini) eklendi — X'teki yaratıcıların en yeni 70 GPT Image 2 × Seedance 2.0 çalışması (29 Nisan – 2 Mayıs)
-- **1 Mayıs 2026:** Vaka 13–27 eklendi (dans dizisi ızgarası, çizgi roman sayfası animasyonu, lüks reklam, sinematik yemek videosu, oyun arayüzü pipeline'ı, tek agent iş akışı, storyboard öncelikli maliyet kontrolü, Claude çekim listesi MV, oyuncu seçimi ızgarası, 3D heykel pipeline'ı, IP siberpunk yeniden yapım, GTA şehir konsepti, K-Pop koreografi, ürün video reklamı, karakter tanıtım animasyonu)
-- **25 Nisan 2026:** Vaka 10–12 eklendi (çok kareli storyboard, Japon MV toolchain, Claude Code × karakter sheet'i), Vaka 9 ARPG simülasyon varyantıyla genişletildi, galeriye topluluk showcase'i eklendi
-- **23 Nisan 2026:** Depo 9 seçilmiş iş akışı vakasıyla yayına alındı
 
 ## 📑 Menü
 
