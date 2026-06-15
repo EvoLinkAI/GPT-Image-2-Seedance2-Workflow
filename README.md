@@ -6,7 +6,7 @@
 [![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts)
 [![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 [![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
-[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+[![awesome-gpt-image-2-API-and-Prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--API--and--Prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
 
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
@@ -24,21 +24,6 @@
 </div>
 
 
-## EvoLink Quick Start
-
-Use this workflow as the bridge from image generation to video generation:
-
-- GPT Image 2 model page: [GPT Image 2 prompts](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
-- Seedance 2.0 model page: [Seedance 2.0](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
-- API key: [create an EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
-- API examples: [Seedance-2.0-Gateway-Service](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-
-```bash
-export EVOLINK_API_KEY="your_key_here"
-npx evolink-gpt-image@latest -y
-npx evolink-seedance@latest -y
-```
-
 ## 🎬 Introduction
 
 **We collect proven workflows, prompt templates, and real creator examples for combining GPT Image 2 and Seedance 2.0 to produce high-quality AI videos.**
@@ -53,6 +38,10 @@ Try it: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_me
 
 - [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) adds GPT Image 2 image generation and editing to your agent
 - [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) adds Seedance 2 video generation to your agent
+- [Open GPT Image 2 prompts on EvoLink](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- [Open Seedance 2.0 on EvoLink](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- [Go to Seedance 2.0 API examples](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 
 ### Quick Install
 
