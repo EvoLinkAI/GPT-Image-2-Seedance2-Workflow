@@ -24,6 +24,34 @@
 </div>
 
 
+## EvoLink Quick Start
+
+Use this workflow as the bridge from GPT Image 2 image generation to Seedance 2.0 video generation:
+
+- [Open the GPT Image 2 model page](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- [Open the Seedance 2.0 model page](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- [Read Seedance 2.0 API docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- [Install the GPT Image 2 agent skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
+- [Install the Seedance 2.0 OpenClaw skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://api.evolink.ai/v1/videos/generations \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "seedance-2.0-image-to-video",
+    "prompt": "Animate this GPT Image 2 product storyboard with a slow dolly-in, realistic reflections, and smooth commercial camera motion",
+    "image": "https://example.com/gpt-image-2-storyboard.png",
+    "duration": 5,
+    "quality": "720p",
+    "aspect_ratio": "16:9"
+  }'
+```
+
 ## 🎬 Introduction
 
 **We collect proven workflows, prompt templates, and real creator examples for combining GPT Image 2 and Seedance 2.0 to produce high-quality AI videos.**
