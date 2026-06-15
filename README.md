@@ -28,12 +28,14 @@
 
 Use this workflow as the bridge from GPT Image 2 image generation to Seedance 2.0 video generation:
 
-- [Open the GPT Image 2 model page](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
-- [Open the Seedance 2.0 model page](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
-- [Read Seedance 2.0 API docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
-- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
-- [Install the GPT Image 2 agent skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [Install the Seedance 2.0 OpenClaw skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+<p align="center">
+  <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow"><strong>GPT Image 2</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow"><strong>Seedance 2.0</strong></a> &nbsp;·&nbsp;
+  <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow"><strong>Docs</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>GPT Image Skill</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw"><strong>Seedance Skill</strong></a>
+</p>
 
 ```bash
 export EVOLINK_API_KEY="your_key_here"
