@@ -99,15 +99,9 @@ If you find this useful, consider giving it a star. ⭐
 
 
 
-## 📰 News
-
-- **May 26, 2026:** Added 30 new [🌟 Community Showcase](#-community-showcase) creator works from the May 17–23 batch (slugs 104–133)
-- **May 6, 2026:** Expanded [🌟 Community Showcase](#-community-showcase) with 33 new creator works from May 5–6 (slugs 71–103)
-
 ## 📑 Menu
 
 - [🎬 Introduction](#-introduction)
-- [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [🎥 Storyboard Techniques](#-storyboard-techniques)
   - [Case 1: Standard Storyboard → Video (by @kiyoshi_shin)](#case-1-standard-storyboard--video-by-kiyoshi_shin)
