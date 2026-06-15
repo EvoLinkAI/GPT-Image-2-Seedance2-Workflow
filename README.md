@@ -24,6 +24,21 @@
 </div>
 
 
+## EvoLink Quick Start
+
+Use this workflow as the bridge from image generation to video generation:
+
+- GPT Image 2 model page: [GPT Image 2 prompts](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- Seedance 2.0 model page: [Seedance 2.0](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- API key: [create an EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
+- API examples: [Seedance-2.0-Gateway-Service](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+npx evolink-gpt-image@latest -y
+npx evolink-seedance@latest -y
+```
+
 ## 🎬 Introduction
 
 **We collect proven workflows, prompt templates, and real creator examples for combining GPT Image 2 and Seedance 2.0 to produce high-quality AI videos.**
