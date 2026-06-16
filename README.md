@@ -64,7 +64,7 @@ Most cases in this repository are curated from X/Twitter creators, community exp
 
 Try it: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
 
-### Quick Use
+### Use the Two-Skill Workflow
 
 - [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) adds GPT Image 2 image generation and editing to your agent
 - [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) adds Seedance 2 video generation to your agent
@@ -73,7 +73,7 @@ Try it: [GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_me
 - [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance2-Workflow)
 - [Go to Seedance 2.0 API examples](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 
-### Quick Install
+### Install the Skills
 
 #### Run Directly in Terminal
 
