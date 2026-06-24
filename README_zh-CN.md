@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=gptimage2-x-seedance2"><img src="images/logo.png" alt="GPT Image 2 × Seedance 2.0 Workflow Guide"></a>
+<a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><img src="images/logo.png" alt="GPT Image 2 × Seedance 2.5 Workflow Guide"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![awesome-seedance-2.0-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.0--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts)
-[![Seedance-2.0-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.0--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-[![awesome-seedance-2-guide](https://img.shields.io/badge/📦_awesome--seedance--2--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+[![awesome-seedance-2.5-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.5--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.5-prompts)
+[![Seedance-2.5-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.5--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
+[![awesome-seedance-2.5-guide](https://img.shields.io/badge/📦_awesome--seedance--2.5--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide)
 [![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
 
 
@@ -28,15 +28,15 @@
 
 ## 🎬 简介
 
-欢迎来到 GPT Image 2 × Seedance 2.0 工作流仓库！🤗
+欢迎来到 GPT Image 2 × Seedance 2.5 工作流仓库！🤗
 
-**我们收集了经过验证的工作流、提示词模板，以及创作者的真实案例，帮助你把 GPT Image 2 和 Seedance 2.0 结合起来，制作高质量 AI 视频。**
+**我们收集了经过验证的工作流、提示词模板，以及创作者的真实案例，帮助你把 GPT Image 2 和 Seedance 2.5 结合起来，制作高质量 AI 视频。**
 
 GPT Image 2 负责"画什么"和视觉一致性，Seedance 2.0 负责"怎么动"——把这些图像真正动画化为视频。两者结合后，构成了当前能力最强的 AI 视频生产流程之一。
 
 这个仓库中的大多数案例都整理自 X/Twitter 创作者、社区实验以及真实生产工作流。
 
-在 Evolink 上试试：[GPT Image 2 + Seedance 2.0](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2)
+在 Evolink 上试试：[GPT Image 2 + Seedance 2.5](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow)
 
 ### 快速使用
 
@@ -91,7 +91,7 @@ npx evolink-seedance@latest -y
 ## 📰 最新动态
 
 - **2026 年 5 月 26 日：** [🌟 社区精选](#-社区精选) 新增 30 个来自 5 月 17 日–23 日批次的作品（slug 104–133）
-- **2026 年 5 月 2 日：** 新增 [🌟 社区精选](#-社区精选) — X 平台 70 个最新 GPT Image 2 × Seedance 2.0 创作（4 月 29 日 – 5 月 2 日）
+- **2026 年 5 月 2 日：** 新增 [🌟 社区精选](#-社区精选) — X 平台 70 个最新 GPT Image 2 × Seedance 2.5 创作（4 月 29 日 – 5 月 2 日）
 
 ## 📑 目录
 
@@ -460,7 +460,7 @@ Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exac
 <!-- Case 16: Cinematic Food Video (by @kingofdairyque) -->
 ### 案例 16：[电影感美食视频](https://x.com/kingofdairyque/status/2049812014596599834)（by [@kingofdairyque](https://x.com/kingofdairyque)）
 
-用 GPT Image 2 + Seedance 2.0 制作超写实的料理过程视频，并用带时间戳的镜头描述精确控制每一段。每个时间戳段（0–2s、2–4s 等）定义一个具体的镜头角度和动作，让 Seedance 对 15 秒的整段序列拥有精确的把控。55 点赞 / 1K 播放。
+用 GPT Image 2 + Seedance 2.5 制作超写实的料理过程视频，并用带时间戳的镜头描述精确控制每一段。每个时间戳段（0–2s、2–4s 等）定义一个具体的镜头角度和动作，让 Seedance 对 15 秒的整段序列拥有精确的把控。55 点赞 / 1K 播放。
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/food_case16/input.jpg" width="400" alt="Food video storyboard input"></a></td>
@@ -1402,7 +1402,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/800f2bbc-d53b-4075-8e08-b63a2e69c3e3" width="240" controls></video>
 <br/><a href="https://x.com/IATheYoker/status/2057402859222933891"><b>@IATheYoker</b></a> · <sub>12,503 views</sub>
-<br/><sub>GPT Image 2 + Seedance 2.0 ya pueden crear intros del Mundi…</sub>
+<br/><sub>GPT Image 2 + Seedance 2.5 ya pueden crear intros del Mundi…</sub>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/4ba27b9b-0431-419e-90fe-6a25816979c5" width="240" controls></video>
 <br/><a href="https://x.com/hanifproduktif/status/2055828657172820269"><b>@hanifproduktif</b></a> · <sub>2,595 views</sub>
-<br/><sub>Replaced (GPT Image 2 + Seedance 2.0)</sub>
+<br/><sub>Replaced (GPT Image 2 + Seedance 2.5)</sub>
 </td>
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/11375c25-a923-44a1-a8a4-8d04acecab31" width="240" controls></video>
@@ -1655,7 +1655,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/c793c91a-d280-4c2d-b1fd-d64271f467a8" width="240" controls></video>
 <br/><a href="https://x.com/Xaroon_x/status/2051656676441293172"><b>@Xaroon_x</b></a>
-<br/><sub>Made with GPT Image 2 + Seedance 2.0 by @yapper_so</sub>
+<br/><sub>Made with GPT Image 2 + Seedance 2.5 by @yapper_so</sub>
 </td>
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/998a71a7-0481-4e93-a717-36295181449c" width="240" controls></video>
@@ -1683,7 +1683,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/0fc459c5-03bc-4fce-928c-40ff34acf989" width="240" controls></video>
 <br/><a href="https://x.com/aivoxyy/status/2051621547518083130"><b>@aivoxyy</b></a>
-<br/><sub>GPT Image 2 + Seedance 2.0 a police chase of new 2026 Chevr…</sub>
+<br/><sub>GPT Image 2 + Seedance 2.5 a police chase of new 2026 Chevr…</sub>
 </td>
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/ec1de9ac-97a4-4648-bab6-5ae8818377c1" width="240" controls></video>
@@ -1724,7 +1724,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/acf55ef2-63e7-420a-9d9a-61b97f2165f9" width="240" controls></video>
 <br/><a href="https://x.com/iswangwenbin/status/2051528434225234302"><b>@iswangwenbin</b></a>
-<br/><sub>我也来交作业了👇 Hyperframes + Mimo TTS + GPT Image 2 + Seedance 2.0</sub>
+<br/><sub>我也来交作业了👇 Hyperframes + Mimo TTS + GPT Image 2 + Seedance 2.5</sub>
 </td>
 <td align="center" valign="top" width="25%"></td>
 <td align="center" valign="top" width="25%"></td>
@@ -1750,7 +1750,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/3c851335-abd7-46bb-9f44-7e5b4ce44d8b" width="240" controls></video>
 <br/><a href="https://x.com/Saccc_c/status/2049769037660360897"><b>@Saccc_c</b></a> · <sub>115,759 views</sub>
-<br/><sub>用 GPT Image 2 + Seedance 2.0，还原了故宫太和殿的建造全过程🤩</sub>
+<br/><sub>用 GPT Image 2 + Seedance 2.5，还原了故宫太和殿的建造全过程🤩</sub>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 <td align="center" valign="top" width="25%">
 <video src="https://github.com/user-attachments/assets/70b7d00f-a84a-4b96-b53f-9ffc3cf25a67" width="240" controls></video>
 <br/><a href="https://x.com/QingQ77/status/2050201770320949363"><b>@QingQ77</b></a> · <sub>1,051 views</sub>
-<br/><sub>cool 使用 GPT Image 2 + Seedance 2.0 创建游戏界面的视频动画</sub>
+<br/><sub>cool 使用 GPT Image 2 + Seedance 2.5 创建游戏界面的视频动画</sub>
 </td>
 </tr></table>
 
@@ -2248,4 +2248,4 @@ Step 3: Add your Seedance prompt → generate
 
 如果你有更多有趣的工作流案例想要分享，欢迎联系我们，帮助我们扩展 Evolink 工作流库。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/GPT-Image-2-Seedance2-Workflow&type=Date)](https://www.star-history.com/#EvoLinkAI/GPT-Image-2-Seedance2-Workflow&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow&type=Date)](https://www.star-history.com/#EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow&Date)
